@@ -1,0 +1,2559 @@
+# Averta Copyright (c) {2020}
+msgid ""
+msgstr ""
+"Project-Id-Version: Phlox Pro Tools 1.5.1\n"
+"Report-Msgid-Bugs-To: http://averta.net/phlox/wordpress-theme/\n"
+"POT-Creation-Date: 2020-08-04 07:32:16+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2020-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Averta <info@averta.net>\n"
+"Language-Team: Averta <info@averta.net>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;__ngettext:1,2;__ngettext_noop:1,2;_n:1,2;_x:1,2c;_nx:4c,1,2;_nx_"
+"noop:4c,1,2;_ex:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_"
+"html_e;esc_attr_ex:1,2c;esc_html_x\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: includes/elements/countdown.php:281
+msgid "0"
+msgstr ""
+
+#: admin/includes/admin-the-functions.php:20
+msgid "%s Templates"
+msgstr ""
+
+#: admin/includes/admin-the-functions.php:36
+msgid "Phlox Templates"
+msgstr ""
+
+#: admin/includes/admin-the-functions.php:43
+msgid "Search template by name"
+msgstr ""
+
+#: admin/includes/compatibility/wpml/integration-classes/custom-label.php:27
+msgid "Custom Label: Text"
+msgstr ""
+
+#: admin/includes/compatibility/wpml/integration-classes/price-list.php:27
+msgid "Price List: Text"
+msgstr ""
+
+#: admin/includes/compatibility/wpml/integration-classes/price-list.php:29
+msgid "Price List: Price"
+msgstr ""
+
+#: admin/includes/compatibility/wpml/integration-classes/price-list.php:31
+msgid "Price List: Description"
+msgstr ""
+
+#: admin/includes/compatibility/wpml/integration-classes/price-list.php:33
+msgid "Price List: Link"
+msgstr ""
+
+#: admin/includes/compatibility/wpml/translate.php:19
+msgid "3D text box: Title"
+msgstr ""
+
+#: admin/includes/compatibility/wpml/translate.php:24
+msgid "3D text box: Subtitle"
+msgstr ""
+
+#: admin/includes/compatibility/wpml/translate.php:35
+msgid "Custom Label: Label"
+msgstr ""
+
+#: admin/includes/compatibility/wpml/translate.php:47
+msgid "Domain Checker: Text"
+msgstr ""
+
+#: admin/includes/compatibility/wpml/translate.php:52
+msgid "Domain Checker: Placeholder"
+msgstr ""
+
+#: admin/includes/compatibility/wpml/translate.php:69
+msgid "Progressbar: Text"
+msgstr ""
+
+#: admin/includes/compatibility/wpml/translate.php:80
+msgid "Weather: City Name"
+msgstr ""
+
+#: auxin-pro-tools.php:54
+msgid "Phlox Core Elements"
+msgstr ""
+
+#: auxin-pro-tools.php:65
+msgid "Phlox Pro"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Phlox Pro Tools"
+msgstr ""
+
+#: includes/classes/class-auxin-plugin-requirements.php:74
+msgid "%s plugin has been disabled automatically due to following reason:"
+msgstr ""
+
+#: includes/classes/class-auxin-plugin-requirements.php:95
+msgid "Note for admin"
+msgstr ""
+
+#: includes/classes/class-auxin-plugin-requirements.php:221
+msgid ""
+"%s plugin is required in order to use this plugin. Please install and "
+"activate the plugin."
+msgstr ""
+
+#: includes/classes/class-auxin-plugin-requirements.php:222
+#: includes/classes/class-auxin-plugin-requirements.php:324
+#: includes/classes/class-auxin-plugin-requirements.php:349
+msgid "How to upgrade"
+msgstr ""
+
+#: includes/classes/class-auxin-plugin-requirements.php:242
+msgid ""
+"The plugin requires %s plugin version %s or higher (current version is %s). "
+"Please update it to the latest version."
+msgstr ""
+
+#: includes/classes/class-auxin-plugin-requirements.php:323
+msgid ""
+"%s theme requires %s plugin version %s or higher in order to function "
+"property. Your current plugin version is %s, please update it to latest "
+"version."
+msgstr ""
+
+#: includes/classes/class-auxin-plugin-requirements.php:348
+msgid ""
+"The plugin requires %s theme version %s or higher in order to function "
+"property. Your current theme version is %s, please %s update to latest "
+"version %s."
+msgstr ""
+
+#: includes/classes/class-auxin-plugin-requirements.php:360
+msgid "%s path while checking the availability of theme not found."
+msgstr ""
+
+#: includes/classes/class-auxin-plugin-requirements.php:365
+msgid "%s function callback while checking the availability of theme not found."
+msgstr ""
+
+#: includes/classes/class-auxin-plugin-requirements.php:402
+msgid ""
+"PHP version %s or above is required for this plugin while your the current "
+"PHP version is %s."
+msgstr ""
+
+#: includes/classes/class-auxin-post-type-faq.php:51
+#: includes/elements/elementor/widgets/faq.php:56
+msgid "FAQ"
+msgstr ""
+
+#: includes/classes/class-auxin-post-type-faq.php:53
+msgid "All FAQs"
+msgstr ""
+
+#: includes/classes/class-auxin-post-type-faq.php:54
+msgid "Add New FAQ"
+msgstr ""
+
+#: includes/classes/class-auxin-post-type-faq.php:55
+msgid "Edit FAQ"
+msgstr ""
+
+#: includes/classes/class-auxin-post-type-faq.php:56
+msgid "New FAQ"
+msgstr ""
+
+#: includes/classes/class-auxin-post-type-faq.php:57
+msgid "View FAQs"
+msgstr ""
+
+#: includes/classes/class-auxin-post-type-faq.php:58
+msgid "Search FAQs"
+msgstr ""
+
+#: includes/classes/class-auxin-post-type-faq.php:59
+msgid "No FAQs found"
+msgstr ""
+
+#: includes/classes/class-auxin-post-type-faq.php:60
+msgid "No FAQs found in Trash"
+msgstr ""
+
+#: includes/classes/class-auxin-post-type-faq.php:100
+msgid "Search in FAQ Categories"
+msgstr ""
+
+#: includes/classes/class-auxin-post-type-faq.php:101
+msgid "All FAQ Categories"
+msgstr ""
+
+#: includes/classes/class-auxin-post-type-faq.php:105
+msgid "Edit FAQ Category"
+msgstr ""
+
+#: includes/classes/class-auxin-post-type-faq.php:106
+msgid "Update FAQ Category"
+msgstr ""
+
+#: includes/classes/class-auxin-post-type-faq.php:107
+msgid "Add new FAQ Category"
+msgstr ""
+
+#: includes/classes/class-auxin-post-type-faq.php:108
+msgid "New FAQ Category"
+msgstr ""
+
+#: includes/classes/class-auxin-post-type-faq.php:109
+#: includes/elements/elementor/widgets/faq.php:143
+#: includes/elements/elementor/widgets/faq.php:411 includes/elements/faq.php:58
+#: includes/elements/faq.php:190
+msgid "Categories"
+msgstr ""
+
+#: includes/classes/class-auxin-post-type-faq.php:119
+msgid "FAQ Category"
+msgstr ""
+
+#: includes/classes/class-auxin-post-type-faq.php:177
+msgid "Enter Question Here"
+msgstr ""
+
+#: includes/elements/3d-textbox.php:15
+#: includes/elements/elementor/widgets/3d-textbox.php:48
+msgid "3D text box"
+msgstr ""
+
+#: includes/elements/3d-textbox.php:18
+msgid "Image with text."
+msgstr ""
+
+#: includes/elements/3d-textbox.php:43 includes/elements/countdown.php:42
+#: includes/elements/elementor/widgets/3d-textbox.php:103
+#: includes/elements/elementor/widgets/3d-textbox.php:369
+#: includes/elements/elementor/widgets/countdown.php:473
+#: includes/elements/elementor/widgets/counter.php:252
+#: includes/elements/elementor/widgets/counter.php:311
+#: includes/elements/elementor/widgets/faq.php:174
+#: includes/elements/elementor/widgets/faq.php:699
+#: includes/elements/elementor/widgets/price-table.php:114
+#: includes/elements/elementor/widgets/price-table.php:298
+#: includes/elements/elementor/widgets/progressbar.php:174
+#: includes/elements/elementor/widgets/theme-builder/post-title.php:102
+#: includes/elements/elementor/widgets/theme-builder/post-title.php:191
+#: includes/elements/faq.php:44 includes/elements/faq.php:84
+#: includes/elements/progressbar.php:42
+msgid "Title"
+msgstr ""
+
+#: includes/elements/3d-textbox.php:44
+#: includes/elements/elementor/widgets/3d-textbox.php:104
+msgid "Text title, leave it empty if you don`t need title."
+msgstr ""
+
+#: includes/elements/3d-textbox.php:59
+#: includes/elements/elementor/widgets/3d-textbox.php:112
+#: includes/elements/elementor/widgets/3d-textbox.php:455
+msgid "Subtitle"
+msgstr ""
+
+#: includes/elements/3d-textbox.php:75
+#: includes/elements/elementor/widgets/custom-label.php:121
+#: includes/elements/elementor/widgets/price-list.php:149
+#: includes/elements/elementor/widgets/price-table.php:257
+#: includes/elements/elementor/widgets/theme-builder/post-featured-image.php:175
+#: includes/elements/elementor/widgets/theme-builder/post-featured-image.php:189
+#: includes/elements/elementor/widgets/theme-builder/post-info.php:366
+msgid "Link"
+msgstr ""
+
+#: includes/elements/3d-textbox.php:90
+#: includes/elements/elementor/widgets/3d-textbox.php:133
+msgid "Wrapper Background image"
+msgstr ""
+
+#: includes/elements/3d-textbox.php:105
+#: includes/elements/elementor/widgets/3d-textbox.php:156
+msgid "Wrapper Background image width"
+msgstr ""
+
+#: includes/elements/3d-textbox.php:120
+#: includes/elements/elementor/widgets/3d-textbox.php:172
+msgid "Wrapper Background Image height"
+msgstr ""
+
+#: includes/elements/3d-textbox.php:135
+#: includes/elements/elementor/widgets/3d-textbox.php:202
+msgid "Maximum Tilt"
+msgstr ""
+
+#: includes/elements/3d-textbox.php:136
+#: includes/elements/elementor/widgets/3d-textbox.php:203
+msgid "Set it to 0 in order to disable tilt."
+msgstr ""
+
+#: includes/elements/3d-textbox.php:146 includes/elements/3d-textbox.php:161
+#: includes/elements/3d-textbox.php:176 includes/elements/3d-textbox.php:190
+#: includes/elements/3d-textbox.php:204
+msgid "Appearance"
+msgstr ""
+
+#: includes/elements/3d-textbox.php:150
+#: includes/elements/elementor/widgets/3d-textbox.php:215
+msgid "Tilt Time"
+msgstr ""
+
+#: includes/elements/3d-textbox.php:151
+#: includes/elements/elementor/widgets/3d-textbox.php:216
+msgid "Use a value between 100 (fast) and 2000 (slow tilt)"
+msgstr ""
+
+#: includes/elements/3d-textbox.php:165
+#: includes/elements/elementor/widgets/3d-textbox.php:228
+msgid "3D Margin"
+msgstr ""
+
+#: includes/elements/3d-textbox.php:166
+#: includes/elements/elementor/widgets/3d-textbox.php:229
+msgid "Margin with background image."
+msgstr ""
+
+#: includes/elements/3d-textbox.php:180
+#: includes/elements/elementor/widgets/3d-textbox.php:287
+msgid "Text Box Width (%)"
+msgstr ""
+
+#: includes/elements/3d-textbox.php:194
+#: includes/elements/elementor/widgets/3d-textbox.php:303
+msgid "Text Box Height (%)"
+msgstr ""
+
+#: includes/elements/3d-textbox.php:208
+#: includes/elements/elementor/widgets/3d-textbox.php:319
+msgid "Text Position"
+msgstr ""
+
+#: includes/elements/3d-textbox.php:213
+#: includes/elements/elementor/widgets/3d-textbox.php:324
+msgid "Top Left"
+msgstr ""
+
+#: includes/elements/3d-textbox.php:214
+#: includes/elements/elementor/widgets/3d-textbox.php:325
+msgid "Top Center"
+msgstr ""
+
+#: includes/elements/3d-textbox.php:215
+#: includes/elements/elementor/widgets/3d-textbox.php:326
+msgid "Top Right"
+msgstr ""
+
+#: includes/elements/3d-textbox.php:216
+#: includes/elements/elementor/widgets/3d-textbox.php:327
+msgid "Center Left"
+msgstr ""
+
+#: includes/elements/3d-textbox.php:217
+#: includes/elements/elementor/widgets/3d-textbox.php:328
+msgid "Center Center"
+msgstr ""
+
+#: includes/elements/3d-textbox.php:218
+#: includes/elements/elementor/widgets/3d-textbox.php:329
+msgid "Center Right"
+msgstr ""
+
+#: includes/elements/3d-textbox.php:219
+#: includes/elements/elementor/widgets/3d-textbox.php:330
+msgid "Bottom Left"
+msgstr ""
+
+#: includes/elements/3d-textbox.php:220
+#: includes/elements/elementor/widgets/3d-textbox.php:331
+msgid "Bottom Center"
+msgstr ""
+
+#: includes/elements/3d-textbox.php:221
+#: includes/elements/elementor/widgets/3d-textbox.php:332
+msgid "Bottom Right"
+msgstr ""
+
+#: includes/elements/3d-textbox.php:232 includes/elements/countdown.php:170
+msgid "Extra class name"
+msgstr ""
+
+#: includes/elements/3d-textbox.php:233 includes/elements/countdown.php:171
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: includes/elements/countdown.php:15
+msgid "Countdown "
+msgstr ""
+
+#: includes/elements/countdown.php:18
+msgid "Countdown Widget"
+msgstr ""
+
+#: includes/elements/countdown.php:43
+msgid "Countdown title, leave it empty if you don`t need title."
+msgstr ""
+
+#: includes/elements/countdown.php:56
+#: includes/elements/elementor/widgets/countdown.php:113
+msgid "View as"
+msgstr ""
+
+#: includes/elements/countdown.php:62
+#: includes/elements/elementor/widgets/countdown.php:117
+msgid "Block"
+msgstr ""
+
+#: includes/elements/countdown.php:63
+#: includes/elements/elementor/widgets/countdown.php:118
+#: includes/elements/elementor/widgets/theme-builder/post-info.php:110
+msgid "Inline"
+msgstr ""
+
+#: includes/elements/countdown.php:64
+#: includes/elements/elementor/widgets/countdown.php:119
+msgid "Block Table"
+msgstr ""
+
+#: includes/elements/countdown.php:65
+#: includes/elements/elementor/widgets/countdown.php:120
+msgid "Inline Table"
+msgstr ""
+
+#: includes/elements/countdown.php:75
+#: includes/elements/elementor/widgets/countdown.php:128
+msgid "Target Time For Countdown"
+msgstr ""
+
+#: includes/elements/countdown.php:76
+msgid "Date and time format (yyyy/mm/dd hh:mm:ss)."
+msgstr ""
+
+#: includes/elements/countdown.php:89
+#: includes/elements/elementor/widgets/countdown.php:140
+#: includes/elements/elementor/widgets/countdown.php:370
+msgid "Seperator"
+msgstr ""
+
+#: includes/elements/countdown.php:90
+msgid "Countdown seperator, leave it empty if you don`t need seperator."
+msgstr ""
+
+#: includes/elements/countdown.php:104
+#: includes/elements/elementor/widgets/countdown.php:149
+msgid "Display Years"
+msgstr ""
+
+#: includes/elements/countdown.php:115
+msgid "Display Months"
+msgstr ""
+
+#: includes/elements/countdown.php:126
+#: includes/elements/elementor/widgets/countdown.php:173
+msgid "Display Days"
+msgstr ""
+
+#: includes/elements/countdown.php:137
+#: includes/elements/elementor/widgets/countdown.php:185
+msgid "Display Hours"
+msgstr ""
+
+#: includes/elements/countdown.php:148
+#: includes/elements/elementor/widgets/countdown.php:197
+msgid "Display Mintues"
+msgstr ""
+
+#: includes/elements/countdown.php:159
+#: includes/elements/elementor/widgets/countdown.php:209
+msgid "Display Seconds"
+msgstr ""
+
+#: includes/elements/countdown.php:245
+msgid "Years"
+msgstr ""
+
+#: includes/elements/countdown.php:250
+msgid "Months"
+msgstr ""
+
+#: includes/elements/countdown.php:255
+msgid "Days"
+msgstr ""
+
+#: includes/elements/countdown.php:260
+msgid "Hours"
+msgstr ""
+
+#: includes/elements/countdown.php:265
+msgid "Mintues"
+msgstr ""
+
+#: includes/elements/countdown.php:270
+msgid "Seconds"
+msgstr ""
+
+#: includes/elements/elementor/class-auxpro-elementor-elements.php:298
+msgid "Module class \"%s\" not found."
+msgstr ""
+
+#: includes/elements/elementor/modules/common.php:81
+msgid "Parallax Pro"
+msgstr ""
+
+#: includes/elements/elementor/modules/common.php:89
+msgid "Enable Parallax"
+msgstr ""
+
+#: includes/elements/elementor/modules/common.php:91
+#: includes/elements/elementor/modules/common.php:193
+#: includes/elements/elementor/modules/common.php:565
+#: includes/elements/elementor/widgets/3d-textbox.php:263
+#: includes/elements/elementor/widgets/countdown.php:151
+#: includes/elements/elementor/widgets/countdown.php:163
+#: includes/elements/elementor/widgets/countdown.php:175
+#: includes/elements/elementor/widgets/countdown.php:187
+#: includes/elements/elementor/widgets/countdown.php:199
+#: includes/elements/elementor/widgets/countdown.php:211
+#: includes/elements/elementor/widgets/custom-label.php:207
+#: includes/elements/elementor/widgets/faq.php:253
+#: includes/elements/elementor/widgets/faq.php:358
+#: includes/elements/elementor/widgets/faq.php:396
+#: includes/elements/elementor/widgets/flexible-carousel.php:246
+#: includes/elements/elementor/widgets/flexible-carousel.php:258
+#: includes/elements/elementor/widgets/flexible-recent-posts-grid-carousel.php:238
+#: includes/elements/elementor/widgets/flexible-recent-posts-grid-carousel.php:253
+#: includes/elements/elementor/widgets/flexible-recent-posts-grid-carousel.php:331
+#: includes/elements/elementor/widgets/price-list.php:165
+#: includes/elements/elementor/widgets/price-list.php:566
+#: includes/elements/elementor/widgets/price-list.php:652
+#: includes/elements/elementor/widgets/price-table.php:154
+#: includes/elements/elementor/widgets/price-table.php:288
+#: includes/elements/elementor/widgets/progressbar.php:126
+#: includes/elements/elementor/widgets/theme-builder/post-featured-image.php:138
+#: includes/elements/elementor/widgets/theme-builder/post-info.php:510
+#: includes/elements/elementor/widgets/theme-builder/post-title.php:111
+msgid "On"
+msgstr ""
+
+#: includes/elements/elementor/modules/common.php:92
+#: includes/elements/elementor/modules/common.php:194
+#: includes/elements/elementor/modules/common.php:566
+#: includes/elements/elementor/widgets/3d-textbox.php:264
+#: includes/elements/elementor/widgets/countdown.php:152
+#: includes/elements/elementor/widgets/countdown.php:164
+#: includes/elements/elementor/widgets/countdown.php:176
+#: includes/elements/elementor/widgets/countdown.php:188
+#: includes/elements/elementor/widgets/countdown.php:200
+#: includes/elements/elementor/widgets/countdown.php:212
+#: includes/elements/elementor/widgets/custom-label.php:208
+#: includes/elements/elementor/widgets/faq.php:254
+#: includes/elements/elementor/widgets/faq.php:359
+#: includes/elements/elementor/widgets/faq.php:397
+#: includes/elements/elementor/widgets/flexible-carousel.php:247
+#: includes/elements/elementor/widgets/flexible-carousel.php:259
+#: includes/elements/elementor/widgets/flexible-recent-posts-grid-carousel.php:239
+#: includes/elements/elementor/widgets/flexible-recent-posts-grid-carousel.php:254
+#: includes/elements/elementor/widgets/flexible-recent-posts-grid-carousel.php:332
+#: includes/elements/elementor/widgets/price-list.php:166
+#: includes/elements/elementor/widgets/price-list.php:567
+#: includes/elements/elementor/widgets/price-list.php:653
+#: includes/elements/elementor/widgets/price-table.php:155
+#: includes/elements/elementor/widgets/price-table.php:289
+#: includes/elements/elementor/widgets/progressbar.php:127
+#: includes/elements/elementor/widgets/theme-builder/post-featured-image.php:139
+#: includes/elements/elementor/widgets/theme-builder/post-info.php:509
+#: includes/elements/elementor/widgets/theme-builder/post-title.php:112
+msgid "Off"
+msgstr ""
+
+#: includes/elements/elementor/modules/common.php:102
+msgid "Parallax Origin"
+msgstr ""
+
+#: includes/elements/elementor/modules/common.php:105
+#: includes/elements/elementor/widgets/custom-label.php:301
+msgid "Top"
+msgstr ""
+
+#: includes/elements/elementor/modules/common.php:106
+msgid "Middle"
+msgstr ""
+
+#: includes/elements/elementor/modules/common.php:107
+#: includes/elements/elementor/widgets/custom-label.php:367
+msgid "Bottom"
+msgstr ""
+
+#: includes/elements/elementor/modules/common.php:119
+msgid "Parallax Velocity"
+msgstr ""
+
+#: includes/elements/elementor/modules/common.php:140
+msgid "Disable Parallax"
+msgstr ""
+
+#: includes/elements/elementor/modules/common.php:143
+#: includes/elements/elementor/modules/common.php:599
+msgid "On Mobile and Tablet"
+msgstr ""
+
+#: includes/elements/elementor/modules/common.php:144
+#: includes/elements/elementor/modules/common.php:600
+msgid "On Mobile"
+msgstr ""
+
+#: includes/elements/elementor/modules/common.php:145
+#: includes/elements/elementor/modules/common.php:601
+msgid "Under a screen size"
+msgstr ""
+
+#: includes/elements/elementor/modules/common.php:158
+#: includes/elements/elementor/modules/common.php:614
+msgid "Disable under size"
+msgstr ""
+
+#: includes/elements/elementor/modules/common.php:159
+#: includes/elements/elementor/modules/common.php:615
+msgid ""
+"Specifies a screen width under which the parallax will be disabled "
+"automatically. (in pixels)"
+msgstr ""
+
+#: includes/elements/elementor/modules/common.php:183
+msgid "Parallax Animations"
+msgstr ""
+
+#: includes/elements/elementor/modules/common.php:191
+msgid "Enable Parallax Animations"
+msgstr ""
+
+#: includes/elements/elementor/modules/common.php:204
+msgid "Move in Animations"
+msgstr ""
+
+#: includes/elements/elementor/modules/common.php:238
+msgid "Move out Animations"
+msgstr ""
+
+#: includes/elements/elementor/modules/common.php:272
+msgid "Horizontal Transform"
+msgstr ""
+
+#: includes/elements/elementor/modules/common.php:296
+msgid "Vertical Transform"
+msgstr ""
+
+#: includes/elements/elementor/modules/common.php:319
+msgid "Rotate"
+msgstr ""
+
+#: includes/elements/elementor/modules/common.php:343
+msgid "Scale"
+msgstr ""
+
+#: includes/elements/elementor/modules/common.php:366
+#: includes/elements/elementor/widgets/counter.php:184
+msgid "Easing"
+msgstr ""
+
+#: includes/elements/elementor/modules/common.php:422
+msgid "Duration"
+msgstr ""
+
+#: includes/elements/elementor/modules/common.php:440
+msgid "Delay"
+msgstr ""
+
+#: includes/elements/elementor/modules/common.php:457
+msgid "Viewport Top Origin"
+msgstr ""
+
+#: includes/elements/elementor/modules/common.php:480
+msgid "Viewport Bottom Origin"
+msgstr ""
+
+#: includes/elements/elementor/modules/common.php:503
+msgid "Element Top Origin"
+msgstr ""
+
+#: includes/elements/elementor/modules/common.php:555
+msgid "Sticky Pro"
+msgstr ""
+
+#: includes/elements/elementor/modules/common.php:563
+msgid "Enable Sticky"
+msgstr ""
+
+#: includes/elements/elementor/modules/common.php:576
+msgid "Space between elements"
+msgstr ""
+
+#: includes/elements/elementor/modules/common.php:596
+msgid "Disable Sticky"
+msgstr ""
+
+#: includes/elements/elementor/modules/common.php:662
+msgid "Page Cover"
+msgstr ""
+
+#: includes/elements/elementor/modules/common.php:670
+msgid "Enable Page Cover"
+msgstr ""
+
+#: includes/elements/elementor/modules/documents/archive.php:37
+#: includes/elements/elementor/modules/documents/archive.php:49
+#: includes/elements/elementor/modules/documents/archive.php:101
+msgid "Archive"
+msgstr ""
+
+#: includes/elements/elementor/modules/documents/archive.php:75
+#: includes/elements/elementor/modules/documents/archive.php:86
+msgid "%s Archive"
+msgstr ""
+
+#: includes/elements/elementor/modules/documents/archive.php:91
+msgid "Recent Posts"
+msgstr ""
+
+#: includes/elements/elementor/modules/documents/archive.php:92
+msgid "Date Archive"
+msgstr ""
+
+#: includes/elements/elementor/modules/documents/archive.php:93
+msgid "Author Archive"
+msgstr ""
+
+#: includes/elements/elementor/modules/documents/archive.php:94
+msgid "Search Results"
+msgstr ""
+
+#: includes/elements/elementor/modules/documents/single.php:38
+#: includes/elements/elementor/modules/documents/single.php:50
+msgid "Single"
+msgstr ""
+
+#: includes/elements/elementor/modules/section.php:71
+msgid "Box Container"
+msgstr ""
+
+#: includes/elements/elementor/modules/section.php:79
+msgid ""
+"Options to style the inner container. Use the following options if the "
+"section `content width` is set to `boxed`."
+msgstr ""
+
+#: includes/elements/elementor/modules/section.php:121
+#: includes/elements/elementor/widgets/3d-textbox.php:340
+#: includes/elements/elementor/widgets/countdown.php:239
+#: includes/elements/elementor/widgets/custom-label.php:644
+#: includes/elements/elementor/widgets/domain-checker.php:152
+#: includes/elements/elementor/widgets/domain-checker.php:179
+#: includes/elements/elementor/widgets/progressbar.php:335
+#: includes/elements/elementor/widgets/progressbar.php:364
+msgid "Background"
+msgstr ""
+
+#: includes/elements/elementor/modules/section.php:130
+#: includes/elements/elementor/widgets/shape.php:247
+msgid "Max Height"
+msgstr ""
+
+#: includes/elements/elementor/modules/section.php:160
+msgid "Mask Overlap"
+msgstr ""
+
+#: includes/elements/elementor/modules/section.php:163
+msgid "Yes"
+msgstr ""
+
+#: includes/elements/elementor/modules/section.php:164
+msgid "No"
+msgstr ""
+
+#: includes/elements/elementor/widgets/3d-textbox.php:96
+#: includes/elements/elementor/widgets/faq.php:765
+#: includes/elements/elementor/widgets/price-list.php:101
+#: includes/elements/elementor/widgets/progressbar.php:107
+#: includes/elements/elementor/widgets/theme-builder/post-excerpt.php:103
+msgid "Content"
+msgstr ""
+
+#: includes/elements/elementor/widgets/3d-textbox.php:120
+msgid "Title Link"
+msgstr ""
+
+#: includes/elements/elementor/widgets/3d-textbox.php:148
+#: includes/elements/elementor/widgets/custom-label.php:550
+msgid "Wrapper"
+msgstr ""
+
+#: includes/elements/elementor/widgets/3d-textbox.php:194
+msgid "Tilt"
+msgstr ""
+
+#: includes/elements/elementor/widgets/3d-textbox.php:241
+msgid "Tilt Scale"
+msgstr ""
+
+#: includes/elements/elementor/widgets/3d-textbox.php:261
+msgid "Reverse Direction"
+msgstr ""
+
+#: includes/elements/elementor/widgets/3d-textbox.php:280
+msgid "Text Box"
+msgstr ""
+
+#: includes/elements/elementor/widgets/3d-textbox.php:320
+#: includes/elements/elementor/widgets/faq.php:407
+#: includes/elements/faq.php:184
+msgid "Filter by categories or tags"
+msgstr ""
+
+#: includes/elements/elementor/widgets/3d-textbox.php:382
+#: includes/elements/elementor/widgets/countdown.php:303
+#: includes/elements/elementor/widgets/countdown.php:380
+#: includes/elements/elementor/widgets/countdown.php:483
+#: includes/elements/elementor/widgets/domain-checker.php:144
+#: includes/elements/elementor/widgets/domain-checker.php:211
+#: includes/elements/elementor/widgets/faq.php:577
+#: includes/elements/elementor/widgets/faq.php:709
+#: includes/elements/elementor/widgets/price-list.php:1042
+#: includes/elements/elementor/widgets/price-table.php:368
+#: includes/elements/elementor/widgets/progressbar.php:184
+#: includes/elements/elementor/widgets/progressbar.php:385
+#: includes/elements/elementor/widgets/shape.php:335
+#: includes/elements/elementor/widgets/theme-builder/post-featured-image.php:295
+msgid "Normal"
+msgstr ""
+
+#: includes/elements/elementor/widgets/3d-textbox.php:389
+#: includes/elements/elementor/widgets/3d-textbox.php:409
+#: includes/elements/elementor/widgets/3d-textbox.php:466
+#: includes/elements/elementor/widgets/countdown.php:310
+#: includes/elements/elementor/widgets/countdown.php:330
+#: includes/elements/elementor/widgets/countdown.php:387
+#: includes/elements/elementor/widgets/countdown.php:407
+#: includes/elements/elementor/widgets/countdown.php:490
+#: includes/elements/elementor/widgets/countdown.php:510
+#: includes/elements/elementor/widgets/custom-label.php:461
+#: includes/elements/elementor/widgets/domain-checker.php:218
+#: includes/elements/elementor/widgets/domain-checker.php:256
+#: includes/elements/elementor/widgets/domain-checker.php:315
+#: includes/elements/elementor/widgets/faq.php:716
+#: includes/elements/elementor/widgets/faq.php:736
+#: includes/elements/elementor/widgets/faq.php:773
+#: includes/elements/elementor/widgets/price-list.php:636
+#: includes/elements/elementor/widgets/price-list.php:732
+#: includes/elements/elementor/widgets/price-list.php:773
+#: includes/elements/elementor/widgets/price-list.php:829
+#: includes/elements/elementor/widgets/price-list.php:886
+#: includes/elements/elementor/widgets/price-list.php:944
+#: includes/elements/elementor/widgets/price-table.php:375
+#: includes/elements/elementor/widgets/price-table.php:395
+#: includes/elements/elementor/widgets/progressbar.php:191
+#: includes/elements/elementor/widgets/progressbar.php:211
+#: includes/elements/elementor/widgets/progressbar.php:392
+#: includes/elements/elementor/widgets/progressbar.php:412
+#: includes/elements/elementor/widgets/theme-builder/post-info.php:625
+#: includes/elements/elementor/widgets/theme-builder/post-info.php:654
+#: includes/elements/elementor/widgets/weather.php:182
+#: includes/elements/elementor/widgets/weather.php:228
+msgid "Color"
+msgstr ""
+
+#: includes/elements/elementor/widgets/3d-textbox.php:402
+#: includes/elements/elementor/widgets/countdown.php:323
+#: includes/elements/elementor/widgets/countdown.php:400
+#: includes/elements/elementor/widgets/countdown.php:503
+#: includes/elements/elementor/widgets/domain-checker.php:171
+#: includes/elements/elementor/widgets/domain-checker.php:249
+#: includes/elements/elementor/widgets/faq.php:615
+#: includes/elements/elementor/widgets/faq.php:729
+#: includes/elements/elementor/widgets/price-list.php:1079
+#: includes/elements/elementor/widgets/price-table.php:388
+#: includes/elements/elementor/widgets/progressbar.php:204
+#: includes/elements/elementor/widgets/progressbar.php:405
+#: includes/elements/elementor/widgets/shape.php:372
+#: includes/elements/elementor/widgets/theme-builder/post-featured-image.php:329
+msgid "Hover"
+msgstr ""
+
+#: includes/elements/elementor/widgets/3d-textbox.php:433
+#: includes/elements/elementor/widgets/3d-textbox.php:486
+msgid "Bottom space"
+msgstr ""
+
+#: includes/elements/elementor/widgets/countdown.php:55
+#: includes/elements/elementor/widgets/countdown.php:106
+msgid "Countdown"
+msgstr ""
+
+#: includes/elements/elementor/widgets/countdown.php:161
+msgid "Display Month"
+msgstr ""
+
+#: includes/elements/elementor/widgets/countdown.php:230
+msgid "Item Wrapper"
+msgstr ""
+
+#: includes/elements/elementor/widgets/countdown.php:248
+#: includes/elements/elementor/widgets/faq.php:561
+#: includes/elements/elementor/widgets/faq.php:819
+#: includes/elements/elementor/widgets/theme-builder/post-featured-image.php:400
+msgid "Border Radius"
+msgstr ""
+
+#: includes/elements/elementor/widgets/countdown.php:260
+#: includes/elements/elementor/widgets/countdown.php:455
+#: includes/elements/elementor/widgets/countdown.php:543
+#: includes/elements/elementor/widgets/custom-label.php:495
+#: includes/elements/elementor/widgets/custom-label.php:617
+#: includes/elements/elementor/widgets/faq.php:548
+#: includes/elements/elementor/widgets/faq.php:806
+#: includes/elements/elementor/widgets/price-list.php:1026
+#: includes/elements/elementor/widgets/price-table.php:429
+#: includes/elements/elementor/widgets/price-table.php:460
+#: includes/elements/elementor/widgets/price-table.php:546
+#: includes/elements/elementor/widgets/progressbar.php:244
+#: includes/elements/elementor/widgets/progressbar.php:302
+msgid "Margin"
+msgstr ""
+
+#: includes/elements/elementor/widgets/countdown.php:272
+#: includes/elements/elementor/widgets/countdown.php:440
+#: includes/elements/elementor/widgets/custom-label.php:630
+#: includes/elements/elementor/widgets/domain-checker.php:289
+#: includes/elements/elementor/widgets/faq.php:536
+#: includes/elements/elementor/widgets/faq.php:793
+#: includes/elements/elementor/widgets/price-list.php:1013
+#: includes/elements/elementor/widgets/price-table.php:607
+msgid "Padding"
+msgstr ""
+
+#: includes/elements/elementor/widgets/countdown.php:293
+#: includes/elements/elementor/widgets/progressbar.php:148
+#: includes/elements/elementor/widgets/progressbar.php:375
+#: includes/elements/progressbar.php:98
+msgid "Value"
+msgstr ""
+
+#: includes/elements/elementor/widgets/countdown.php:355
+#: includes/elements/elementor/widgets/countdown.php:432
+#: includes/elements/elementor/widgets/countdown.php:535
+#: includes/elements/elementor/widgets/custom-label.php:509
+#: includes/elements/elementor/widgets/domain-checker.php:230
+#: includes/elements/elementor/widgets/domain-checker.php:268
+#: includes/elements/elementor/widgets/price-table.php:421
+#: includes/elements/elementor/widgets/price-table.php:452
+#: includes/elements/elementor/widgets/progressbar.php:236
+#: includes/elements/elementor/widgets/progressbar.php:437
+msgid "Text Shadow"
+msgstr ""
+
+#: includes/elements/elementor/widgets/counter.php:48
+#: includes/elements/elementor/widgets/counter.php:105
+msgid "Counter"
+msgstr ""
+
+#: includes/elements/elementor/widgets/counter.php:112
+msgid "Starting Number"
+msgstr ""
+
+#: includes/elements/elementor/widgets/counter.php:124
+msgid "Ending Number"
+msgstr ""
+
+#: includes/elements/elementor/widgets/counter.php:136
+msgid "Number Prefix"
+msgstr ""
+
+#: includes/elements/elementor/widgets/counter.php:149
+msgid "Number Suffix"
+msgstr ""
+
+#: includes/elements/elementor/widgets/counter.php:155
+msgid "Plus"
+msgstr ""
+
+#: includes/elements/elementor/widgets/counter.php:162
+msgid "Animation Duration"
+msgstr ""
+
+#: includes/elements/elementor/widgets/counter.php:173
+msgid "Animation Delay"
+msgstr ""
+
+#: includes/elements/elementor/widgets/counter.php:225
+msgid "Thousand Separator"
+msgstr ""
+
+#: includes/elements/elementor/widgets/counter.php:228
+#: includes/elements/elementor/widgets/price-table.php:286
+msgid "Show"
+msgstr ""
+
+#: includes/elements/elementor/widgets/counter.php:229
+msgid "Hide"
+msgstr ""
+
+#: includes/elements/elementor/widgets/counter.php:236
+msgid "Separator"
+msgstr ""
+
+#: includes/elements/elementor/widgets/counter.php:258
+#: includes/elements/elementor/widgets/counter.php:259
+msgid "Cool Number"
+msgstr ""
+
+#: includes/elements/elementor/widgets/counter.php:266
+#: includes/elements/elementor/widgets/theme-builder/post-featured-image.php:205
+#: includes/elements/elementor/widgets/theme-builder/post-title.php:171
+msgid "View"
+msgstr ""
+
+#: includes/elements/elementor/widgets/counter.php:277
+msgid "Number"
+msgstr ""
+
+#: includes/elements/elementor/widgets/counter.php:285
+#: includes/elements/elementor/widgets/counter.php:319
+#: includes/elements/elementor/widgets/custom-label.php:218
+#: includes/elements/elementor/widgets/price-list.php:220
+#: includes/elements/elementor/widgets/theme-builder/post-content.php:139
+#: includes/elements/elementor/widgets/theme-builder/post-excerpt.php:132
+#: includes/elements/elementor/widgets/theme-builder/post-info.php:717
+#: includes/elements/elementor/widgets/theme-builder/post-title.php:199
+msgid "Text Color"
+msgstr ""
+
+#: includes/elements/elementor/widgets/custom-label.php:53
+msgid "Custom Label"
+msgstr ""
+
+#: includes/elements/elementor/widgets/custom-label.php:101
+#: includes/elements/elementor/widgets/custom-label.php:108
+#: includes/elements/elementor/widgets/custom-label.php:453
+#: includes/elements/elementor/widgets/domain-checker.php:102
+#: includes/elements/elementor/widgets/weather.php:103
+msgid "Label"
+msgstr ""
+
+#: includes/elements/elementor/widgets/custom-label.php:113
+msgid "Add your label text here .."
+msgstr ""
+
+#: includes/elements/elementor/widgets/custom-label.php:135
+#: includes/elements/elementor/widgets/custom-label.php:260
+#: includes/elements/elementor/widgets/theme-builder/post-title.php:121
+msgid "HTML Tag"
+msgstr ""
+
+#: includes/elements/elementor/widgets/custom-label.php:155
+#: includes/elements/elementor/widgets/shape.php:294
+#: includes/elements/elementor/widgets/theme-builder/post-content.php:110
+#: includes/elements/elementor/widgets/theme-builder/post-featured-image.php:111
+#: includes/elements/elementor/widgets/theme-builder/post-info.php:484
+#: includes/elements/elementor/widgets/theme-builder/post-title.php:141
+msgid "Alignment"
+msgstr ""
+
+#: includes/elements/elementor/widgets/custom-label.php:160
+#: includes/elements/elementor/widgets/custom-label.php:400
+#: includes/elements/elementor/widgets/faq.php:427
+#: includes/elements/elementor/widgets/faq.php:453
+#: includes/elements/elementor/widgets/price-list.php:506
+#: includes/elements/elementor/widgets/price-table.php:315
+#: includes/elements/elementor/widgets/shape.php:299
+#: includes/elements/elementor/widgets/theme-builder/post-content.php:114
+#: includes/elements/elementor/widgets/theme-builder/post-featured-image.php:115
+#: includes/elements/elementor/widgets/theme-builder/post-title.php:145
+#: includes/elements/elementor/widgets/weather.php:147
+#: includes/elements/faq.php:209 includes/elements/faq.php:237
+msgid "Left"
+msgstr ""
+
+#: includes/elements/elementor/widgets/custom-label.php:164
+#: includes/elements/elementor/widgets/faq.php:431
+#: includes/elements/elementor/widgets/faq.php:457
+#: includes/elements/elementor/widgets/flexible-carousel.php:199
+#: includes/elements/elementor/widgets/flexible-recent-posts-grid-carousel.php:208
+#: includes/elements/elementor/widgets/price-list.php:510
+#: includes/elements/elementor/widgets/shape.php:303
+#: includes/elements/elementor/widgets/theme-builder/post-content.php:118
+#: includes/elements/elementor/widgets/theme-builder/post-featured-image.php:119
+#: includes/elements/elementor/widgets/theme-builder/post-info.php:492
+#: includes/elements/elementor/widgets/theme-builder/post-title.php:149
+#: includes/elements/elementor/widgets/weather.php:151
+#: includes/elements/faq.php:213 includes/elements/faq.php:241
+msgid "Center"
+msgstr ""
+
+#: includes/elements/elementor/widgets/custom-label.php:168
+#: includes/elements/elementor/widgets/custom-label.php:334
+#: includes/elements/elementor/widgets/faq.php:435
+#: includes/elements/elementor/widgets/faq.php:461
+#: includes/elements/elementor/widgets/faq.php:465
+#: includes/elements/elementor/widgets/price-list.php:514
+#: includes/elements/elementor/widgets/price-table.php:319
+#: includes/elements/elementor/widgets/shape.php:307
+#: includes/elements/elementor/widgets/theme-builder/post-content.php:122
+#: includes/elements/elementor/widgets/theme-builder/post-featured-image.php:123
+#: includes/elements/elementor/widgets/theme-builder/post-title.php:153
+#: includes/elements/elementor/widgets/weather.php:155
+#: includes/elements/faq.php:217 includes/elements/faq.php:245
+#: includes/elements/faq.php:249
+msgid "Right"
+msgstr ""
+
+#: includes/elements/elementor/widgets/custom-label.php:186
+msgid "Highlighted Text Items"
+msgstr ""
+
+#: includes/elements/elementor/widgets/custom-label.php:195
+#: includes/elements/elementor/widgets/domain-checker.php:109
+#: includes/elements/elementor/widgets/price-list.php:110
+#: includes/elements/elementor/widgets/price-list.php:756
+#: includes/elements/elementor/widgets/price-list.php:764
+#: includes/elements/elementor/widgets/price-table.php:196
+#: includes/elements/elementor/widgets/progressbar.php:114
+#: includes/elements/elementor/widgets/theme-builder/post-info.php:692
+#: includes/elements/progressbar.php:56
+msgid "Text"
+msgstr ""
+
+#: includes/elements/elementor/widgets/custom-label.php:205
+#: includes/elements/elementor/widgets/price-list.php:163
+msgid "Customize this item"
+msgstr ""
+
+#: includes/elements/elementor/widgets/custom-label.php:245
+#: includes/elements/elementor/widgets/price-list.php:246
+#: includes/elements/elementor/widgets/price-list.php:804
+#: includes/elements/elementor/widgets/price-list.php:861
+#: includes/elements/elementor/widgets/price-list.php:918
+msgid "Text Margin"
+msgstr ""
+
+#: includes/elements/elementor/widgets/custom-label.php:278
+msgid "Position Type"
+msgstr ""
+
+#: includes/elements/elementor/widgets/custom-label.php:282
+#: includes/elements/elementor/widgets/faq.php:521
+#: includes/elements/elementor/widgets/price-list.php:418
+#: includes/elements/elementor/widgets/theme-builder/post-info.php:106
+#: includes/elements/elementor/widgets/theme-builder/post-info.php:396
+msgid "Default"
+msgstr ""
+
+#: includes/elements/elementor/widgets/custom-label.php:283
+msgid "Static"
+msgstr ""
+
+#: includes/elements/elementor/widgets/custom-label.php:284
+msgid "Relative"
+msgstr ""
+
+#: includes/elements/elementor/widgets/custom-label.php:285
+msgid "Absolute"
+msgstr ""
+
+#: includes/elements/elementor/widgets/custom-label.php:433
+msgid "Text Items"
+msgstr ""
+
+#: includes/elements/elementor/widgets/custom-label.php:472
+#: includes/elements/elementor/widgets/price-list.php:784
+#: includes/elements/elementor/widgets/price-list.php:841
+#: includes/elements/elementor/widgets/price-list.php:898
+#: includes/elements/elementor/widgets/price-list.php:956
+msgid "Hover Color"
+msgstr ""
+
+#: includes/elements/elementor/widgets/custom-label.php:517
+#: includes/elements/elementor/widgets/shape.php:219
+#: includes/elements/elementor/widgets/theme-builder/post-featured-image.php:259
+msgid "Max Width"
+msgstr ""
+
+#: includes/elements/elementor/widgets/custom-label.php:558
+#: includes/elements/elementor/widgets/price-list.php:452
+#: includes/elements/elementor/widgets/price-list.php:706
+#: includes/elements/elementor/widgets/shape.php:136
+#: includes/elements/elementor/widgets/theme-builder/post-featured-image.php:224
+#: includes/elements/elementor/widgets/theme-builder/post-info.php:567
+msgid "Width"
+msgstr ""
+
+#: includes/elements/elementor/widgets/custom-label.php:587
+#: includes/elements/elementor/widgets/price-list.php:429
+#: includes/elements/elementor/widgets/shape.php:168
+#: includes/elements/elementor/widgets/theme-builder/post-info.php:596
+msgid "Height"
+msgstr ""
+
+#: includes/elements/elementor/widgets/custom-label.php:654
+#: includes/elements/elementor/widgets/faq.php:585
+msgid "Box Shadow"
+msgstr ""
+
+#: includes/elements/elementor/widgets/domain-checker.php:58
+msgid "Domain Checker"
+msgstr ""
+
+#: includes/elements/elementor/widgets/domain-checker.php:119
+msgid "Input Placeholder"
+msgstr ""
+
+#: includes/elements/elementor/widgets/domain-checker.php:134
+msgid "Button"
+msgstr ""
+
+#: includes/elements/elementor/widgets/domain-checker.php:200
+#: includes/elements/elementor/widgets/price-table.php:247
+#: includes/elements/elementor/widgets/price-table.php:249
+msgid "Button Text"
+msgstr ""
+
+#: includes/elements/elementor/widgets/domain-checker.php:307
+msgid "Loader"
+msgstr ""
+
+#: includes/elements/elementor/widgets/domain-checker.php:326
+#: includes/elements/elementor/widgets/price-list.php:967
+#: includes/elements/elementor/widgets/theme-builder/post-info.php:283
+#: includes/elements/elementor/widgets/theme-builder/post-info.php:670
+msgid "Size"
+msgstr ""
+
+#: includes/elements/elementor/widgets/faq.php:108
+msgid "All Categories"
+msgstr ""
+
+#: includes/elements/elementor/widgets/faq.php:136
+#: includes/elements/elementor/widgets/flexible-recent-posts-grid-carousel.php:285
+msgid "Query"
+msgstr ""
+
+#: includes/elements/elementor/widgets/faq.php:144 includes/elements/faq.php:59
+msgid "Specifies a category that you want to show faq items from it."
+msgstr ""
+
+#: includes/elements/elementor/widgets/faq.php:155
+#: includes/elements/faq.php:282
+msgid "Number of items to show"
+msgstr ""
+
+#: includes/elements/elementor/widgets/faq.php:156
+#: includes/elements/faq.php:283
+msgid "Leave it empty to show all items"
+msgstr ""
+
+#: includes/elements/elementor/widgets/faq.php:168 includes/elements/faq.php:74
+msgid "Order by"
+msgstr ""
+
+#: includes/elements/elementor/widgets/faq.php:172
+#: includes/elements/elementor/widgets/theme-builder/post-info.php:130
+#: includes/elements/faq.php:82
+msgid "Date"
+msgstr ""
+
+#: includes/elements/elementor/widgets/faq.php:173 includes/elements/faq.php:83
+msgid "Menu Order"
+msgstr ""
+
+#: includes/elements/elementor/widgets/faq.php:175 includes/elements/faq.php:85
+msgid "ID"
+msgstr ""
+
+#: includes/elements/elementor/widgets/faq.php:176 includes/elements/faq.php:86
+msgid "Random"
+msgstr ""
+
+#: includes/elements/elementor/widgets/faq.php:177
+#: includes/elements/elementor/widgets/theme-builder/post-info.php:133
+#: includes/elements/elementor/widgets/theme-builder/post-info.php:337
+#: includes/elements/faq.php:87
+msgid "Comments"
+msgstr ""
+
+#: includes/elements/elementor/widgets/faq.php:178 includes/elements/faq.php:88
+msgid "Date Modified"
+msgstr ""
+
+#: includes/elements/elementor/widgets/faq.php:179
+#: includes/elements/elementor/widgets/theme-builder/post-info.php:129
+#: includes/elements/faq.php:89
+msgid "Author"
+msgstr ""
+
+#: includes/elements/elementor/widgets/faq.php:180 includes/elements/faq.php:90
+msgid "Inserted Post IDs"
+msgstr ""
+
+#: includes/elements/elementor/widgets/faq.php:188 includes/elements/faq.php:99
+msgid "Order"
+msgstr ""
+
+#: includes/elements/elementor/widgets/faq.php:192
+#: includes/elements/faq.php:107
+msgid "Descending"
+msgstr ""
+
+#: includes/elements/elementor/widgets/faq.php:193
+#: includes/elements/faq.php:108
+msgid "Ascending"
+msgstr ""
+
+#: includes/elements/elementor/widgets/faq.php:201
+#: includes/elements/faq.php:130
+msgid "Only FAQs"
+msgstr ""
+
+#: includes/elements/elementor/widgets/faq.php:202
+#: includes/elements/faq.php:131
+msgid ""
+"If you intend to display ONLY specific FAQs, you should specify them here. "
+"You have to insert the post IDs that are separated by comma (eg. "
+"53,34,87,25)."
+msgstr ""
+
+#: includes/elements/elementor/widgets/faq.php:210
+#: includes/elements/faq.php:144
+msgid "Include FAQs"
+msgstr ""
+
+#: includes/elements/elementor/widgets/faq.php:211
+#: includes/elements/faq.php:145
+msgid ""
+"If you intend to include additional FAQs, you should specify them here. You "
+"have to insert the Post IDs that are separated by comma (eg. 53,34,87,25)"
+msgstr ""
+
+#: includes/elements/elementor/widgets/faq.php:219
+msgid "Exclude FAQs"
+msgstr ""
+
+#: includes/elements/elementor/widgets/faq.php:220
+msgid ""
+"If you intend to exclude specific FAQs from result, you should specify the "
+"FAQs here. You have to insert the Post IDs that are separated by comma (eg. "
+"53,34,87,25)"
+msgstr ""
+
+#: includes/elements/elementor/widgets/faq.php:228
+#: includes/elements/faq.php:117
+msgid "Start offset"
+msgstr ""
+
+#: includes/elements/elementor/widgets/faq.php:229
+#: includes/elements/faq.php:118
+msgid "Number of post to displace or pass over."
+msgstr ""
+
+#: includes/elements/elementor/widgets/faq.php:243
+#: includes/elements/elementor/widgets/faq.php:250
+#: includes/elements/faq.php:373
+msgid "Paginate"
+msgstr ""
+
+#: includes/elements/elementor/widgets/faq.php:251
+#: includes/elements/faq.php:374
+msgid "Paginates the FAQ items"
+msgstr ""
+
+#: includes/elements/elementor/widgets/faq.php:263
+#: includes/elements/faq.php:385
+msgid "Items number perpage"
+msgstr ""
+
+#: includes/elements/elementor/widgets/faq.php:281
+msgid "Transition"
+msgstr ""
+
+#: includes/elements/elementor/widgets/faq.php:289
+#: includes/elements/faq.php:296
+msgid "Transition duration on reveal"
+msgstr ""
+
+#: includes/elements/elementor/widgets/faq.php:290
+#: includes/elements/faq.php:297
+msgid ""
+"The transition duration while the element is going to be appeared "
+"(milliseconds)."
+msgstr ""
+
+#: includes/elements/elementor/widgets/faq.php:302
+#: includes/elements/faq.php:308
+msgid "Delay between reveal"
+msgstr ""
+
+#: includes/elements/elementor/widgets/faq.php:303
+#: includes/elements/faq.php:309
+msgid "The delay between each sequence of revealing transitions (milliseconds)."
+msgstr ""
+
+#: includes/elements/elementor/widgets/faq.php:315
+#: includes/elements/faq.php:320
+msgid "Transition duration on hide"
+msgstr ""
+
+#: includes/elements/elementor/widgets/faq.php:316
+#: includes/elements/faq.php:321
+msgid ""
+"The transition duration while the element is going to be hidden "
+"(milliseconds)."
+msgstr ""
+
+#: includes/elements/elementor/widgets/faq.php:328
+#: includes/elements/faq.php:332
+msgid "Delay between hide"
+msgstr ""
+
+#: includes/elements/elementor/widgets/faq.php:329
+#: includes/elements/faq.php:333
+msgid "The delay between each sequence of hiding transitions (milliseconds)."
+msgstr ""
+
+#: includes/elements/elementor/widgets/faq.php:347
+#: includes/elements/elementor/widgets/faq.php:355
+#: includes/elements/faq.php:344
+msgid "Deeplink"
+msgstr ""
+
+#: includes/elements/elementor/widgets/faq.php:356
+#: includes/elements/faq.php:345
+msgid ""
+"Enables the deeplink feature, it updates URL based on page and filter "
+"status."
+msgstr ""
+
+#: includes/elements/elementor/widgets/faq.php:367
+#: includes/elements/faq.php:356
+msgid "Deeplink slug"
+msgstr ""
+
+#: includes/elements/elementor/widgets/faq.php:368
+#: includes/elements/faq.php:357
+msgid "Specifies the deeplink slug value in address bar."
+msgstr ""
+
+#: includes/elements/elementor/widgets/faq.php:386
+msgid "Filter"
+msgstr ""
+
+#: includes/elements/elementor/widgets/faq.php:394
+#: includes/elements/faq.php:171
+msgid "Show filters"
+msgstr ""
+
+#: includes/elements/elementor/widgets/faq.php:406
+#: includes/elements/faq.php:183
+msgid "Filter by"
+msgstr ""
+
+#: includes/elements/elementor/widgets/faq.php:412
+#: includes/elements/faq.php:191
+msgid "Tags"
+msgstr ""
+
+#: includes/elements/elementor/widgets/faq.php:423
+#: includes/elements/faq.php:202
+msgid "Filter Control Alignment"
+msgstr ""
+
+#: includes/elements/elementor/widgets/faq.php:449
+#: includes/elements/faq.php:230
+msgid "FAQ Accordion Layout"
+msgstr ""
+
+#: includes/elements/elementor/widgets/faq.php:479
+#: includes/elements/faq.php:258
+msgid "Filter button style"
+msgstr ""
+
+#: includes/elements/elementor/widgets/faq.php:480
+#: includes/elements/faq.php:259
+msgid "Style of filter buttons."
+msgstr ""
+
+#: includes/elements/elementor/widgets/faq.php:484
+#: includes/elements/faq.php:272
+msgid "Slide up"
+msgstr ""
+
+#: includes/elements/elementor/widgets/faq.php:485
+#: includes/elements/faq.php:273
+msgid "Fill"
+msgstr ""
+
+#: includes/elements/elementor/widgets/faq.php:486
+#: includes/elements/faq.php:274
+msgid "Cube"
+msgstr ""
+
+#: includes/elements/elementor/widgets/faq.php:487
+#: includes/elements/faq.php:275
+msgid "Underline"
+msgstr ""
+
+#: includes/elements/elementor/widgets/faq.php:488
+#: includes/elements/faq.php:276
+msgid "Float frame"
+msgstr ""
+
+#: includes/elements/elementor/widgets/faq.php:489
+#: includes/elements/faq.php:277
+msgid "Borderd"
+msgstr ""
+
+#: includes/elements/elementor/widgets/faq.php:490
+#: includes/elements/faq.php:278
+msgid "Float underline"
+msgstr ""
+
+#: includes/elements/elementor/widgets/faq.php:510
+msgid "Title Bar"
+msgstr ""
+
+#: includes/elements/elementor/widgets/faq.php:518
+msgid "Mouse Cursor"
+msgstr ""
+
+#: includes/elements/elementor/widgets/faq.php:522
+msgid "Pointer"
+msgstr ""
+
+#: includes/elements/elementor/widgets/faq.php:523
+msgid "Zoom"
+msgstr ""
+
+#: includes/elements/elementor/widgets/faq.php:524
+msgid "Help"
+msgstr ""
+
+#: includes/elements/elementor/widgets/faq.php:623
+#: includes/elements/elementor/widgets/faq.php:661
+#: includes/elements/elementor/widgets/price-list.php:1050
+msgid "Box Shadow Normal"
+msgstr ""
+
+#: includes/elements/elementor/widgets/faq.php:653
+msgid "Selected"
+msgstr ""
+
+#: includes/elements/elementor/widgets/flexible-carousel.php:58
+msgid "Flexible Carousel"
+msgstr ""
+
+#: includes/elements/elementor/widgets/flexible-carousel.php:106
+msgid "General"
+msgstr ""
+
+#: includes/elements/elementor/widgets/flexible-carousel.php:116
+msgid "Select a template"
+msgstr ""
+
+#: includes/elements/elementor/widgets/flexible-carousel.php:126
+msgid "Slides"
+msgstr ""
+
+#: includes/elements/elementor/widgets/flexible-carousel.php:136
+#: includes/elements/elementor/widgets/flexible-recent-posts-grid-carousel.php:123
+msgid "Columns"
+msgstr ""
+
+#: includes/elements/elementor/widgets/flexible-carousel.php:142
+#: includes/elements/elementor/widgets/flexible-recent-posts-grid-carousel.php:129
+msgid "Inherited from larger"
+msgstr ""
+
+#: includes/elements/elementor/widgets/flexible-carousel.php:157
+#: includes/elements/elementor/widgets/flexible-recent-posts-grid-carousel.php:157
+msgid "Column space"
+msgstr ""
+
+#: includes/elements/elementor/widgets/flexible-carousel.php:158
+#: includes/elements/elementor/widgets/flexible-recent-posts-grid-carousel.php:158
+msgid "Specifies horizontal space between items (pixel)."
+msgstr ""
+
+#: includes/elements/elementor/widgets/flexible-carousel.php:167
+#: includes/elements/elementor/widgets/flexible-recent-posts-grid-carousel.php:170
+msgid "Navigation type"
+msgstr ""
+
+#: includes/elements/elementor/widgets/flexible-carousel.php:171
+#: includes/elements/elementor/widgets/flexible-recent-posts-grid-carousel.php:174
+msgid "Move per column"
+msgstr ""
+
+#: includes/elements/elementor/widgets/flexible-carousel.php:172
+#: includes/elements/elementor/widgets/flexible-recent-posts-grid-carousel.php:175
+msgid "Move per page"
+msgstr ""
+
+#: includes/elements/elementor/widgets/flexible-carousel.php:173
+#: includes/elements/elementor/widgets/flexible-recent-posts-grid-carousel.php:176
+msgid "Smooth scroll"
+msgstr ""
+
+#: includes/elements/elementor/widgets/flexible-carousel.php:181
+#: includes/elements/elementor/widgets/flexible-recent-posts-grid-carousel.php:187
+msgid "Navigation control"
+msgstr ""
+
+#: includes/elements/elementor/widgets/flexible-carousel.php:185
+#: includes/elements/elementor/widgets/flexible-recent-posts-grid-carousel.php:191
+#: includes/elements/elementor/widgets/theme-builder/post-featured-image.php:179
+#: includes/elements/elementor/widgets/theme-builder/post-info.php:395
+msgid "None"
+msgstr ""
+
+#: includes/elements/elementor/widgets/flexible-carousel.php:186
+#: includes/elements/elementor/widgets/flexible-recent-posts-grid-carousel.php:192
+msgid "Arrows"
+msgstr ""
+
+#: includes/elements/elementor/widgets/flexible-carousel.php:187
+#: includes/elements/elementor/widgets/flexible-recent-posts-grid-carousel.php:193
+msgid "Bullets"
+msgstr ""
+
+#: includes/elements/elementor/widgets/flexible-carousel.php:195
+#: includes/elements/elementor/widgets/flexible-recent-posts-grid-carousel.php:204
+msgid "Control Position"
+msgstr ""
+
+#: includes/elements/elementor/widgets/flexible-carousel.php:200
+#: includes/elements/elementor/widgets/flexible-recent-posts-grid-carousel.php:209
+msgid "Side"
+msgstr ""
+
+#: includes/elements/elementor/widgets/flexible-carousel.php:211
+#: includes/elements/elementor/widgets/flexible-recent-posts-grid-carousel.php:220
+msgid "Control Skin"
+msgstr ""
+
+#: includes/elements/elementor/widgets/flexible-carousel.php:215
+#: includes/elements/elementor/widgets/flexible-recent-posts-grid-carousel.php:224
+msgid "boxed"
+msgstr ""
+
+#: includes/elements/elementor/widgets/flexible-carousel.php:216
+#: includes/elements/elementor/widgets/flexible-recent-posts-grid-carousel.php:225
+msgid "Long Arrow"
+msgstr ""
+
+#: includes/elements/elementor/widgets/flexible-carousel.php:227
+msgid "Arrow Size"
+msgstr ""
+
+#: includes/elements/elementor/widgets/flexible-carousel.php:231
+msgid "Small"
+msgstr ""
+
+#: includes/elements/elementor/widgets/flexible-carousel.php:232
+msgid "Medium"
+msgstr ""
+
+#: includes/elements/elementor/widgets/flexible-carousel.php:233
+msgid "Large"
+msgstr ""
+
+#: includes/elements/elementor/widgets/flexible-carousel.php:244
+#: includes/elements/elementor/widgets/flexible-recent-posts-grid-carousel.php:236
+msgid "Loop navigation"
+msgstr ""
+
+#: includes/elements/elementor/widgets/flexible-carousel.php:256
+#: includes/elements/elementor/widgets/flexible-recent-posts-grid-carousel.php:251
+msgid "Autoplay carousel"
+msgstr ""
+
+#: includes/elements/elementor/widgets/flexible-carousel.php:268
+#: includes/elements/elementor/widgets/flexible-recent-posts-grid-carousel.php:266
+msgid "Autoplay delay"
+msgstr ""
+
+#: includes/elements/elementor/widgets/flexible-carousel.php:269
+#: includes/elements/elementor/widgets/flexible-recent-posts-grid-carousel.php:267
+msgid "Specifies the delay between auto-forwarding in seconds."
+msgstr ""
+
+#: includes/elements/elementor/widgets/flexible-recent-posts-grid-carousel.php:57
+msgid "Flexible Posts"
+msgstr ""
+
+#: includes/elements/elementor/widgets/flexible-recent-posts-grid-carousel.php:105
+#: includes/elements/elementor/widgets/price-list.php:407
+#: includes/elements/elementor/widgets/theme-builder/post-info.php:101
+msgid "Layout"
+msgstr ""
+
+#: includes/elements/elementor/widgets/flexible-recent-posts-grid-carousel.php:113
+msgid "Select Post Column"
+msgstr ""
+
+#: includes/elements/elementor/widgets/flexible-recent-posts-grid-carousel.php:144
+msgid "Display items as"
+msgstr ""
+
+#: includes/elements/elementor/widgets/flexible-recent-posts-grid-carousel.php:148
+msgid "Grid"
+msgstr ""
+
+#: includes/elements/elementor/widgets/flexible-recent-posts-grid-carousel.php:149
+msgid "Carousel"
+msgstr ""
+
+#: includes/elements/elementor/widgets/flexible-recent-posts-grid-carousel.php:303
+msgid "Number of posts to show"
+msgstr ""
+
+#: includes/elements/elementor/widgets/flexible-recent-posts-grid-carousel.php:322
+msgid "Pagination"
+msgstr ""
+
+#: includes/elements/elementor/widgets/flexible-recent-posts-grid-carousel.php:329
+msgid "Display Pagination"
+msgstr ""
+
+#: includes/elements/elementor/widgets/flexible-recent-posts-grid-carousel.php:341
+msgid "Pagination Skin"
+msgstr ""
+
+#: includes/elements/elementor/widgets/flexible-recent-posts-grid-carousel.php:346
+msgid "Round, No Page Border"
+msgstr ""
+
+#: includes/elements/elementor/widgets/flexible-recent-posts-grid-carousel.php:350
+msgid "Round, No Border"
+msgstr ""
+
+#: includes/elements/elementor/widgets/flexible-recent-posts-grid-carousel.php:354
+msgid "Round, With Border"
+msgstr ""
+
+#: includes/elements/elementor/widgets/flexible-recent-posts-grid-carousel.php:358
+msgid "Square, No Page Border"
+msgstr ""
+
+#: includes/elements/elementor/widgets/flexible-recent-posts-grid-carousel.php:362
+msgid "Square, No Border"
+msgstr ""
+
+#: includes/elements/elementor/widgets/flexible-recent-posts-grid-carousel.php:366
+msgid "Square, With Border"
+msgstr ""
+
+#: includes/elements/elementor/widgets/price-list.php:53
+msgid "Price List"
+msgstr ""
+
+#: includes/elements/elementor/widgets/price-list.php:120
+#: includes/elements/elementor/widgets/price-list.php:936
+#: includes/elements/elementor/widgets/price-table.php:206
+#: includes/elements/elementor/widgets/progressbar.php:259
+#: includes/elements/elementor/widgets/theme-builder/post-info.php:392
+#: includes/elements/elementor/widgets/theme-builder/post-info.php:646
+msgid "Icon"
+msgstr ""
+
+#: includes/elements/elementor/widgets/price-list.php:129
+#: includes/elements/elementor/widgets/price-table.php:143
+msgid "Price"
+msgstr ""
+
+#: includes/elements/elementor/widgets/price-list.php:139
+#: includes/elements/elementor/widgets/price-table.php:124
+msgid "Description"
+msgstr ""
+
+#: includes/elements/elementor/widgets/price-list.php:176
+msgid "Custom Class Name"
+msgstr ""
+
+#: includes/elements/elementor/widgets/price-list.php:189
+#: includes/elements/elementor/widgets/price-table.php:215
+msgid "Icon Color"
+msgstr ""
+
+#: includes/elements/elementor/widgets/price-list.php:204
+#: includes/elements/elementor/widgets/price-list.php:987
+#: includes/elements/elementor/widgets/weather.php:202
+#: includes/elements/elementor/widgets/weather.php:248
+msgid "Icon Margin"
+msgstr ""
+
+#: includes/elements/elementor/widgets/price-list.php:261
+msgid "Text HTML Tag"
+msgstr ""
+
+#: includes/elements/elementor/widgets/price-list.php:284
+msgid "Price Text Color"
+msgstr ""
+
+#: includes/elements/elementor/widgets/price-list.php:312
+msgid "Price Text Margin"
+msgstr ""
+
+#: includes/elements/elementor/widgets/price-list.php:329
+msgid "Description Color"
+msgstr ""
+
+#: includes/elements/elementor/widgets/price-list.php:357
+msgid "Description Margin"
+msgstr ""
+
+#: includes/elements/elementor/widgets/price-list.php:374
+msgid "List Items"
+msgstr ""
+
+#: includes/elements/elementor/widgets/price-list.php:415
+msgid "Direction"
+msgstr ""
+
+#: includes/elements/elementor/widgets/price-list.php:419
+msgid "Vertical"
+msgstr ""
+
+#: includes/elements/elementor/widgets/price-list.php:420
+msgid "Horizontal"
+msgstr ""
+
+#: includes/elements/elementor/widgets/price-list.php:478
+msgid "Space Between Columns"
+msgstr ""
+
+#: includes/elements/elementor/widgets/price-list.php:502
+#: includes/elements/elementor/widgets/weather.php:143
+msgid "Align"
+msgstr ""
+
+#: includes/elements/elementor/widgets/price-list.php:538
+#: includes/elements/elementor/widgets/theme-builder/post-info.php:455
+msgid "List"
+msgstr ""
+
+#: includes/elements/elementor/widgets/price-list.php:546
+msgid "Space Between Rows"
+msgstr ""
+
+#: includes/elements/elementor/widgets/price-list.php:564
+msgid "Display Connector"
+msgstr ""
+
+#: includes/elements/elementor/widgets/price-list.php:577
+#: includes/elements/elementor/widgets/price-list.php:663
+#: includes/elements/elementor/widgets/theme-builder/post-content.php:102
+#: includes/elements/elementor/widgets/theme-builder/post-excerpt.php:124
+#: includes/elements/elementor/widgets/theme-builder/post-info.php:521
+msgid "Style"
+msgstr ""
+
+#: includes/elements/elementor/widgets/price-list.php:580
+#: includes/elements/elementor/widgets/price-list.php:666
+#: includes/elements/elementor/widgets/theme-builder/post-info.php:524
+msgid "Solid"
+msgstr ""
+
+#: includes/elements/elementor/widgets/price-list.php:581
+#: includes/elements/elementor/widgets/price-list.php:667
+#: includes/elements/elementor/widgets/theme-builder/post-info.php:525
+msgid "Double"
+msgstr ""
+
+#: includes/elements/elementor/widgets/price-list.php:582
+#: includes/elements/elementor/widgets/price-list.php:668
+#: includes/elements/elementor/widgets/theme-builder/post-info.php:526
+msgid "Dotted"
+msgstr ""
+
+#: includes/elements/elementor/widgets/price-list.php:583
+#: includes/elements/elementor/widgets/price-list.php:669
+#: includes/elements/elementor/widgets/theme-builder/post-info.php:527
+msgid "Dashed"
+msgstr ""
+
+#: includes/elements/elementor/widgets/price-list.php:598
+#: includes/elements/elementor/widgets/price-list.php:685
+#: includes/elements/elementor/widgets/theme-builder/post-info.php:543
+msgid "Weight"
+msgstr ""
+
+#: includes/elements/elementor/widgets/price-list.php:617
+msgid "Left Space"
+msgstr ""
+
+#: includes/elements/elementor/widgets/price-list.php:650
+msgid "Display Divider"
+msgstr ""
+
+#: includes/elements/elementor/widgets/price-list.php:820
+msgid "Price Text"
+msgstr ""
+
+#: includes/elements/elementor/widgets/price-list.php:877
+msgid "Description Text"
+msgstr ""
+
+#: includes/elements/elementor/widgets/price-list.php:1005
+msgid "List Item"
+msgstr ""
+
+#: includes/elements/elementor/widgets/price-list.php:1087
+msgid "Box Shadow Hover"
+msgstr ""
+
+#: includes/elements/elementor/widgets/price-table.php:58
+msgid "Price Table"
+msgstr ""
+
+#: includes/elements/elementor/widgets/price-table.php:107
+#: includes/elements/elementor/widgets/price-table.php:338
+msgid "Header"
+msgstr ""
+
+#: includes/elements/elementor/widgets/price-table.php:115
+#: includes/elements/elementor/widgets/price-table.php:125
+msgid "Price Table title, leave it empty if you don`t need title."
+msgstr ""
+
+#: includes/elements/elementor/widgets/price-table.php:117
+msgid "Enter your title"
+msgstr ""
+
+#: includes/elements/elementor/widgets/price-table.php:127
+msgid "Enter your description"
+msgstr ""
+
+#: includes/elements/elementor/widgets/price-table.php:136
+#: includes/elements/elementor/widgets/price-table.php:475
+msgid "Pricing"
+msgstr ""
+
+#: includes/elements/elementor/widgets/price-table.php:152
+msgid "Sale"
+msgstr ""
+
+#: includes/elements/elementor/widgets/price-table.php:164
+msgid "Original Price"
+msgstr ""
+
+#: includes/elements/elementor/widgets/price-table.php:176
+msgid "Period"
+msgstr ""
+
+#: includes/elements/elementor/widgets/price-table.php:178
+msgid "Monthly"
+msgstr ""
+
+#: includes/elements/elementor/widgets/price-table.php:187
+#: includes/elements/elementor/widgets/price-table.php:515
+msgid "Features"
+msgstr ""
+
+#: includes/elements/elementor/widgets/price-table.php:223
+msgid "Feature Item"
+msgstr ""
+
+#: includes/elements/elementor/widgets/price-table.php:227
+msgid "Feature #1"
+msgstr ""
+
+#: includes/elements/elementor/widgets/price-table.php:240
+#: includes/elements/elementor/widgets/price-table.php:578
+msgid "Footer"
+msgstr ""
+
+#: includes/elements/elementor/widgets/price-table.php:268
+msgid "Additional Information"
+msgstr ""
+
+#: includes/elements/elementor/widgets/price-table.php:279
+#: includes/elements/elementor/widgets/price-table.php:631
+msgid "Ribbon"
+msgstr ""
+
+#: includes/elements/elementor/widgets/price-table.php:310
+msgid "Position"
+msgstr ""
+
+#: includes/elements/elementor/widgets/price-table.php:347
+msgid "Header Background"
+msgstr ""
+
+#: includes/elements/elementor/widgets/price-table.php:357
+msgid "Body Background"
+msgstr ""
+
+#: includes/elements/elementor/widgets/price-table.php:411
+msgid "Title Typography"
+msgstr ""
+
+#: includes/elements/elementor/widgets/price-table.php:442
+msgid "Description Typography"
+msgstr ""
+
+#: includes/elements/elementor/widgets/price-table.php:484
+msgid "Price Typography"
+msgstr ""
+
+#: includes/elements/elementor/widgets/price-table.php:494
+msgid "Original Price Typography"
+msgstr ""
+
+#: includes/elements/elementor/widgets/price-table.php:504
+msgid "Period Typography"
+msgstr ""
+
+#: includes/elements/elementor/widgets/price-table.php:523
+#: includes/elements/elementor/widgets/progressbar.php:279
+msgid "Icon Size"
+msgstr ""
+
+#: includes/elements/elementor/widgets/price-table.php:559
+msgid "Feature Typography"
+msgstr ""
+
+#: includes/elements/elementor/widgets/price-table.php:586
+msgid "Button Background Color"
+msgstr ""
+
+#: includes/elements/elementor/widgets/price-table.php:598
+msgid "Button Typography"
+msgstr ""
+
+#: includes/elements/elementor/widgets/price-table.php:620
+msgid "Additional Info Typography"
+msgstr ""
+
+#: includes/elements/elementor/widgets/price-table.php:640
+msgid "Ribbon Typography"
+msgstr ""
+
+#: includes/elements/elementor/widgets/price-table.php:649
+msgid "Ribbon Background Color"
+msgstr ""
+
+#: includes/elements/elementor/widgets/progressbar.php:58
+msgid "Progressbar"
+msgstr ""
+
+#: includes/elements/elementor/widgets/progressbar.php:115
+#: includes/elements/progressbar.php:57
+msgid "Progressbar text, leave it empty if you don`t need title."
+msgstr ""
+
+#: includes/elements/elementor/widgets/progressbar.php:124
+msgid "Display icon"
+msgstr ""
+
+#: includes/elements/elementor/widgets/progressbar.php:136
+#: includes/elements/progressbar.php:83
+msgid "Icon for text"
+msgstr ""
+
+#: includes/elements/elementor/widgets/progressbar.php:267
+msgid "Icon color"
+msgstr ""
+
+#: includes/elements/elementor/widgets/progressbar.php:317
+msgid "Background Progressbar"
+msgstr ""
+
+#: includes/elements/elementor/widgets/progressbar.php:325
+msgid "Background Height"
+msgstr ""
+
+#: includes/elements/elementor/widgets/progressbar.php:346
+msgid "Inner Progressbar"
+msgstr ""
+
+#: includes/elements/elementor/widgets/progressbar.php:354
+msgid "Inner Height"
+msgstr ""
+
+#: includes/elements/elementor/widgets/progressbar.php:446
+msgid "Top space"
+msgstr ""
+
+#: includes/elements/elementor/widgets/shape.php:57
+msgid "Simple Shape"
+msgstr ""
+
+#: includes/elements/elementor/widgets/shape.php:105
+msgid "Shape"
+msgstr ""
+
+#: includes/elements/elementor/widgets/shape.php:113
+#: includes/elements/elementor/widgets/theme-builder/post-info.php:125
+msgid "Type"
+msgstr ""
+
+#: includes/elements/elementor/widgets/shape.php:116
+msgid "Rectangle"
+msgstr ""
+
+#: includes/elements/elementor/widgets/shape.php:117
+msgid "Circle"
+msgstr ""
+
+#: includes/elements/elementor/widgets/shape.php:200
+msgid "Aspect Ratio"
+msgstr ""
+
+#: includes/elements/elementor/widgets/shape.php:275
+msgid "Rotation"
+msgstr ""
+
+#: includes/elements/elementor/widgets/shape.php:320
+msgid "Border radius"
+msgstr ""
+
+#: includes/elements/elementor/widgets/template.php:57
+#: includes/elements/elementor/widgets/template.php:105
+msgid "Template"
+msgstr ""
+
+#: includes/elements/elementor/widgets/template.php:120
+msgid "You Haven’t Saved Templates Yet."
+msgstr ""
+
+#: includes/elements/elementor/widgets/template.php:121
+msgid "Want to learn more about Elementor library?"
+msgstr ""
+
+#: includes/elements/elementor/widgets/template.php:121
+msgid "Click Here"
+msgstr ""
+
+#: includes/elements/elementor/widgets/template.php:131
+msgid "Select"
+msgstr ""
+
+#: includes/elements/elementor/widgets/template.php:144
+msgid "Choose Template"
+msgstr ""
+
+#: includes/elements/elementor/widgets/theme-builder/post-content.php:59
+msgid "Post Content"
+msgstr ""
+
+#: includes/elements/elementor/widgets/theme-builder/post-content.php:126
+#: includes/elements/elementor/widgets/theme-builder/post-title.php:157
+msgid "Justified"
+msgstr ""
+
+#: includes/elements/elementor/widgets/theme-builder/post-content.php:245
+#: public/templates/theme-parts/entry/single-faq.php:44
+msgid "Pages:"
+msgstr ""
+
+#: includes/elements/elementor/widgets/theme-builder/post-content.php:249
+msgid "Page"
+msgstr ""
+
+#: includes/elements/elementor/widgets/theme-builder/post-excerpt.php:59
+msgid "Post Excerpt"
+msgstr ""
+
+#: includes/elements/elementor/widgets/theme-builder/post-excerpt.php:110
+msgid "Trim Excerpt"
+msgstr ""
+
+#: includes/elements/elementor/widgets/theme-builder/post-featured-image.php:51
+msgid "Featured Image"
+msgstr ""
+
+#: includes/elements/elementor/widgets/theme-builder/post-featured-image.php:95
+#: includes/elements/elementor/widgets/theme-builder/post-featured-image.php:216
+msgid "Image"
+msgstr ""
+
+#: includes/elements/elementor/widgets/theme-builder/post-featured-image.php:136
+msgid "Preload image"
+msgstr ""
+
+#: includes/elements/elementor/widgets/theme-builder/post-featured-image.php:148
+msgid "While loading image display"
+msgstr ""
+
+#: includes/elements/elementor/widgets/theme-builder/post-featured-image.php:163
+msgid "Placeholder color while loading image"
+msgstr ""
+
+#: includes/elements/elementor/widgets/theme-builder/post-featured-image.php:180
+msgid "Media File"
+msgstr ""
+
+#: includes/elements/elementor/widgets/theme-builder/post-featured-image.php:181
+#: includes/elements/elementor/widgets/theme-builder/post-info.php:378
+msgid "Custom URL"
+msgstr ""
+
+#: includes/elements/elementor/widgets/theme-builder/post-featured-image.php:194
+msgid "https://your-link.com"
+msgstr ""
+
+#: includes/elements/elementor/widgets/theme-builder/post-featured-image.php:302
+#: includes/elements/elementor/widgets/theme-builder/post-featured-image.php:336
+msgid "Opacity"
+msgstr ""
+
+#: includes/elements/elementor/widgets/theme-builder/post-featured-image.php:362
+msgid "Transition Duration"
+msgstr ""
+
+#: includes/elements/elementor/widgets/theme-builder/post-featured-image.php:379
+msgid "Hover Animation"
+msgstr ""
+
+#: includes/elements/elementor/widgets/theme-builder/post-info.php:50
+msgid "Post Info"
+msgstr ""
+
+#: includes/elements/elementor/widgets/theme-builder/post-info.php:94
+msgid "Meta Data"
+msgstr ""
+
+#: includes/elements/elementor/widgets/theme-builder/post-info.php:131
+msgid "Time"
+msgstr ""
+
+#: includes/elements/elementor/widgets/theme-builder/post-info.php:132
+msgid "Time Diff"
+msgstr ""
+
+#: includes/elements/elementor/widgets/theme-builder/post-info.php:134
+msgid "Terms"
+msgstr ""
+
+#: includes/elements/elementor/widgets/theme-builder/post-info.php:135
+#: includes/elements/elementor/widgets/theme-builder/post-info.php:153
+#: includes/elements/elementor/widgets/theme-builder/post-info.php:216
+#: includes/elements/elementor/widgets/theme-builder/post-info.php:351
+#: includes/elements/elementor/widgets/theme-builder/post-info.php:397
+msgid "Custom"
+msgstr ""
+
+#: includes/elements/elementor/widgets/theme-builder/post-info.php:143
+msgid "Date Format"
+msgstr ""
+
+#: includes/elements/elementor/widgets/theme-builder/post-info.php:164
+msgid "After"
+msgstr ""
+
+#: includes/elements/elementor/widgets/theme-builder/post-info.php:177
+msgid "Display by modified date"
+msgstr ""
+
+#: includes/elements/elementor/widgets/theme-builder/post-info.php:188
+msgid "Custom Date Format"
+msgstr ""
+
+#: includes/elements/elementor/widgets/theme-builder/post-info.php:198
+#: includes/elements/elementor/widgets/theme-builder/post-info.php:237
+#. translators: %s: Allowed data letters (see:
+#. http:php.net/manual/en/function.date.php).
+#. translators: %s: Allowed time letters (see:
+#. http:php.net/manual/en/function.time.php).
+msgid "Use the letters: %s"
+msgstr ""
+
+#: includes/elements/elementor/widgets/theme-builder/post-info.php:207
+msgid "Time Format"
+msgstr ""
+
+#: includes/elements/elementor/widgets/theme-builder/post-info.php:226
+msgid "Custom Time Format"
+msgstr ""
+
+#: includes/elements/elementor/widgets/theme-builder/post-info.php:246
+msgid "Taxonomy"
+msgstr ""
+
+#: includes/elements/elementor/widgets/theme-builder/post-info.php:260
+msgid "Before"
+msgstr ""
+
+#: includes/elements/elementor/widgets/theme-builder/post-info.php:272
+msgid "Avatar"
+msgstr ""
+
+#: includes/elements/elementor/widgets/theme-builder/post-info.php:297
+msgid "Custom Format"
+msgstr ""
+
+#: includes/elements/elementor/widgets/theme-builder/post-info.php:309
+#: includes/elements/elementor/widgets/theme-builder/post-info.php:312
+#: includes/elements/elementor/widgets/theme-builder/post-info.php:830
+msgid "No Comments"
+msgstr ""
+
+#: includes/elements/elementor/widgets/theme-builder/post-info.php:323
+#: includes/elements/elementor/widgets/theme-builder/post-info.php:326
+#: includes/elements/elementor/widgets/theme-builder/post-info.php:831
+msgid "One Comment"
+msgstr ""
+
+#: includes/elements/elementor/widgets/theme-builder/post-info.php:340
+#: includes/elements/elementor/widgets/theme-builder/post-info.php:832
+msgid "%s Comments"
+msgstr ""
+
+#: includes/elements/elementor/widgets/theme-builder/post-info.php:409
+msgid "Choose Icon"
+msgstr ""
+
+#: includes/elements/elementor/widgets/theme-builder/post-info.php:463
+msgid "Space Between"
+msgstr ""
+
+#: includes/elements/elementor/widgets/theme-builder/post-info.php:488
+msgid "Start"
+msgstr ""
+
+#: includes/elements/elementor/widgets/theme-builder/post-info.php:496
+msgid "End"
+msgstr ""
+
+#: includes/elements/elementor/widgets/theme-builder/post-info.php:507
+msgid "Divider"
+msgstr ""
+
+#: includes/elements/elementor/widgets/theme-builder/post-info.php:700
+msgid "Indent"
+msgstr ""
+
+#: includes/elements/elementor/widgets/theme-builder/post-info.php:749
+msgid "Choose"
+msgstr ""
+
+#: includes/elements/elementor/widgets/theme-builder/post-title.php:58
+msgid "Post Title"
+msgstr ""
+
+#: includes/elements/elementor/widgets/theme-builder/post-title.php:109
+msgid "Display Link"
+msgstr ""
+
+#: includes/elements/elementor/widgets/theme-builder/post-title.php:180
+msgid "Title Trim"
+msgstr ""
+
+#: includes/elements/elementor/widgets/weather.php:59
+msgid "Weather"
+msgstr ""
+
+#: includes/elements/elementor/widgets/weather.php:110
+msgid "API KEY"
+msgstr ""
+
+#: includes/elements/elementor/widgets/weather.php:120
+#: includes/elements/elementor/widgets/weather.php:174
+msgid "City Name"
+msgstr ""
+
+#: includes/elements/elementor/widgets/weather.php:130
+msgid "Unit format"
+msgstr ""
+
+#: includes/elements/elementor/widgets/weather.php:134
+msgid "Temperature in Fahrenheit"
+msgstr ""
+
+#: includes/elements/elementor/widgets/weather.php:135
+msgid "Temperature in Celsius"
+msgstr ""
+
+#: includes/elements/elementor/widgets/weather.php:220
+msgid "Temperature"
+msgstr ""
+
+#: includes/elements/elementor/widgets/weather.php:292
+msgid "Something went wrong!"
+msgstr ""
+
+#: includes/elements/faq.php:16
+msgid "FAQ "
+msgstr ""
+
+#: includes/elements/faq.php:19
+msgid "Filterable FAQ Element"
+msgstr ""
+
+#: includes/elements/faq.php:45
+msgid "FAQ Element Title, leave it empty if you don`t need title."
+msgstr ""
+
+#: includes/elements/faq.php:157
+msgid "Exclude posts"
+msgstr ""
+
+#: includes/elements/faq.php:158
+msgid ""
+"If you intend to exclude specific posts from result, you should specify the "
+"posts here. You have to insert the Post IDs that are separated by comma "
+"(eg. 53,34,87,25)"
+msgstr ""
+
+#: includes/elements/faq.php:304 includes/elements/faq.php:316
+#: includes/elements/faq.php:328 includes/elements/faq.php:340
+msgid "Transitions"
+msgstr ""
+
+#: includes/elements/faq.php:547 includes/elements/faq.php:569
+msgid "all"
+msgstr ""
+
+#: includes/elements/faq.php:569
+msgid "Category:"
+msgstr ""
+
+#: includes/elements/progressbar.php:15
+msgid "Progressbar "
+msgstr ""
+
+#: includes/elements/progressbar.php:18
+msgid "Progressbar Widget"
+msgstr ""
+
+#: includes/elements/progressbar.php:43
+msgid "Progressbar title, leave it empty if you don`t need title."
+msgstr ""
+
+#: includes/elements/progressbar.php:70
+msgid "Display Icon"
+msgstr ""
+
+#: includes/elements/progressbar.php:71
+msgid "Display icon for text"
+msgstr ""
+
+#: includes/elements/progressbar.php:99
+msgid "Value of Progressbar in Percentage."
+msgstr ""
+
+#: includes/elements/progressbar.php:111
+msgid "Progressbar Background Height"
+msgstr ""
+
+#: includes/elements/progressbar.php:112
+msgid "Height of background progressbar in pixel."
+msgstr ""
+
+#: includes/elements/progressbar.php:125
+msgid "Progressbar Inner Height"
+msgstr ""
+
+#: includes/elements/progressbar.php:126
+msgid "Height of Inner progressbar in pixel."
+msgstr ""
+
+#: includes/frontend-ajax.php:17
+msgid "Security Error."
+msgstr ""
+
+#: includes/frontend-ajax.php:21
+msgid "Please enter a domain name."
+msgstr ""
+
+#: includes/frontend-ajax.php:39
+msgid "Congratulations! %s is available!"
+msgstr ""
+
+#: includes/frontend-ajax.php:43
+msgid "Sorry! %s is already taken!"
+msgstr ""
+
+#: includes/frontend-ajax.php:47
+msgid "WHOIS server not found for that TLD."
+msgstr ""
+
+#: includes/frontend-ajax.php:52
+msgid "Please enter a valid domain name."
+msgstr ""
+
+#: includes/general-hooks.php:73
+msgid "FAQ Options"
+msgstr ""
+
+#: public/templates/theme-parts/entry/single-faq.php:40
+msgid "Continue reading"
+msgstr ""
+
+#: public/templates/theme-parts/entry/single-faq.php:67
+msgid "View all posts by %s"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://phlox.pro/?utm_content=auxin-pro-tools"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Premium and exclusive features for Phlox Pro theme."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "averta"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://averta.net"
+msgstr ""
+
+#: includes/classes/class-auxin-post-type-faq.php:50
+msgctxt "archive ,menu & breadcrumb label for FAQ"
+msgid "FAQ"
+msgstr ""
+
+#: includes/classes/class-auxin-post-type-faq.php:52
+msgctxt "FAQs labels"
+msgid "Add New"
+msgstr ""
+
+#: includes/classes/class-auxin-post-type-faq.php:98
+msgctxt "FAQ Categories general name"
+msgid "FAQ Categories"
+msgstr ""
+
+#: includes/classes/class-auxin-post-type-faq.php:99
+msgctxt "FAQ Category singular name"
+msgid "FAQ Category"
+msgstr ""
+
+#: includes/classes/class-auxin-post-type-faq.php:142
+msgctxt "Question column at FAQ edit columns"
+msgid "Question"
+msgstr ""
+
+#: includes/classes/class-auxin-post-type-faq.php:143
+msgctxt "Category column at FAQ edit columns"
+msgid "Category"
+msgstr ""
+
+#: includes/elements/elementor/widgets/theme-builder/post-info.php:149
+msgctxt "Date Format"
+msgid "March 6, 2018 (F j, Y)"
+msgstr ""

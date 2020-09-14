@@ -1,0 +1,13 @@
+2020-09-03T13:27:05+00:00 CRITICAL Uncaught Error: Class 'WC_Regenerate_Images_Request' not found in /home/ramircapit/public_html/wp-content/plugins/woocommerce/includes/class-wc-regenerate-images.php:49
+Stack trace:
+#0 /home/ramircapit/public_html/wp-includes/class-wp-hook.php(287): WC_Regenerate_Images::init('')
+#1 /home/ramircapit/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 /home/ramircapit/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/ramircapit/public_html/wp-settings.php(540): do_action('init')
+#4 /home/ramircapit/public_html/wp-config.php(79): require_once('/home/ramircapi...')
+#5 /home/ramircapit/public_html/wp-load.php(37): require_once('/home/ramircapi...')
+#6 /home/ramircapit/public_html/wp-blog-header.php(13): require_once('/home/ramircapi...')
+#7 /home/ramircapit/public_html/index.php(17): require('/home/ramircapi...')
+#8 {main}
+  thrown in /home/ramircapit/public_html/wp-content/plugins/woocommerce/includes/class-wc-regenerate-images.php on line 49
+

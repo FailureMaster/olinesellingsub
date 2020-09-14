@@ -1,0 +1,903 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Frontend Manager - Affiliate\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-18 11:11+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.1; wp-5.1.1"
+
+#: controllers/wcfmaf-controller-affiliate-manage.php:100 core/class-wcfmaf-ajax.php:285 core/class-wcfmaf-frontend.php:585 controllers/registration/wcfmaf-controller-affiliate-registration.php:409
+msgid "Dear"
+msgstr ""
+
+#: controllers/wcfmaf-controller-affiliate-manage.php:102 core/class-wcfmaf-ajax.php:287 core/class-wcfmaf-frontend.php:587 controllers/registration/wcfmaf-controller-affiliate-registration.php:411
+msgid "Your account has been created as {user_role}. Follow the bellow details to log into the system"
+msgstr ""
+
+#: controllers/wcfmaf-controller-affiliate-manage.php:104 core/class-wcfmaf-ajax.php:289 core/class-wcfmaf-frontend.php:589 controllers/registration/wcfmaf-controller-affiliate-registration.php:413
+msgid "Site"
+msgstr ""
+
+#: controllers/wcfmaf-controller-affiliate-manage.php:106 core/class-wcfmaf-ajax.php:137 core/class-wcfmaf-ajax.php:291 core/class-wcfmaf-frontend.php:591 controllers/registration/wcfmaf-controller-affiliate-registration.php:415
+msgid "Login"
+msgstr ""
+
+#: controllers/wcfmaf-controller-affiliate-manage.php:108 core/class-wcfmaf-frontend.php:593 controllers/registration/wcfmaf-controller-affiliate-registration.php:417 views/registration/affiliate_registration.php:324
+msgid "Password"
+msgstr ""
+
+#: controllers/wcfmaf-controller-affiliate-manage.php:122 core/class-wcfmaf-ajax.php:305 core/class-wcfmaf-frontend.php:164 core/class-wcfmaf-frontend.php:232 core/class-wcfmaf-frontend.php:628 core/class-wcfmaf-frontend.php:1032 core/class-wcfmaf-frontend.php:1036 core/class-wcfmaf.php:240 views/wcfmaf-view-affiliate-manage.php:333 views/wcfmaf-view-affiliate-stats-details.php:49 views/wcfmaf-view-affiliate-stats.php:172 views/wcfmaf-view-affiliate.php:25 controllers/registration/wcfmaf-controller-affiliate-registration.php:431
+msgid "Affiliate"
+msgstr ""
+
+#: controllers/wcfmaf-controller-affiliate-stats.php:65 views/wcfmaf-view-affiliate-stats-details.php:112 views/wcfmaf-view-affiliate-stats-details.php:112
+msgid "Pending"
+msgstr ""
+
+#: controllers/wcfmaf-controller-affiliate-stats.php:67 views/wcfmaf-view-affiliate-stats-details.php:114 views/wcfmaf-view-affiliate-stats-details.php:114 views/wcfmaf-view-affiliate-stats.php:82 views/wcfmaf-view-affiliate.php:66 views/wcfmaf-view-affiliate.php:76
+msgid "Paid"
+msgstr ""
+
+#: controllers/wcfmaf-controller-affiliate-stats.php:78 views/wcfmaf-view-affiliate-stats-details.php:28
+msgid "Vendor Register"
+msgstr ""
+
+#: controllers/wcfmaf-controller-affiliate-stats.php:80 views/wcfmaf-view-affiliate-stats-details.php:30
+msgid "Vendor Order"
+msgstr ""
+
+#: controllers/wcfmaf-controller-affiliate-stats.php:82 views/wcfmaf-view-affiliate-stats-details.php:32 views/wcfmaf-view-affiliate-stats-details.php:127
+msgid "Order"
+msgstr ""
+
+#: controllers/wcfmaf-controller-affiliate-stats.php:89
+msgid "Show Details"
+msgstr ""
+
+#: controllers/wcfmaf-controller-affiliate-stats.php:92
+msgid "Mark Paid"
+msgstr ""
+
+#: controllers/wcfmaf-controller-affiliate-stats.php:93
+msgid "Mark Rejected"
+msgstr ""
+
+#: controllers/wcfmaf-controller-affiliate-stats.php:96 views/wcfmaf-view-affiliate-stats-details.php:116
+msgid "Paid ON"
+msgstr ""
+
+#: controllers/wcfmaf-controller-affiliate.php:83
+msgid "Affiliate Stat"
+msgstr ""
+
+#: controllers/wcfmaf-controller-affiliate.php:84 views/wcfmaf-view-affiliate-manage.php:82 views/wcfmaf-view-affiliate-manage.php:89 views/wcfmaf-view-affiliate-manage.php:100 views/wcfmaf-view-affiliate-stats.php:67 views/wcfmaf-view-affiliate.php:32
+msgid "Manage Affiliate"
+msgstr ""
+
+#: controllers/wcfmaf-controller-affiliate.php:85 core/class-wcfmaf-frontend.php:343
+msgid "Disable Affiliate Account"
+msgstr ""
+
+#: controllers/wcfmaf-controller-affiliate.php:87 core/class-wcfmaf-frontend.php:344
+msgid "Enable Affiliate Account"
+msgstr ""
+
+#: core/class-wcfmaf-ajax.php:121
+msgid "Affiliate Application"
+msgstr ""
+
+#: core/class-wcfmaf-ajax.php:126 views/wcfmaf-view-affiliate-manage.php:128 views/registration/affiliate_registration.php:158
+msgid "First Name"
+msgstr ""
+
+#: core/class-wcfmaf-ajax.php:132 views/wcfmaf-view-affiliate-manage.php:129 views/registration/affiliate_registration.php:159
+msgid "Last Name"
+msgstr ""
+
+#: core/class-wcfmaf-ajax.php:141 views/wcfmaf-view-affiliate-manage.php:126 views/wcfmaf-view-affiliate-stats-details.php:58 views/registration/affiliate_registration.php:67 views/registration/affiliate_registration.php:73
+msgid "Email"
+msgstr ""
+
+#: core/class-wcfmaf-ajax.php:229
+msgid "Rejection Reason"
+msgstr ""
+
+#: core/class-wcfmaf-ajax.php:235
+msgid "Status Update"
+msgstr ""
+
+#: core/class-wcfmaf-ajax.php:237
+msgid "Approve"
+msgstr ""
+
+#: core/class-wcfmaf-ajax.php:238
+msgid "Reject"
+msgstr ""
+
+#: core/class-wcfmaf-ajax.php:246
+msgid "Update"
+msgstr ""
+
+#: core/class-wcfmaf-ajax.php:304
+msgid "Set by you."
+msgstr ""
+
+#: core/class-wcfmaf-ajax.php:344
+msgid "Affiliate Application Rejected"
+msgstr ""
+
+#: core/class-wcfmaf-ajax.php:362
+msgid "Affiliate Approval ststus successfully updated."
+msgstr ""
+
+#: core/class-wcfmaf-ajax.php:366
+msgid "Affiliate Approval ststus update failed."
+msgstr ""
+
+#: core/class-wcfmaf-ajax.php:415
+#, php-format
+msgid "<b>%s</b> commission paid for vendor <b>%s</b> registration."
+msgstr ""
+
+#: core/class-wcfmaf-ajax.php:417
+#, php-format
+msgid "<b>%s</b> commission paid for order <b>%s</b> item <b>%s</b>"
+msgstr ""
+
+#: core/class-wcfmaf-ajax.php:473
+msgid "Invalid URL!"
+msgstr ""
+
+#: core/class-wcfmaf-ajax.php:494
+msgid "Your account has been disabled."
+msgstr ""
+
+#: core/class-wcfmaf-ajax.php:499
+msgid "Affiliate successfully disabled."
+msgstr ""
+
+#: core/class-wcfmaf-ajax.php:502
+msgid "Affiliate can not be disabled right now, please try after sometime."
+msgstr ""
+
+#: core/class-wcfmaf-ajax.php:520
+msgid "Your account has been enabled."
+msgstr ""
+
+#: core/class-wcfmaf-ajax.php:525
+msgid "Affiliate successfully enabled."
+msgstr ""
+
+#: core/class-wcfmaf-ajax.php:528
+msgid "Affiliate can not be enabled right now, please try after sometime."
+msgstr ""
+
+#: core/class-wcfmaf-ajax.php:580
+msgid "Hi"
+msgstr ""
+
+#: core/class-wcfmaf-ajax.php:582
+#, php-format
+msgid "Here is your email verification code - <b>%s</b>"
+msgstr ""
+
+#: core/class-wcfmaf-ajax.php:583 views/registration/affiliate_thankyou.php:51
+msgid "Thank You"
+msgstr ""
+
+#: core/class-wcfmaf-ajax.php:589
+msgid "Email Verification"
+msgstr ""
+
+#: core/class-wcfmaf-ajax.php:593
+#, php-format
+msgid "Verification code sent to your email: %s."
+msgstr ""
+
+#: core/class-wcfmaf-ajax.php:595
+msgid "Email verification not working right now, please try after sometime."
+msgstr ""
+
+#: core/class-wcfmaf-ajax.php:629
+msgid "Your verification code is"
+msgstr ""
+
+#: core/class-wcfmaf-ajax.php:698
+#, php-format
+msgid "Verification code sent to your phone: %s."
+msgstr ""
+
+#: core/class-wcfmaf-ajax.php:704
+msgid "Phone verification not working right now, please try after sometime."
+msgstr ""
+
+#: core/class-wcfmaf-frontend.php:160 core/class-wcfmaf-frontend.php:172 core/class-wcfmaf-frontend.php:244 core/class-wcfmaf-frontend.php:251 views/wcfmaf-view-affiliate-stats.php:51 views/wcfmaf-view-affiliate-stats.php:60
+msgid "Affiliate Stats"
+msgstr ""
+
+#: core/class-wcfmaf-frontend.php:168
+msgid "Affiliate Manage"
+msgstr ""
+
+#: core/class-wcfmaf-frontend.php:201 helpers/class-wcfmaf-install.php:88
+msgid "Affiliate Registration"
+msgstr ""
+
+#: core/class-wcfmaf-frontend.php:201
+msgid "Affiliate registration page. This page should have shortcode - wcfm_affiliate_registration"
+msgstr ""
+
+#: core/class-wcfmaf-frontend.php:259
+msgid "Become Affiliate"
+msgstr ""
+
+#: core/class-wcfmaf-frontend.php:333
+msgid "Approve Affiliate"
+msgstr ""
+
+#: core/class-wcfmaf-frontend.php:334
+msgid "New Affiliate"
+msgstr ""
+
+#: core/class-wcfmaf-frontend.php:341 core/class-wcfmaf-frontend.php:876 core/class-wcfmaf-frontend.php:968 views/wcfmaf-view-affiliate-manage.php:253
+msgid "Affiliate Commission"
+msgstr ""
+
+#: core/class-wcfmaf-frontend.php:342
+msgid "Affiliate Commission Paid"
+msgstr ""
+
+#: core/class-wcfmaf-frontend.php:355
+msgid "Affiliate Dashboard"
+msgstr ""
+
+#: core/class-wcfmaf-frontend.php:634
+msgid "Affiliate Registration Settings"
+msgstr ""
+
+#: core/class-wcfmaf-frontend.php:640
+msgid "Required Approval"
+msgstr ""
+
+#: core/class-wcfmaf-frontend.php:640
+msgid "Whether user required Admin Approval to become affiliate or not!"
+msgstr ""
+
+#: core/class-wcfmaf-frontend.php:641
+msgid "Vendor as Affiliate?"
+msgstr ""
+
+#: core/class-wcfmaf-frontend.php:641
+msgid "Whether vendors are allowed to become affiliate or not!"
+msgstr ""
+
+#: core/class-wcfmaf-frontend.php:642
+msgid "Product Commission by Vendor?"
+msgstr ""
+
+#: core/class-wcfmaf-frontend.php:642
+msgid "Whether vendors are allowed to manage product specific affiliate commission or not!"
+msgstr ""
+
+#: core/class-wcfmaf-frontend.php:654 core/class-wcfmaf-frontend.php:880 core/class-wcfmaf-frontend.php:972
+msgid "Affiliate Commission Setting"
+msgstr ""
+
+#: core/class-wcfmaf-frontend.php:658 core/class-wcfmaf-frontend.php:660 core/class-wcfmaf-frontend.php:895 core/class-wcfmaf-frontend.php:963 views/wcfmaf-view-affiliate-manage.php:267 views/wcfmaf-view-affiliate-manage.php:269
+msgid "No Commission"
+msgstr ""
+
+#: core/class-wcfmaf-frontend.php:658 core/class-wcfmaf-frontend.php:895 core/class-wcfmaf-frontend.php:963 views/wcfmaf-view-affiliate-manage.php:267 views/wcfmaf-view-affiliate-stats-details.php:85
+msgid "Percent"
+msgstr ""
+
+#: core/class-wcfmaf-frontend.php:658 core/class-wcfmaf-frontend.php:660 core/class-wcfmaf-frontend.php:895 core/class-wcfmaf-frontend.php:963 views/wcfmaf-view-affiliate-manage.php:267 views/wcfmaf-view-affiliate-manage.php:269 views/wcfmaf-view-affiliate-stats-details.php:87
+msgid "Fixed"
+msgstr ""
+
+#: core/class-wcfmaf-frontend.php:660 core/class-wcfmaf-frontend.php:897 views/wcfmaf-view-affiliate-manage.php:269
+msgid "New Vendor"
+msgstr ""
+
+#: core/class-wcfmaf-frontend.php:660 core/class-wcfmaf-frontend.php:897 views/wcfmaf-view-affiliate-manage.php:269
+msgid "Commission for new vendor registration using Affiliate referral code."
+msgstr ""
+
+#: core/class-wcfmaf-frontend.php:661 core/class-wcfmaf-frontend.php:672 core/class-wcfmaf-frontend.php:684 core/class-wcfmaf-frontend.php:898 core/class-wcfmaf-frontend.php:909 core/class-wcfmaf-frontend.php:921 core/class-wcfmaf-frontend.php:988 core/class-wcfmaf-frontend.php:1000 views/wcfmaf-view-affiliate-manage.php:270 views/wcfmaf-view-affiliate-manage.php:281 views/wcfmaf-view-affiliate-manage.php:293
+msgid "Commission Percent(%)"
+msgstr ""
+
+#: core/class-wcfmaf-frontend.php:662 core/class-wcfmaf-frontend.php:673 core/class-wcfmaf-frontend.php:685 core/class-wcfmaf-frontend.php:899 core/class-wcfmaf-frontend.php:910 core/class-wcfmaf-frontend.php:922 core/class-wcfmaf-frontend.php:989 core/class-wcfmaf-frontend.php:1001 views/wcfmaf-view-affiliate-manage.php:271 views/wcfmaf-view-affiliate-manage.php:282 views/wcfmaf-view-affiliate-manage.php:294
+msgid "Commission Fixed"
+msgstr ""
+
+#: core/class-wcfmaf-frontend.php:671 core/class-wcfmaf-frontend.php:908 core/class-wcfmaf-frontend.php:987 views/wcfmaf-view-affiliate-manage.php:280
+msgid "Referred Vendor Order"
+msgstr ""
+
+#: core/class-wcfmaf-frontend.php:671 core/class-wcfmaf-frontend.php:908 core/class-wcfmaf-frontend.php:987 views/wcfmaf-view-affiliate-manage.php:280
+msgid "Commission for referred vendor's product sell."
+msgstr ""
+
+#: core/class-wcfmaf-frontend.php:674 core/class-wcfmaf-frontend.php:686 core/class-wcfmaf-frontend.php:911 core/class-wcfmaf-frontend.php:923 core/class-wcfmaf-frontend.php:990 core/class-wcfmaf-frontend.php:1002 views/wcfmaf-view-affiliate-manage.php:283 views/wcfmaf-view-affiliate-manage.php:295
+msgid "Calculate commission on?"
+msgstr ""
+
+#: core/class-wcfmaf-frontend.php:674 core/class-wcfmaf-frontend.php:686 core/class-wcfmaf-frontend.php:911 core/class-wcfmaf-frontend.php:923 core/class-wcfmaf-frontend.php:990 core/class-wcfmaf-frontend.php:1002 views/wcfmaf-view-affiliate-manage.php:283 views/wcfmaf-view-affiliate-manage.php:295
+msgid "On Item Cost"
+msgstr ""
+
+#: core/class-wcfmaf-frontend.php:674 core/class-wcfmaf-frontend.php:686 core/class-wcfmaf-frontend.php:911 core/class-wcfmaf-frontend.php:923 core/class-wcfmaf-frontend.php:990 core/class-wcfmaf-frontend.php:1002 views/wcfmaf-view-affiliate-manage.php:283 views/wcfmaf-view-affiliate-manage.php:295
+msgid "On Commission"
+msgstr ""
+
+#: core/class-wcfmaf-frontend.php:674 core/class-wcfmaf-frontend.php:686 core/class-wcfmaf-frontend.php:911 core/class-wcfmaf-frontend.php:923 core/class-wcfmaf-frontend.php:990 core/class-wcfmaf-frontend.php:1002 views/wcfmaf-view-affiliate-manage.php:283 views/wcfmaf-view-affiliate-manage.php:295
+msgid "If you set this 'On Commission' then Affiliate commission will be calculated on vendor's commission amount and will be deducted from commission. Affiliate commission deduction will be visible under vendor's commission invoice as well."
+msgstr ""
+
+#: core/class-wcfmaf-frontend.php:683 core/class-wcfmaf-frontend.php:920 core/class-wcfmaf-frontend.php:999 views/wcfmaf-view-affiliate-manage.php:292
+msgid "Other Orders"
+msgstr ""
+
+#: core/class-wcfmaf-frontend.php:683 core/class-wcfmaf-frontend.php:920 core/class-wcfmaf-frontend.php:999 views/wcfmaf-view-affiliate-manage.php:292
+msgid "Commission for any sell on site using Affiliate referral code."
+msgstr ""
+
+#: core/class-wcfmaf-frontend.php:692
+msgid "Registration Form Fields"
+msgstr ""
+
+#: core/class-wcfmaf-frontend.php:697
+msgid "-- Choose Terms Page --"
+msgstr ""
+
+#: core/class-wcfmaf-frontend.php:707
+msgid "User Name"
+msgstr ""
+
+#: core/class-wcfmaf-frontend.php:710 views/registration/affiliate_registration.php:335 views/registration/affiliate_registration.php:343 views/registration/affiliate_registration.php:345
+msgid "Terms & Conditions"
+msgstr ""
+
+#: core/class-wcfmaf-frontend.php:711
+msgid "Terms Page"
+msgstr ""
+
+#: core/class-wcfmaf-frontend.php:716
+msgid "Registration Form Custom Fields"
+msgstr ""
+
+#: core/class-wcfmaf-frontend.php:729
+msgid "Affiliate Welcome Email"
+msgstr ""
+
+#: core/class-wcfmaf-frontend.php:742
+msgid "New account mail subject"
+msgstr ""
+
+#: core/class-wcfmaf-frontend.php:743
+msgid "New account mail body"
+msgstr ""
+
+#: core/class-wcfmaf-frontend.php:743
+msgid "Allowed dynamic variables are: {site_url}, {user_role}, {username}, {first_name}, {password}"
+msgstr ""
+
+#: core/class-wcfmaf-frontend.php:749
+msgid "Affiliate Thank You Page Content"
+msgstr ""
+
+#: core/class-wcfmaf-frontend.php:762
+msgid "Approved affilite thank you page content"
+msgstr ""
+
+#: core/class-wcfmaf-frontend.php:763
+msgid "Require approval affilite thank you page content"
+msgstr ""
+
+#: core/class-wcfmaf-frontend.php:887 core/class-wcfmaf-frontend.php:978 views/wcfmaf-view-affiliate-manage.php:259
+msgid "Commission Rule"
+msgstr ""
+
+#: core/class-wcfmaf-frontend.php:887 core/class-wcfmaf-frontend.php:978 views/wcfmaf-view-affiliate-manage.php:259
+msgid "By Global Rules"
+msgstr ""
+
+#: core/class-wcfmaf-frontend.php:887 core/class-wcfmaf-frontend.php:978 views/wcfmaf-view-affiliate-manage.php:259
+msgid "Personalize"
+msgstr ""
+
+#: core/class-wcfmaf-frontend.php:1225 core/class-wcfmaf-frontend.php:1407
+#, php-format
+msgid "You have received commission <b>%s</b> for order <b>%s</b> item <b>%s</b>"
+msgstr ""
+
+#: core/class-wcfmaf-frontend.php:1229 core/class-wcfmaf-frontend.php:1411
+#, php-format
+msgid "<b>%s</b> has received affiliate commission <b>%s</b> for order <b>%s</b> item <b>%s</b>"
+msgstr ""
+
+#: core/class-wcfmaf-frontend.php:1233 core/class-wcfmaf-frontend.php:1415
+#, php-format
+msgid "<b>%s</b> has received affiliate commission <b>%s</b> item <b>%s</b>"
+msgstr ""
+
+#: core/class-wcfmaf-library.php:113
+msgid ""
+"Are you sure and want to mark this as 'Paid'?\n"
+"You can't undo this action ..."
+msgstr ""
+
+#: core/class-wcfmaf-library.php:113
+msgid ""
+"Are you sure and want to mark this as 'Reject'?\n"
+"You can't undo this action ..."
+msgstr ""
+
+#: core/class-wcfmaf-license.php:163
+msgid "WCFM Affiliate"
+msgstr ""
+
+#: core/class-wcfmaf-license.php:300
+#, php-format
+msgid "The WCFM - Affiliate License Key has not been activated, so the plugin is inactive! %sClick here%s to activate the license key and the plugin."
+msgstr ""
+
+#: core/class-wcfmaf-non-ajax.php:31
+msgid "Set WCFM Affiliate License"
+msgstr ""
+
+#: core/class-wcfmaf-non-ajax.php:31
+msgid "License"
+msgstr ""
+
+#: core/class-wcfmaf-non-ajax.php:48
+msgid "View WCFM Affiliate Change Log"
+msgstr ""
+
+#: core/class-wcfmaf-non-ajax.php:48
+msgid "Change Log"
+msgstr ""
+
+#: core/class-wcfmaf.php:192
+msgid "Affiliate Approval"
+msgstr ""
+
+#: core/class-wcfmaf.php:204
+#, php-format
+msgid "<b>%s</b> affiliate application waiting for approval."
+msgstr ""
+
+#: core/class-wcfmaf.php:393
+#, php-format
+msgid "You have received commission <b>%s</b> for new vendor registration."
+msgstr ""
+
+#: core/class-wcfmaf.php:397
+#, php-format
+msgid "<b>%s</b> has received affiliate commission <b>%s</b> for new vendor registration."
+msgstr ""
+
+#: helpers/class-wcfmaf-install.php:165
+msgid "Store Affiliates"
+msgstr ""
+
+#: helpers/wcfmaf-core-functions.php:283
+msgid "Please insert Affiliate Username before submit."
+msgstr ""
+
+#: helpers/wcfmaf-core-functions.php:284
+msgid "Please insert Affiliate Email before submit."
+msgstr ""
+
+#: helpers/wcfmaf-core-functions.php:285
+msgid "This Username already exists."
+msgstr ""
+
+#: helpers/wcfmaf-core-functions.php:286
+msgid "This Email already exists."
+msgstr ""
+
+#: helpers/wcfmaf-core-functions.php:287
+msgid "Affiliate Saving Failed."
+msgstr ""
+
+#: helpers/wcfmaf-core-functions.php:288
+msgid "Affiliate Successfully Saved."
+msgstr ""
+
+#: helpers/wcfmaf-core-functions.php:289
+msgid "Email verification code invalid."
+msgstr ""
+
+#: helpers/wcfmaf-core-functions.php:290
+msgid "Phone verification code (OTP) invalid."
+msgstr ""
+
+#: helpers/wcfmaf-core-functions.php:291
+msgid "Registration Failed."
+msgstr ""
+
+#: helpers/wcfmaf-core-functions.php:292
+msgid "Registration Successfully Completed."
+msgstr ""
+
+#: views/wcfmaf-view-affiliate-manage.php:89
+msgid "Add Affiliate"
+msgstr ""
+
+#: views/wcfmaf-view-affiliate-manage.php:94 views/wcfmaf-view-affiliate.php:37
+msgid "WP Admin View"
+msgstr ""
+
+#: views/wcfmaf-view-affiliate-manage.php:97
+msgid "Affiliate User Commission Stats"
+msgstr ""
+
+#: views/wcfmaf-view-affiliate-manage.php:103 views/wcfmaf-view-affiliate-stats.php:70 views/wcfmaf-view-affiliate.php:42
+msgid "Add New Affiliate"
+msgstr ""
+
+#: views/wcfmaf-view-affiliate-manage.php:121 views/wcfmaf-view-affiliate-manage.php:123 views/wcfmaf-view-affiliate-stats-details.php:57 views/registration/affiliate_registration.php:66 views/registration/affiliate_registration.php:72
+msgid "Username"
+msgstr ""
+
+#: views/wcfmaf-view-affiliate-manage.php:127 views/wcfmaf-view-affiliate-stats-details.php:60
+msgid "Phone"
+msgstr ""
+
+#: views/wcfmaf-view-affiliate-manage.php:136
+msgid "Affiliate Details"
+msgstr ""
+
+#: views/wcfmaf-view-affiliate-manage.php:140 views/wcfmaf-view-affiliate-stats-details.php:62
+msgid "Affiliate Code"
+msgstr ""
+
+#: views/wcfmaf-view-affiliate-manage.php:141 views/wcfmaf-view-affiliate-manage.php:335 views/wcfmaf-view-affiliate-stats.php:174
+msgid "Affiliate URL"
+msgstr ""
+
+#: views/wcfmaf-view-affiliate-manage.php:162
+msgid "Additional Info"
+msgstr ""
+
+#: views/wcfmaf-view-affiliate-manage.php:322 views/wcfmaf-view-affiliate-stats.php:161
+msgid "Generate Affiliate URL"
+msgstr ""
+
+#: views/wcfmaf-view-affiliate-manage.php:334 views/wcfmaf-view-affiliate-stats.php:173
+msgid "URL"
+msgstr ""
+
+#: views/wcfmaf-view-affiliate-manage.php:334 views/wcfmaf-view-affiliate-stats.php:173
+msgid "Generate Affiliate URL for any URL for your site. e.g. Vendor Registration page, product page etc .."
+msgstr ""
+
+#: views/wcfmaf-view-affiliate-manage.php:339 views/wcfmaf-view-affiliate-stats.php:178
+msgid "Generate"
+msgstr ""
+
+#: views/wcfmaf-view-affiliate-stats-details.php:7
+msgid "Affiliate Commission Details"
+msgstr ""
+
+#: views/wcfmaf-view-affiliate-stats-details.php:22
+msgid "Commission for"
+msgstr ""
+
+#: views/wcfmaf-view-affiliate-stats-details.php:74 views/wcfmaf-view-affiliate-stats.php:136 views/wcfmaf-view-affiliate-stats.php:146
+msgid "Amount"
+msgstr ""
+
+#: views/wcfmaf-view-affiliate-stats-details.php:83
+msgid "Rule"
+msgstr ""
+
+#: views/wcfmaf-view-affiliate-stats-details.php:91
+msgid "on vendor commission amount"
+msgstr ""
+
+#: views/wcfmaf-view-affiliate-stats-details.php:93
+msgid "on item cost"
+msgstr ""
+
+#: views/wcfmaf-view-affiliate-stats-details.php:106
+msgid "Payment Status"
+msgstr ""
+
+#: views/wcfmaf-view-affiliate-stats-details.php:133
+msgid "Created"
+msgstr ""
+
+#: views/wcfmaf-view-affiliate-stats-details.php:135
+msgid "Store Order"
+msgstr ""
+
+#: views/wcfmaf-view-affiliate-stats-details.php:146
+msgid "Product"
+msgstr ""
+
+#: views/wcfmaf-view-affiliate-stats-details.php:152
+msgid "Quantity"
+msgstr ""
+
+#: views/wcfmaf-view-affiliate-stats-details.php:152
+msgid "Total Cost"
+msgstr ""
+
+#: views/wcfmaf-view-affiliate-stats-details.php:182
+msgid "Print"
+msgstr ""
+
+#: views/wcfmaf-view-affiliate-stats-details.php:186
+msgid "No details found!"
+msgstr ""
+
+#: views/wcfmaf-view-affiliate-stats.php:65
+msgid "Affiliate User Manage"
+msgstr ""
+
+#: views/wcfmaf-view-affiliate-stats.php:95
+msgid "total commission"
+msgstr ""
+
+#: views/wcfmaf-view-affiliate-stats.php:104
+msgid "paid commission"
+msgstr ""
+
+#: views/wcfmaf-view-affiliate-stats.php:113
+msgid "no. of vendors"
+msgstr ""
+
+#: views/wcfmaf-view-affiliate-stats.php:122
+msgid "no. of orders"
+msgstr ""
+
+#: views/wcfmaf-view-affiliate-stats.php:134 views/wcfmaf-view-affiliate-stats.php:144
+msgid "Status"
+msgstr ""
+
+#: views/wcfmaf-view-affiliate-stats.php:135 views/wcfmaf-view-affiliate-stats.php:145 views/wcfmaf-view-affiliate.php:65 views/wcfmaf-view-affiliate.php:75
+msgid "Commission"
+msgstr ""
+
+#: views/wcfmaf-view-affiliate-stats.php:137 views/wcfmaf-view-affiliate-stats.php:147
+msgid "Type"
+msgstr ""
+
+#: views/wcfmaf-view-affiliate-stats.php:138 views/wcfmaf-view-affiliate-stats.php:148
+msgid "Date"
+msgstr ""
+
+#: views/wcfmaf-view-affiliate-stats.php:139 views/wcfmaf-view-affiliate-stats.php:149 views/wcfmaf-view-affiliate.php:69 views/wcfmaf-view-affiliate.php:79
+msgid "Actions"
+msgstr ""
+
+#: views/wcfmaf-view-affiliate.php:64 views/wcfmaf-view-affiliate.php:74
+msgid "Name"
+msgstr ""
+
+#: views/wcfmaf-view-affiliate.php:67 views/wcfmaf-view-affiliate.php:77
+msgid "Vendors"
+msgstr ""
+
+#: views/wcfmaf-view-affiliate.php:68 views/wcfmaf-view-affiliate.php:78
+msgid "Orders"
+msgstr ""
+
+#: includes/shortcodes/class-wcfmaf-shortcode-affiliate-registration.php:47
+msgid "Registration"
+msgstr ""
+
+#: views/registration/affiliate_block.php:18
+#, php-format
+msgid "Restricted: You are not allowed to access this page. May be you already registered as %sAffiliate%s or your %sUser Role%s does not allow for this action. %sPlease contact %sStore Admin%s for more details."
+msgstr ""
+
+#: views/registration/affiliate_registration.php:95
+msgid "Email already verified"
+msgstr ""
+
+#: views/registration/affiliate_registration.php:104
+msgid "Email Verification Code: "
+msgstr ""
+
+#: views/registration/affiliate_registration.php:104
+msgid "Verification Code"
+msgstr ""
+
+#: views/registration/affiliate_registration.php:105 views/registration/affiliate_registration.php:144
+msgid "Re-send Code"
+msgstr ""
+
+#: views/registration/affiliate_registration.php:134
+msgid "Phone already verified"
+msgstr ""
+
+#: views/registration/affiliate_registration.php:143
+msgid "Phone Verification Code: "
+msgstr ""
+
+#: views/registration/affiliate_registration.php:143
+msgid "OTP"
+msgstr ""
+
+#: views/registration/affiliate_registration.php:324
+msgid "Password and Confirm-password are not same."
+msgstr ""
+
+#: views/registration/affiliate_registration.php:326
+msgid "Confirm Password"
+msgstr ""
+
+#: views/registration/affiliate_registration.php:335 views/registration/affiliate_registration.php:340
+msgid "Agree"
+msgstr ""
+
+#: views/registration/affiliate_registration.php:386
+msgid "Confirm"
+msgstr ""
+
+#: views/registration/affiliate_registration.php:386
+msgid "Register"
+msgstr ""
+
+#: views/registration/affiliate_registration.php:388
+msgid "Your user role not allowed for affiliation!"
+msgstr ""
+
+#: views/registration/affiliate_thankyou.php:58
+msgid "Goto Dashboard"
+msgstr ""
+
+#: core/license/admin/class-wcfm-license.php:16 core/license/admin/class-wcfm-license.php:17
+msgid "WCFM License"
+msgstr ""
+
+#: core/license/admin/class-wcfm-license.php:79
+#, php-format
+msgid "<h2>%s License</h2>"
+msgstr ""
+
+#: core/license/admin/class-wcfm-license.php:86
+#, php-format
+msgid "<h4 style='border-bottom: 1px solid rgb(215, 211, 211);padding-bottom: 21px;'>%s</h4>"
+msgstr ""
+
+#: core/license/admin/class-wcfmaf-settings-license.php:51
+msgid "License Activation"
+msgstr ""
+
+#: core/license/admin/class-wcfmaf-settings-license.php:52
+msgid "API License Key"
+msgstr ""
+
+#: core/license/admin/class-wcfmaf-settings-license.php:53
+msgid "API License email"
+msgstr ""
+
+#: core/license/admin/class-wcfmaf-settings-license.php:56
+msgid "License Deactivation"
+msgstr ""
+
+#: core/license/admin/class-wcfmaf-settings-license.php:57
+msgid "Deactivate API License Key"
+msgstr ""
+
+#: core/license/admin/class-wcfmaf-settings-license.php:57
+msgid "Deactivates an API License Key so it can be used on another blog."
+msgstr ""
+
+#: core/license/admin/class-wcfmaf-settings-license.php:247
+msgid "Please insert your license key."
+msgstr ""
+
+#: core/license/admin/class-wcfmaf-settings-license.php:257
+msgid "Please insert your license email."
+msgstr ""
+
+#: core/license/admin/class-wcfmaf-settings-license.php:286
+msgid "Plugin activated. "
+msgstr ""
+
+#: core/license/admin/class-wcfmaf-settings-license.php:294
+msgid "Connection failed to the License Key API server. Try again later."
+msgstr ""
+
+#: core/license/admin/class-wcfmaf-settings-license.php:359
+msgid "Plugin license deactivated."
+msgstr ""
+
+#: core/license/admin/class-wcfmaf-settings-license.php:383
+msgid "The license could not be deactivated. Use the License Deactivation tab to manually deactivate the license before activating a new license."
+msgstr ""
+
+#: core/license/classes/class-wcfmaf-update.php:373
+#, php-format
+msgid "The license key for %s has expired. You can reactivate or purchase a license key from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: core/license/classes/class-wcfmaf-update.php:388
+#, php-format
+msgid "The subscription for %s is on-hold. You can reactivate the subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: core/license/classes/class-wcfmaf-update.php:403
+#, php-format
+msgid "The subscription for %s has been cancelled. You can renew the subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</a>. A new license key will be emailed to you after your order has been completed."
+msgstr ""
+
+#: core/license/classes/class-wcfmaf-update.php:418
+#, php-format
+msgid "The subscription for %s has expired. You can reactivate the subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: core/license/classes/class-wcfmaf-update.php:433
+#, php-format
+msgid "The subscription for %s has been suspended. You can reactivate the subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: core/license/classes/class-wcfmaf-update.php:448
+#, php-format
+msgid "The subscription for %s is still pending. You can check on the status of the subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: core/license/classes/class-wcfmaf-update.php:463
+#, php-format
+msgid "The subscription for %s has been placed in the trash and will be deleted soon. You can purchase a new subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: core/license/classes/class-wcfmaf-update.php:478
+#, php-format
+msgid "A subscription for %s could not be found. You can purchase a subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: core/license/classes/class-wcfmaf-update.php:493
+#, php-format
+msgid "A license key for %s could not be found. Maybe you forgot to enter a license key when setting up %s, or the key was deactivated in your account. You can reactivate or purchase a license key from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: core/license/classes/class-wcfmaf-update.php:508
+#, php-format
+msgid "Download permission for %s has been revoked possibly due to a license key or subscription expiring. You can reactivate or purchase a license key from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: core/license/classes/class-wcfmaf-update.php:523
+#, php-format
+msgid "%s has not been activated. Go to the settings page and enter the license key and license email to activate %s."
+msgstr ""
+
+#: core/license/classes/class-wcfmaf-update.php:538
+#, php-format
+msgid "You changed the subscription for %s, so you will need to enter your new API License Key in the settings page. The License Key should have arrived in your email inbox, if not you can get it by logging into your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#. Name of the plugin
+msgid "WCFM - WooCommerce Frontend Manager - Affiliate"
+msgstr ""
+
+#. Description of the plugin
+msgid "Manage your marketplace affiliate system. Easily and Smoothly."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wclovers.com/product/woocommerce-frontend-manager-affiliate/"
+msgstr ""
+
+#. Author of the plugin
+msgid "WC Lovers"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wclovers.com"
+msgstr ""

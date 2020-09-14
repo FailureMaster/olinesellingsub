@@ -1,0 +1,21 @@
+#wcfm-main-contentainer input#terms {
+	margin-right: 39%;
+	margin-left: 10px;
+}
+#wcfm_affiliate_container input.wcfm_submit_button, #wcfm_affiliate_container a.wcfm_submit_button {
+	float: left;
+}
+
+#wcfm_affiliate_container .wcfm_email_verified, #wcfm_affiliate_container .wcfm_sms_verified, #wcfm_affiliate_container .wcfm_store_slug_verified, #wcfm_affiliate_container #password_strength {
+	margin-left: 0px;
+	margin-right: 39%;
+}
+
+#wcfm_affiliate_container .wcfm_email_verified .wcfm_email_verified_input, #wcfm_affiliate_container .wcfm_sms_verified .wcfm_sms_verified_input {
+	float: right;
+}
+
+#wcfm_affiliate_container .wcfm_email_verified .wcfm_email_verified_button, #wcfm_affiliate_container .wcfm_sms_verified .wcfm_sms_verified_button {
+	float: right;
+	margin-right: 10px;
+}

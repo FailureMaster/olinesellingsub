@@ -1,0 +1,15 @@
+# ignore config file
+tests/config
+
+# Ignore auto generated files directory
+vendor
+build
+.phpunit.result.cache
+.php_cs.cache
+.vagrant
+
+# ignore Mac OS X file
+.DS_Store
+
+# ignore PhpStorm .idea folder
+.idea

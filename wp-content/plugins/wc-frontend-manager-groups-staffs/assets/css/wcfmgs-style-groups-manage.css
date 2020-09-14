@@ -1,0 +1,73 @@
+p.description {
+	font-size: 12px;
+	font-style: italic;
+	font-weight: normal;
+}
+
+p.wcfm_title {
+	font-size: 15px;
+	margin-bottom: 5px !important;
+	font-style: normal;
+	width: 39%;
+	display: inline-block;
+}
+
+input[type="text"].wcfm-text, select.wcfm-select, input[type="number"].wcfm-text, input[type="time"].wcfm-text, textarea.wcfm-textarea {
+	padding: 5px;
+	width: 60%;
+	margin-bottom: 10px;
+	font-size: 15px;
+	display: inline-block;
+	background-color: #fff !important;
+	border: 1px solid #555 !important;
+	box-shadow: none;
+}
+
+.wcfm_ele_hide {
+	display: none !important;
+}
+
+.wcfm-wp-fields-uploader .placeHolderUploads, .wcfm-wp-fields-uploader .placeHolderjpg, .wcfm-wp-fields-uploader .placeHolderpng, .wcfm-wp-fields-uploader .placeHoldertxt, .wcfm-wp-fields-uploader .placeHolderdoc, .wcfm-wp-fields-uploader .placeHolderpdf, .wcfm-wp-fields-uploader .placeHolderzip, .wcfm-wp-fields-uploader .placeHolderrar, .wcfm-wp-fields-uploader .placeHoldertar, .wcfm-wp-fields-uploader .placeHoldergz, .wcfm-wp-fields-uploader .placeHoldertargz, .wcfm-wp-fields-uploader .placeHolderdocs, .wcfm-wp-fields-uploader .placeHolderppt, .wcfm-wp-fields-uploader .placeHolderppts {
+  background: url('../images/uploads.ico');
+  background: url(../images/uploads.ico) no-repeat center center / 75px 75px;
+  webkit-background-size: cover;
+  moz-background-size: cover;
+  o-background-size: cover;
+  background-size: cover;
+  filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../images/uploads.png', sizingMethod='scale');
+  -ms-filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../images/uploads.png', sizingMethod='scale');
+  width :75px;
+  height: 75px;
+  display: inline-block;
+}
+
+.wcfm-wp-fields-uploader {
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 30%;
+	margin-bottom: 10px;
+}
+
+.wcfm-wp-fields-uploader a {
+  border-bottom: 0px;
+}
+
+.wcfm-wp-fields-uploader img {
+	display: inline;
+}
+
+@media only screen and (max-width: 640px) {
+	p.wcfm_title {
+		width: 90%;
+	}
+	
+	input[type="text"].wcfm-text, select.wcfm-select, input[type="number"].wcfm-text {
+		width: 100%;
+	}
+}
+
+@media only screen and (max-width: 414px) {
+	@media only screen and (max-width: 414px) {
+		a.add_new_wcfm_ele_dashboard .text { display: none; }
+	}
+}

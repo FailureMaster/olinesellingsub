@@ -1,0 +1,116 @@
+# v1.9.0 - 30 June 2020
+
+- New: Twitter Feed Carousel widget
+- New: Breadcrumb New widget
+- New: Instagram New API integration
+- Fix: Column padding issue on editor
+
+# v1.8.0 - 22 June 2020
+
+- New: Facebook feed widget
+- New: Section template inline editing
+- Fix: SVG sizing issues in all widgets
+- Fix: WPML file loading issue
+- Fix: Self Hosted Live Copy button on/off issue
+
+# v1.7.0 - 18 May 2020
+
+- New: WPML support for all widgets
+- Fix: Animated Text alignment issue
+- Fix: Logo Carousel image issue on ios and safari
+
+# v1.6.1 - 28 April 2020
+
+- Fix: Heading widget style tab issue
+
+# v1.6.0 - 22 April 2020
+
+- New: Self Hosted Live Copy
+- Fix: SVG missing issue on cross paste and live paste
+- Fix: Select2 visual issue
+- Fix: Removed unnecessary scripts
+
+# v1.5.1 - 5 April 2020
+
+- Tweak: Custom attribute output support for all links
+- Fix: Elementor popup link not working in HappyAddons Pro widgets
+- Fix: Timeline widget date alignment with icon top issue
+- Fix: Testimonial Carousel padding issue
+
+# v1.5.0 - 4 March 2020
+
+- New: Pie & Doughnut Chart Widget
+- New: Line Chart Widget
+- New: Rader Chart Widget
+- New: Polar Area Chart Widget
+- Update: Added badget text in Pricing Menu
+- Update: Added server time in Display Condition
+- Fix: Display Condition cookie issue
+
+# v1.4.3 - 1 March 2020
+
+- Fix: Timeline widget missing editing panel issue
+- Fix: Dynamic tags support compatibility
+- Fix: preview.min.js - 404 issue
+
+# v1.4.2 - 27 February 2020
+
+- Update: Dynamic tags support for Accordion widget
+- Update: Dynamic tags support for Pricing Table widget
+- Update: Dynamic tags support for Advanced Tabs widget
+- Update: Dynamic tags support for Animated Text widget
+- Update: Dynamic tags support for Feature List widget
+- Update: Dynamic tags support for Hotspots widget
+- Update: Dynamic tags support for List Group widget
+- Update: Dynamic tags support for Logo Carousel widget
+- Update: Dynamic tags support for Price Menu widget
+- Update: Dynamic tags support for Promo Box widget
+- Update: Dynamic tags support for Scrolling Image widget
+- Update: Dynamic tags support for Team Carousel widget
+- Update: Dynamic tags support for Testimonial Carousel widget
+- Update: Dynamic tags support for Toggle widget
+- Fix: Pricing Table php warning
+
+# v1.4.1 - 18 February 2020
+- Fix: Conflict with Rank Math
+- Fix: Hotspots widget id conflict
+
+# v1.4.0 - 21 January 2020
+- New: HotSpots widget
+- New: Price Menu widget
+- New: Display condition global feature (Works with all widgets, section and column. Available inside advanced tab)
+- Tweak: Improved attachment import procedure on cross paste and live paste
+
+# v1.3.0 - 31 December 2019
+- New: Promo Box widget
+- New: CSS Image Masking (Supported widgets: Card, Info Box, Promo Box, Member, Image, Image Box)
+- Update: Cross Domain Copy Paste UX improved
+- Update: Cross Domain Copy Paste performance improved
+- Update: Live Copy Paste UX improved
+- Update: Live Copy Paste performance improved
+- Update: Context menu items are moved to upper position
+- Fix: Unlimited Section Nesting compatibility issue with Elementor 2.8.*
+
+# v1.2.0 - 22 December 2019
+- New: Timeline scroll animation
+- Fix: Live Copy Paste compatibility issue with Elementor 2.8.*
+- Fix: Cross Domain Copy Paste compatibility issue with Elementor 2.8.*
+- Fix: Preset compatibility issue with Elementor 2.8.*
+
+# v1.1.0 - 25 November 2019
+- New: Added Live Copy feature (Check context menu for Live Paste option)
+- Tweak: Animated Text widget max limit increased
+- Fix: Countdown widget redirect issue
+- Fix: Featured List widget link issue
+- Fix: Malware false warning issue
+
+# v1.0.2 - 8 November 2019
+- Fix: Plugin auto updater initialization
+
+# v1.0.1 - 7 November 2019
+- Tweak: Widgets default styles
+- Fix: Image border radius style issue
+- Fix: Unexpected preset calls
+
+# v1.0.0 - 22 October 2019
+- Initial release

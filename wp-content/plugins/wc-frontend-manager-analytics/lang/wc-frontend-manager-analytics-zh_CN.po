@@ -1,0 +1,313 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-27 11:36+0000\n"
+"PO-Revision-Date: 2018-09-25 03:06+0800\n"
+"Language-Team: 简体中文\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"Last-Translator: MOHO <service@moho.tw>\n"
+
+#: core/class-wcfma-ajax.php:79
+msgid "No referrer yet ..!!!"
+msgstr "目前没有流量！"
+
+#: core/class-wcfma-ajax.php:139
+msgid "No views yet ..!!!"
+msgstr "目前没有人浏览过！"
+
+#: core/class-wcfma-frontend.php:59 views/wcfma-view-analytics.php:87
+msgid "Store Analytics"
+msgstr "商店分析"
+
+#: core/class-wcfma-frontend.php:112 views/wcfma-view-analytics.php:77
+#: views/wcfma-view-capability.php:31
+msgid "Analytics"
+msgstr ""
+
+#: core/class-wcfma-frontend.php:142
+msgid "Analytics Region"
+msgstr "分析地区"
+
+#: core/class-wcfma-library.php:228
+msgid "views"
+msgstr "总浏览人数"
+
+#: core/class-wcfma-license.php:163
+msgid "WCFM Analytics"
+msgstr ""
+
+#: core/class-wcfma-license.php:300
+#, php-format
+msgid ""
+"The WCFM - Analytics License Key has not been activated, so the plugin is "
+"inactive! %sClick here%s to activate the license key and the plugin."
+msgstr ""
+
+#: core/class-wcfma-listings-stats.php:58
+#: core/class-wcfma-listings-stats.php:116 views/wcfma-view-analytics.php:98
+#: views/wcfma-view-listings-stats.php:28
+#: views/wcfma-view-listings-stats.php:36
+msgid "Listings Stats"
+msgstr ""
+
+#: core/class-wcfma-non-ajax.php:31
+msgid "License"
+msgstr ""
+
+#: core/class-wcfma-non-ajax.php:48
+msgid "View WCFMu Change Log"
+msgstr ""
+
+#: core/class-wcfma-non-ajax.php:48
+msgid "Change Log"
+msgstr ""
+
+#: helpers/wcfma-core-functions.php:1112
+msgid "World"
+msgstr "全球"
+
+#: views/wcfma-view-analytics.php:63
+msgid "Choose a Product"
+msgstr "选择商品"
+
+#: views/wcfma-view-analytics.php:89
+msgid "Store Analytics BY"
+msgstr "商店分析"
+
+#: views/wcfma-view-analytics.php:98
+msgid "Stats"
+msgstr "统计"
+
+#: views/wcfma-view-analytics.php:141 views/wcfma-view-analytics.php:275
+#: views/wcfma-view-analytics.php:320
+msgid "Go"
+msgstr "显示"
+
+#: views/wcfma-view-analytics.php:157
+msgid "Top Regions"
+msgstr "热门地区"
+
+#: views/wcfma-view-analytics.php:171
+msgid "Region"
+msgstr "地区"
+
+#: views/wcfma-view-analytics.php:172
+msgid "Views"
+msgstr "总浏览人数"
+
+#: views/wcfma-view-analytics.php:206
+msgid "Daily Views Stats"
+msgstr "每日浏览分析"
+
+#: views/wcfma-view-analytics.php:226
+msgid "Top Referrers"
+msgstr "热门流量"
+
+#: views/wcfma-view-analytics.php:231
+msgid "Referrer"
+msgstr "来源"
+
+#: views/wcfma-view-analytics.php:232
+msgid "Count"
+msgstr "次数"
+
+#: views/wcfma-view-analytics.php:243
+msgid "Most Viewed Products"
+msgstr "热门商品"
+
+#: views/wcfma-view-analytics.php:257 views/wcfma-view-analytics.php:259
+msgid "Product Stats"
+msgstr "商品统计"
+
+#: views/wcfma-view-analytics.php:297 views/wcfma-view-analytics.php:299
+msgid "Category Stats"
+msgstr "分类分析"
+
+#: views/wcfma-view-analytics.php:312
+msgid "Choose a Category"
+msgstr "选择分类"
+
+#: core/license/admin/class-wcfm-license.php:16
+#: core/license/admin/class-wcfm-license.php:17
+msgid "WCFM License"
+msgstr ""
+
+#: core/license/admin/class-wcfm-license.php:79
+#, php-format
+msgid "<h2>%s License</h2>"
+msgstr ""
+
+#: core/license/admin/class-wcfm-license.php:86
+#, php-format
+msgid ""
+"<h4 style='border-bottom: 1px solid rgb(215, 211, 211);padding-bottom: "
+"21px;'>%s</h4>"
+msgstr ""
+
+#: core/license/admin/class-wcfma-settings-license.php:51
+msgid "License Activation"
+msgstr ""
+
+#: core/license/admin/class-wcfma-settings-license.php:52
+msgid "API License Key"
+msgstr ""
+
+#: core/license/admin/class-wcfma-settings-license.php:53
+msgid "API License email"
+msgstr ""
+
+#: core/license/admin/class-wcfma-settings-license.php:56
+msgid "License Deactivation"
+msgstr ""
+
+#: core/license/admin/class-wcfma-settings-license.php:57
+msgid "Deactivate API License Key"
+msgstr ""
+
+#: core/license/admin/class-wcfma-settings-license.php:57
+msgid "Deactivates an API License Key so it can be used on another blog."
+msgstr ""
+
+#: core/license/admin/class-wcfma-settings-license.php:246
+msgid "Please insert your license key."
+msgstr ""
+
+#: core/license/admin/class-wcfma-settings-license.php:256
+msgid "Please insert your license email."
+msgstr ""
+
+#: core/license/admin/class-wcfma-settings-license.php:285
+msgid "Plugin activated. "
+msgstr ""
+
+#: core/license/admin/class-wcfma-settings-license.php:293
+msgid "Connection failed to the License Key API server. Try again later."
+msgstr ""
+
+#: core/license/admin/class-wcfma-settings-license.php:358
+msgid "Plugin license deactivated."
+msgstr ""
+
+#: core/license/admin/class-wcfma-settings-license.php:382
+msgid ""
+"The license could not be deactivated. Use the License Deactivation tab to "
+"manually deactivate the license before activating a new license."
+msgstr ""
+
+#: core/license/classes/class-wcfma-update.php:373
+#, php-format
+msgid ""
+"The license key for %s has expired. You can reactivate or purchase a license "
+"key from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: core/license/classes/class-wcfma-update.php:388
+#, php-format
+msgid ""
+"The subscription for %s is on-hold. You can reactivate the subscription from "
+"your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: core/license/classes/class-wcfma-update.php:403
+#, php-format
+msgid ""
+"The subscription for %s has been cancelled. You can renew the subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>. A new "
+"license key will be emailed to you after your order has been completed."
+msgstr ""
+
+#: core/license/classes/class-wcfma-update.php:418
+#, php-format
+msgid ""
+"The subscription for %s has expired. You can reactivate the subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: core/license/classes/class-wcfma-update.php:433
+#, php-format
+msgid ""
+"The subscription for %s has been suspended. You can reactivate the "
+"subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</"
+"a>."
+msgstr ""
+
+#: core/license/classes/class-wcfma-update.php:448
+#, php-format
+msgid ""
+"The subscription for %s is still pending. You can check on the status of the "
+"subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</"
+"a>."
+msgstr ""
+
+#: core/license/classes/class-wcfma-update.php:463
+#, php-format
+msgid ""
+"The subscription for %s has been placed in the trash and will be deleted "
+"soon. You can purchase a new subscription from your account <a href=\"%s\" "
+"target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: core/license/classes/class-wcfma-update.php:478
+#, php-format
+msgid ""
+"A subscription for %s could not be found. You can purchase a subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: core/license/classes/class-wcfma-update.php:493
+#, php-format
+msgid ""
+"A license key for %s could not be found. Maybe you forgot to enter a license "
+"key when setting up %s, or the key was deactivated in your account. You can "
+"reactivate or purchase a license key from your account <a href=\"%s\" target="
+"\"_blank\">dashboard</a>."
+msgstr ""
+
+#: core/license/classes/class-wcfma-update.php:508
+#, php-format
+msgid ""
+"Download permission for %s has been revoked possibly due to a license key or "
+"subscription expiring. You can reactivate or purchase a license key from "
+"your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: core/license/classes/class-wcfma-update.php:523
+#, php-format
+msgid ""
+"%s has not been activated. Go to the settings page and enter the license key "
+"and license email to activate %s."
+msgstr ""
+
+#: core/license/classes/class-wcfma-update.php:538
+#, php-format
+msgid ""
+"You changed the subscription for %s, so you will need to enter your new API "
+"License Key in the settings page. The License Key should have arrived in "
+"your email inbox, if not you can get it by logging into your account <a href="
+"\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#. Name of the plugin
+msgid "WooCommerce Frontend Manager - Analytics"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Analyze your Store and Stroe Products Analytics from live site Front-end. "
+"Smoothly and Elegantly."
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://wclovers.com"
+msgstr ""
+
+#. Author of the plugin
+msgid "WC Lovers"
+msgstr ""

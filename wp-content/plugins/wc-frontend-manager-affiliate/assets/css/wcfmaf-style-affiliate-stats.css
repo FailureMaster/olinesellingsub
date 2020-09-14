@@ -1,0 +1,43 @@
+.wcfm_dashboard_stats_block .fa-ambulance {
+	background: #17a2b8 !important;
+}
+
+.wcfm_dashboard_stats_block .fa-user-alt {
+	background: #f8cb00;
+}
+.wcfm_dashboard_stats_block .fa-cart-plus {
+	background: #17a2b8 !important;
+}
+
+.commission-type {
+	padding: 6px 4px;
+	color: #fff;
+	border-radius: 2px;
+	font-size: 12px;
+	line-height: 10px;
+	width: 110px;
+	display: block;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.commission-type-vendor { background-color: #f8cb00; }
+.commission-type-vendor_order { background-color: #17a2b8; }
+.commission-type-order { background-color: #4dbd74; }
+
+.wcfm_ele_hide, #wcfm-main-contentainer #affiliate_user, #wcfm-main-contentainer .affiliate_user {
+	display: none !important;
+}
+
+table.dataTable.display tr td:nth-child(2), 
+table.dataTable.display tr td:nth-child(3),
+table.dataTable.display tr td:nth-child(4),
+table.dataTable.display tr td:nth-child(5),
+table.dataTable.display tr td:nth-child(6),
+table.dataTable.display tr th:nth-child(2),
+table.dataTable.display tr th:nth-child(3),
+table.dataTable.display tr th:nth-child(4),
+table.dataTable.display tr th:nth-child(5),
+table.dataTable.display tr th:nth-child(6) {
+	text-align: center;
+}

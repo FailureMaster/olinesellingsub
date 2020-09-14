@@ -1,0 +1,16 @@
+2020-09-14T10:06:51+00:00 DEBUG PERIODIC WITHDRAWAL SCHEDULER START :: September 14, 2020 6:06 pm
+2020-09-14T10:06:51+00:00 DEBUG Periodic withdrawal start. Vendor :: 43 Store :: APPROVAL TEST
+2020-09-14T10:06:51+00:00 DEBUG Periodic withdrawal payment method missing. Vendor :: 43 Store :: APPROVAL TEST
+2020-09-14T10:06:51+00:00 DEBUG Periodic withdrawal end. Vendor :: 43 Store :: APPROVAL TEST
+2020-09-14T10:06:51+00:00 DEBUG Periodic withdrawal start. Vendor :: 32 Store :: Watch Seller
+2020-09-14T10:06:51+00:00 DEBUG Periodic withdrawal payment method missing. Vendor :: 32 Store :: Watch Seller
+2020-09-14T10:06:51+00:00 DEBUG Periodic withdrawal end. Vendor :: 32 Store :: Watch Seller
+2020-09-14T10:06:51+00:00 DEBUG PERIODIC WITHDRAWAL SCHEDULER END :: September 14, 2020 6:06 pm
+2020-09-14T11:33:29+00:00 DEBUG PERIODIC WITHDRAWAL SCHEDULER START :: September 14, 2020 7:33 pm
+2020-09-14T11:33:29+00:00 DEBUG Periodic withdrawal start. Vendor :: 43 Store :: APPROVAL TEST
+2020-09-14T11:33:29+00:00 DEBUG Periodic withdrawal payment method missing. Vendor :: 43 Store :: APPROVAL TEST
+2020-09-14T11:33:29+00:00 DEBUG Periodic withdrawal end. Vendor :: 43 Store :: APPROVAL TEST
+2020-09-14T11:33:29+00:00 DEBUG Periodic withdrawal start. Vendor :: 32 Store :: Watch Seller
+2020-09-14T11:33:29+00:00 DEBUG Periodic withdrawal payment method missing. Vendor :: 32 Store :: Watch Seller
+2020-09-14T11:33:29+00:00 DEBUG Periodic withdrawal end. Vendor :: 32 Store :: Watch Seller
+2020-09-14T11:33:29+00:00 DEBUG PERIODIC WITHDRAWAL SCHEDULER END :: September 14, 2020 7:33 pm

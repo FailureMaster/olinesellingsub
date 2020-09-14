@@ -1,0 +1,277 @@
+#wcfm_world_map_analytics_view {
+	width: 100%;
+	height: 400px;
+}
+
+.jvectormap-tip {
+	background: #fff;
+	color: #000;
+	border-color: #17a2b8;
+	z-index: 10005 !important;
+}
+
+.wcfminsights-grid-border {
+	border: 1px solid #e3e9ed;
+	-moz-border-radius: 0px 0px 5px 5px;
+	-webkit-border-radius: 0px 0px 5px 5px;
+	border-radius: 0px 0px 5px 5px;
+}
+
+.wcfminsights-reports-box-title {
+	background-color: #FFF;
+	color: #7f8591;
+	font-size: 14px;
+	font-weight: 700;
+	padding: 20px;
+	border-bottom: 1px solid #e3e9ed;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+}
+
+[class*="wcfminsights-col-"] {
+	float: left;
+	padding-right: 20px;
+	box-sizing: border-box;
+}
+
+.wcfminsights-col-1-1 {
+  width: 100%;
+}
+
+.wcfminsights-col-1-2 {
+  width: 50%;
+}
+
+.wcfminsights-col-1-4 {
+  width: 25%;
+}
+
+.wcfminsights-data-row {
+	width: 100%;
+	float: left;
+	box-sizing: border-box;
+	text-overflow: ellipsis;
+	overflow: hidden;
+	white-space: nowrap;
+	color: #7f8591;
+	padding: 10px 15px;
+}
+
+.wcfminsights-reports-box-datalist .wcfminsights-data-row:nth-child(odd) {
+  background-color: #f7f7f9;
+}
+
+[class*="wcfminsights-col-"]:last-of-type {
+  padding-right: 0;
+}
+
+.wcfm_store_stats, .wcfm_product_stats {
+	width: 100%;
+	display: table;
+}
+
+.wcfm_store_referrer, .wcfm_top_products, .wcfm_product_referrer {
+	display: table-cell;
+	width: 50%;
+	padding: 5px;
+}
+
+.page_collapsible {
+	text-align: center;
+}
+
+
+.page_collapsible .wcfmfa {
+	float: left;
+	color: #ffffff;
+	font-size: 25px;
+}
+
+#wcfm-main-contentainer #wcfma_analytics_expander {
+	margin: 0px;
+}
+
+#wcfm-main-contentainer #wcfm_store_referrer_expander {
+	margin: 0px;
+	padding: 0px
+}
+
+#wcfm-main-contentainer .stats_range .select2-container {
+	margin-top: 15px;
+}
+
+#top-products-report, .top-referrers-report {
+	width: 100%;
+	height: 350px;
+	max-height: 360px;
+	padding: 5px;
+	overflow: hidden;
+	position: relative;
+}
+
+.top-referrers-report {
+	overflow: auto;
+}
+
+
+.top_referrers_head {
+	background: #cccccc;
+	padding: 10px;
+	color: #555;
+	font-weight: 700;
+}
+
+.top_referrer_content {
+	padding: 10px 0px;
+	border-bottom: 1px solid #ccc;
+}
+
+.top_referrers_head span, .top_referrer_content span {
+	display: inline-block;
+	text-align: center;
+}
+
+.top_referrers_head span:nth-child(1), .top_referrer_content span:nth-child(1) {
+	width: 79%;
+}
+
+.top_referrers_head span:nth-child(2), .top_referrer_content span:nth-child(2) {
+	width: 19%;
+	font-weight: 700;
+	color: #17a2b8;
+}
+
+.dont-break-out {
+
+  /* These are technically the same, but use both */
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+
+  -ms-word-break: break-all;
+  /* This is the dangerous one in WebKit, as it breaks things wherever */
+  word-break: break-all;
+  /* Instead use this non-standard one: */
+  word-break: break-word;
+
+  /* Adds a hyphen where the word breaks, if supported (No Blink) */
+  -ms-hyphens: auto;
+  -moz-hyphens: auto;
+  -webkit-hyphens: auto;
+  hyphens: auto;
+
+}
+
+.woocommerce-reports-wide .postbox .analytics-chart-placeholder, .woocommerce-reports-wide .postbox .analytics-product-chart-placeholder, .woocommerce-reports-wide .postbox .analytics-category-chart-placeholder {
+	width: 100%;
+	min-height: 260px;
+	overflow: hidden;
+	position: relative;
+}
+
+.woocommerce-reports-wide .postbox div.stats_range ul li.custom {
+  vertical-align: middle;
+}
+
+.woocommerce-reports-wide .postbox div.stats_range ul li.custom div, .woocommerce-reports-wide .postbox div.stats_range ul li.custom form {
+	display: inline-block;
+}
+
+.woocommerce-reports-wide .postbox div.stats_range ul li.custom div input.range_datepicker, .woocommerce-reports-wide .postbox div.stats_range ul li.custom form input.range_datepicker {
+  padding: 5px;
+	margin: 0 10px 0 0;
+	background: 0 0;
+	border: 0;
+	color: #777;
+	text-align: center;
+	-webkit-box-shadow: none;
+	box-shadow: none;	
+	max-width: 85px;
+	display: inline-block;
+}
+
+.woocommerce-reports-wide .button {
+	color: #555;
+	border-color: #ccc;
+	background: #f7f7f7;
+	-webkit-box-shadow: 0 1px 0 #ccc;
+	box-shadow: 0 1px 0 #ccc;
+	vertical-align: top;
+	
+	display: inline-block;
+	text-decoration: none;
+	font-size: 13px;
+	line-height: 28px;
+	margin: 0;
+	margin-top: 13px !important;
+	padding: 0 10px 1px;
+	cursor: pointer;
+	border-width: 1px;
+	border-style: solid;
+	-webkit-appearance: none;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	white-space: nowrap;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+#wcfm-main-contentainer #wcfm_top_products_expander {
+	margin: 0px;
+	padding: 0px;
+}
+
+.woocommerce-reports-wide .button:hover {
+	background: #17a2b8;
+}
+
+.woocommerce-reports-wide .postbox div.stats_range ul li.custom.active {
+	color: #17a2b8;
+	background: #f3f6f9;
+}
+
+@media only screen and (max-width: 768px) {
+	
+	#wcfm_world_map_analytics_view {
+		height: 300px;
+	}
+	
+	.wcfm_store_referrer, .wcfm_top_products, .wcfm_product_referrer {
+		width: 100%;
+		display: block;
+		padding: 5px 0px 5px 0px;
+	}
+}
+
+@media only screen and (max-width: 414px) {
+	
+	#wcfm_world_map_analytics_view {
+		height: 200px;
+	}
+	
+	.dashboard_widget_head {
+		width: 200px;
+		overflow: hidden;
+		display: inline-block;
+	}
+	
+	.select2-container {
+		width: 190px !important;
+	}
+	
+	.wcfm_store_referrer, .wcfm_top_products, .wcfm_product_referrer {
+		width: 100%;
+		display: block;
+		padding: 5px 0px 5px 0px;
+	}
+	
+	.wcfm_store_referrer table {
+		display: block;
+		max-width: 250px;
+		overflow: auto
+	}
+	
+	div.wcfm-content {
+		margin: 2px;
+	}
+}

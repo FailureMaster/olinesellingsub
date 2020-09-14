@@ -1,0 +1,269 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-11-01 14:19+0000\n"
+"PO-Revision-Date: 2017-11-01 14:19+0000\n"
+"Language-Team: Russian\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"Last-Translator: Алексей Серегин <a.muscaria@amanita-muscaria.info>\n"
+"Language: ru-RU"
+
+#: core/class-wcfmph-frontend.php:94
+msgid "Product Bundle"
+msgstr "Комплект товаров"
+
+#: core/class-wcfmph-frontend.php:101
+msgid "Composite"
+msgstr "Композит"
+
+#: core/class-wcfmph-license.php:163
+msgid "WCFM Product Hub"
+msgstr "WCFM Product Hub"
+
+#: core/class-wcfmph-license.php:300
+#, php-format
+msgid ""
+"The WCFM - Product Hub License Key has not been activated, so the plugin is "
+"inactive! %sClick here%s to activate the license key and the plugin."
+msgstr ""
+"WCFM - Product Hub лицензионный ключ продукта не был активирован, поэтому "
+"плагин не активен! %sClick здесь %s, чтобы активировать лицензионный ключ и "
+"плагин."
+
+#: core/class-wcfmph-non-ajax.php:33
+msgid "View WCFMu Change Log"
+msgstr "Просмотр журнала изменений WCFMu"
+
+#: core/class-wcfmph-non-ajax.php:33
+msgid "Change Log"
+msgstr "Журнал изменений"
+
+#: views/wcfmph-view-wc-product-bundles-product-manage.php:147
+msgid "Bundled"
+msgstr "УпакованныйType of DjVu document"
+
+#: core/license/admin/class-wcfm-license.php:16 
+#: core/license/admin/class-wcfm-license.php:17
+msgid "WCFM License"
+msgstr "Лицензия WCFM"
+
+#: core/license/admin/class-wcfm-license.php:79
+#, php-format
+msgid "<h2>%s License</h2>"
+msgstr "<h2>%s лицензия</h2>"
+
+#: core/license/admin/class-wcfm-license.php:86
+#, php-format
+msgid ""
+"<h4 style='border-bottom: 1px solid rgb(215, 211, 211);padding-bottom: 21px;"
+"'>%s</h4>"
+msgstr ""
+"<h4 style='border-bottom: 1px solid rgb(215, 211, 211);padding-bottom: 21px;"
+"'>%s</h4>"
+
+#: core/license/admin/class-wcfmph-settings-license.php:51
+msgid "License Activation"
+msgstr "Активация лицензии"
+
+#: core/license/admin/class-wcfmph-settings-license.php:52
+msgid "API License Key"
+msgstr "API лицензионный ключ"
+
+#: core/license/admin/class-wcfmph-settings-license.php:53
+msgid "API License email"
+msgstr "Еmail указанный в лицензии"
+
+#: core/license/admin/class-wcfmph-settings-license.php:56
+msgid "License Deactivation"
+msgstr "Деактивация лицензии"
+
+#: core/license/admin/class-wcfmph-settings-license.php:57
+msgid "Deactivate API License Key"
+msgstr "Деактивировать лицензионный ключ API"
+
+#: core/license/admin/class-wcfmph-settings-license.php:57
+msgid "Deactivates an API License Key so it can be used on another blog."
+msgstr ""
+"Отключение API лицензионного ключа, чтобы он мог быть использован на другом "
+"блоге."
+
+#: core/license/admin/class-wcfmph-settings-license.php:246
+msgid "Please insert your license key."
+msgstr "Пожалуйста, введите лицензионный ключ."
+
+#: core/license/admin/class-wcfmph-settings-license.php:256
+msgid "Please insert your license email."
+msgstr "Пожалуйста, введите верный адрес электронной почты."
+
+#: core/license/admin/class-wcfmph-settings-license.php:285
+msgid "Plugin activated. "
+msgstr "Плагин активирован. "
+
+#: core/license/admin/class-wcfmph-settings-license.php:293
+msgid "Connection failed to the License Key API server. Try again later."
+msgstr ""
+"Соединение с сервером активации ключа лицензии прервано. Попробуйте позже."
+
+#: core/license/admin/class-wcfmph-settings-license.php:358
+msgid "Plugin license deactivated."
+msgstr "Лицензия плагина деактивирована."
+
+#: core/license/admin/class-wcfmph-settings-license.php:382
+msgid ""
+"The license could not be deactivated. Use the License Deactivation tab to "
+"manually deactivate the license before activating a new license."
+msgstr ""
+"Лицензия не может быть отключена. Используйте вкладку Деактивация лицензии, "
+"чтобы вручную деактивировать лицензию, прежде чем активировать новую."
+
+#: core/license/classes/class-wcfmph-update.php:372
+#, php-format
+msgid ""
+"The license key for %s has expired. You can reactivate or purchase a license "
+"key from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"Лицензионный ключ для %s истек. Вы можете активировать его или приобрести "
+"новый для вашей учетной записи <a href=\"%s\" target=\"_blank\">админ "
+"панель</a> ."
+
+#: core/license/classes/class-wcfmph-update.php:387
+#, php-format
+msgid ""
+"The subscription for %s is on-hold. You can reactivate the subscription from "
+"your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"Подписка %s на на удержании. Вы можете активировать подписку с вашего счета "
+"<a href=\"%s\" target=\"_blank\">админ панель</a> ."
+
+#: core/license/classes/class-wcfmph-update.php:402
+#, php-format
+msgid ""
+"The subscription for %s has been cancelled. You can renew the subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>. A new "
+"license key will be emailed to you after your order has been completed."
+msgstr ""
+"Подписка на %s была приостановлена. Вы можете активировать подписку с вашего "
+"аккаунта <a href=\"%s\" target=\"_blank\">админ панель</a>."
+
+#: core/license/classes/class-wcfmph-update.php:417
+#, php-format
+msgid ""
+"The subscription for %s has expired. You can reactivate the subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"Подписка на %s истекла. Вы можете активировать подписку с вашего аккаунта <a "
+"href=\"%s\" target=\"_blank\">админ панель</a>."
+
+#: core/license/classes/class-wcfmph-update.php:432
+#, php-format
+msgid ""
+"The subscription for %s has been suspended. You can reactivate the "
+"subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</a>"
+"."
+msgstr ""
+"Подписка на %s была приостановлена. Вы можете активировать подписку с вашего "
+"аккаунта <a href=\"%s\" target=\"_blank\">админ панель</a>."
+
+#: core/license/classes/class-wcfmph-update.php:447
+#, php-format
+msgid ""
+"The subscription for %s is still pending. You can check on the status of the "
+"subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</a>"
+"."
+msgstr ""
+"Подписка на %s еще не принята. Вы можете проверить статус подписки с вашего "
+"счета <a href=\"%s\" target=\"_blank\">админ панель</a> ."
+
+#: core/license/classes/class-wcfmph-update.php:462
+#, php-format
+msgid ""
+"The subscription for %s has been placed in the trash and will be deleted "
+"soon. You can purchase a new subscription from your account <a href=\"%s\" "
+"target=\"_blank\">dashboard</a>."
+msgstr ""
+"Подписка на %s была помещена в корзину и скоро будет удалена. Вы можете "
+"приобрести новую подписку с вашего аккаунта <a href=\"%s\" target=\"_blank\">"
+"админ панель</a> ."
+
+#: core/license/classes/class-wcfmph-update.php:477
+#, php-format
+msgid ""
+"A subscription for %s could not be found. You can purchase a subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"Подписка для  %s не найдена. Вы можете приобрести подписку с вашего аккаунта "
+"<a href=\"%s\" target=\"_blank\">админ панель</a> ."
+
+#: core/license/classes/class-wcfmph-update.php:492
+#, php-format
+msgid ""
+"A license key for %s could not be found. Maybe you forgot to enter a license "
+"key when setting up %s, or the key was deactivated in your account. You can "
+"reactivate or purchase a license key from your account <a href=\"%s\" "
+"target=\"_blank\">dashboard</a>."
+msgstr ""
+"Лицензионный ключ для %s не найден. Может быть, Вы забыли ввести "
+"лицензионный ключ при настройке %s, или ключ был деактивирован в вашей "
+"учетной записи. Вы можете активировать или приобрести лицензионный ключ от "
+"вашей учетной записи <a href=\"%s\" target=\"_blank\">админ панель</a>."
+
+#: core/license/classes/class-wcfmph-update.php:507
+#, php-format
+msgid ""
+"Download permission for %s has been revoked possibly due to a license key or "
+"subscription expiring. You can reactivate or purchase a license key from "
+"your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"Разрешение на скачивание %s было отозвано, возможно из-за лицензионного "
+"ключа или окончания подписки. Вы можете повторно активировать или приобрести "
+"лицензионный ключ к вашей учетной записи <a href=\"%s\" target=\"_blank\">"
+"админ панель</a>."
+
+#: core/license/classes/class-wcfmph-update.php:522
+#, php-format
+msgid ""
+"%s has not been activated. Go to the settings page and enter the license key "
+"and license email to activate %s."
+msgstr ""
+"%s не была активирована. Перейти на страницу настроек и введите лицензионный "
+"ключ и лицензионный0 email, чтобы активировать %s."
+
+#: core/license/classes/class-wcfmph-update.php:537
+#, php-format
+msgid ""
+"You changed the subscription for %s, so you will need to enter your new API "
+"License Key in the settings page. The License Key should have arrived in "
+"your email inbox, if not you can get it by logging into your account <a "
+"href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"Вы изменили подписку для %s, так что вам нужно будет ввести новый API "
+"лицензионный ключ на странице настроек. Лицензионный ключ должен был прийти "
+"на Ваш почтовый ящик, если вы не можете получить его, войдите в свой аккаунт "
+"<a href=\"%s\" target=\"_blank\">админ панель</a>."
+
+#. Name of the plugin
+msgid "WooCommerce Frontend Manager - Product Hub"
+msgstr "WooCommerce Frontend Manager - Product Hub"
+
+#. Description of the plugin
+msgid ""
+"Upgrade your Store Products to the next level and off-course from live site "
+"Front-end. Smartly and Elegantly."
+msgstr ""
+"Обновить ваш магазин продукты на следующий уровень и-курс из живой сайт "
+"переднего плана. Стильно и элегантно."
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://wclovers.com"
+msgstr "http://wclovers.com"
+
+#. Author of the plugin
+msgid "WC Lovers"
+msgstr "WC Lovers"

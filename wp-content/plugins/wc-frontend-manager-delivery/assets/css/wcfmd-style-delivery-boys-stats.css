@@ -1,0 +1,42 @@
+.wcfm_dashboard_stats_block .fa-ambulance {
+	background: #17a2b8 !important;
+}
+
+.wcfm_dashboard_stats_block .fa-shipping-fast {
+	background: #f86c6b !important;
+}
+
+.order_items { display: none; }
+.order_items_visible { display: table; width: 100%; }
+.show_order_items { color: #D15600; }
+
+.order-status {
+  font-size: 20px;	
+}
+
+.wcfm_store_location i {
+	color: #20c997;
+}
+
+.wcfm_store_location a {
+	color: #ffc107;
+}
+
+.wcfm_customer_location a {
+	color: #20c997;
+}
+
+.dataTables_scrollFootInner .wcfm_delivery_stats_filter_wrap { display: none !important; }
+
+table.dataTable.display tr td:nth-child(2), 
+table.dataTable.display tr td:nth-child(3),
+table.dataTable.display tr td:nth-child(4),
+table.dataTable.display tr td:nth-child(5),
+table.dataTable.display tr td:nth-child(7),
+table.dataTable.display tr th:nth-child(2),
+table.dataTable.display tr th:nth-child(3),
+table.dataTable.display tr th:nth-child(4),
+table.dataTable.display tr th:nth-child(5),
+table.dataTable.display tr th:nth-child(7) {
+	text-align: center;
+}

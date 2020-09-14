@@ -1,0 +1,2 @@
+2020-08-28T13:27:02+00:00 CRITICAL syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/ramircapit/public_html/wp-content/plugins/woocommerce/includes/class-wc-tax.php on line 385
+

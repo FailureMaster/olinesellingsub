@@ -1,0 +1,7 @@
+.multi_input_block .select2-container {
+  width: 60% !important;
+}
+
+.hide_visiblity, .hide_variation, .hide_variation + .select2-container {
+	display: none !important;
+}

@@ -1,0 +1,762 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Frontend Manager - Groups & Staffs\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-07-31 15:16+0000\n"
+"PO-Revision-Date: 2019-10-12 11:53+0200\n"
+"Last-Translator: Správce tržiště <info@primaraj.cz>\n"
+"Language-Team: Čeština\n"
+"Language: cs_CZ\n"
+"Plural-Forms: nplurals=3; plural=( n == 1 ) ? 0 : ( n >= 2 && n <= 4 ) ? 1 : "
+"2;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Loco-Version: 2.3.0; wp-5.2.3\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: controllers/wcfmgs-controller-managers-manage.php:96
+#: controllers/wcfmgs-controller-staffs-manage.php:171
+#: core/class-wcfmgs-frontend.php:315
+msgid "Dear"
+msgstr "Vážený"
+
+#: controllers/wcfmgs-controller-managers-manage.php:98
+#: controllers/wcfmgs-controller-staffs-manage.php:173
+msgid ""
+"Your account has been created as {user_role}. Follow the below details to "
+"log into the system"
+msgstr ""
+"Váš účet byl vytvořen jako {user_role}. Postupujte podle níže uvedených "
+"pokynů a přihlaste se do systému"
+
+#: controllers/wcfmgs-controller-managers-manage.php:100
+#: controllers/wcfmgs-controller-staffs-manage.php:175
+#: core/class-wcfmgs-frontend.php:319
+msgid "Site"
+msgstr "Web"
+
+#: controllers/wcfmgs-controller-managers-manage.php:102
+#: controllers/wcfmgs-controller-staffs-manage.php:177
+#: core/class-wcfmgs-frontend.php:321
+msgid "Login"
+msgstr "Přihlášení"
+
+#: controllers/wcfmgs-controller-managers-manage.php:104
+#: controllers/wcfmgs-controller-staffs-manage.php:179
+#: core/class-wcfmgs-frontend.php:323
+msgid "Password"
+msgstr "Heslo"
+
+#: controllers/wcfmgs-controller-managers-manage.php:118
+msgid "Shop Manager"
+msgstr "Manažer obchodu"
+
+#: controllers/wcfmgs-controller-staffs-manage.php:193
+#: views/wcfmgs-view-staffs.php:25
+msgid "Shop Staff"
+msgstr "Zaměstnanec"
+
+#: controllers/wcfmgs-controller-staffs-manage.php:203
+#, php-format
+msgid "A new staff <b>%s</b> added to the store by <b>%s</b>"
+msgstr "Nový zaměstnanec <b>%s </b> byl přidáni do obchodu <b> %s</b>"
+
+#: core/class-wcfmgs-capability.php:314
+msgid "Staffs Limit: "
+msgstr "Limit zaměstnanců: "
+
+#: core/class-wcfmgs-frontend.php:60
+msgid "Capability"
+msgstr "Možnosti"
+
+#: core/class-wcfmgs-frontend.php:118 core/class-wcfmgs-frontend.php:191
+#: core/class-wcfmgs-frontend.php:267
+msgid "Preferred Group"
+msgstr "Preferovaná skupina"
+
+#: core/class-wcfmgs-frontend.php:120 core/class-wcfmgs-frontend.php:193
+#: core/class-wcfmgs-frontend.php:269 core/class-wcfmgs.php:385
+msgid "Choose your preferred group ..."
+msgstr "Vyberte požadovanou skupinu ..."
+
+#: core/class-wcfmgs-frontend.php:141 core/class-wcfmgs-frontend.php:214
+#: core/class-wcfmgs-frontend.php:289
+msgid "Please choose your preferred group"
+msgstr "Vyberte preferovanou skupinu"
+
+#: core/class-wcfmgs-frontend.php:317
+msgid ""
+"Your account has been created as {user_role}. Follow the bellow details to "
+"log into the system"
+msgstr ""
+"Váš účet byl vytvořen jako {user_role}. Postupujte podle níže uvedených "
+"podrobností a přihlaste se do systému"
+
+#: core/class-wcfmgs-frontend.php:334
+#: views/wcfmgs-view-capability-manage.php:980
+msgid "Groups & Staffs"
+msgstr "Skupiny & Zaměstnanci"
+
+#: core/class-wcfmgs-frontend.php:338
+msgid "Groups & Staffs Settings"
+msgstr "Nastavení skupin & zaměstnanců"
+
+#: core/class-wcfmgs-frontend.php:352
+msgid "Group auto-assignment on Registration"
+msgstr "Automatické přiřazení do skupiny při regostraci"
+
+#: core/class-wcfmgs-frontend.php:353
+msgid "New account mail subject"
+msgstr "Předmět emailu nového účtu"
+
+#: core/class-wcfmgs-frontend.php:354
+msgid "New account mail body"
+msgstr "Záhlaví emailu nového účtu"
+
+#: core/class-wcfmgs-frontend.php:354
+msgid ""
+"Allowed dynamic variables are: {site_url}, {user_role}, {username}, "
+"{first_name}, {password}"
+msgstr ""
+"Povolené dynamické proměnné jsou: {site_url}, {user_role}, {username}, "
+"{first_name}, {password}"
+
+#: core/class-wcfmgs-license.php:163
+msgid "WCFM Groups & Staffs"
+msgstr "WCFM Skupiny & Zaměstnanci"
+
+#: core/class-wcfmgs-license.php:300
+#, php-format
+msgid ""
+"The WCFM - Groups & Staffs License Key has not been activated, so the plugin "
+"is inactive! %sClick here%s to activate the license key and the plugin."
+msgstr ""
+"Licenční klíč WCFM - Skupiny & Zaměstnanci nebyl aktivován, takže plugin je "
+"neaktivní!  %sKliknutím zde%s aktivujete licenční klíč pluginu."
+
+#: core/class-wcfmgs-non-ajax.php:31
+msgid "License"
+msgstr "Licence"
+
+#: core/class-wcfmgs-non-ajax.php:48
+msgid "View WCFMu Change Log"
+msgstr "Seznam změn WCFM"
+
+#: core/class-wcfmgs-non-ajax.php:48
+msgid "Change Log"
+msgstr "Seznam změn"
+
+#: core/class-wcfmgs-shop-managers.php:91 views/wcfmgs-view-managers.php:25
+msgid "Shop Managers"
+msgstr "Vedoucí obchodu"
+
+#: core/class-wcfmgs-shop-managers.php:94
+msgid "Shop Managers Manage"
+msgstr "Vedoucí obchodu"
+
+#: core/class-wcfmgs-shop-managers.php:140
+#: views/wcfmgs-view-groups-manage.php:148
+msgid "Managers"
+msgstr "Nadřízení"
+
+#: core/class-wcfmgs-shop-managers.php:441
+msgid "total products posted"
+msgstr "celkem zveřejněných produktů"
+
+#: core/class-wcfmgs-shop-staffs.php:83
+msgid "Shop Staffs"
+msgstr "Zaměstnanci obchodu"
+
+#: core/class-wcfmgs-shop-staffs.php:86
+msgid "Shop Staffs Manage"
+msgstr "Zaměstnanci obchodu"
+
+#: core/class-wcfmgs-shop-staffs.php:132 views/wcfmgs-view-staffs.php:63
+#: views/wcfmgs-view-staffs.php:72
+msgid "Staff"
+msgstr "Zaměstnanci"
+
+#: core/class-wcfmgs-shop-staffs.php:715
+msgid "New Staff"
+msgstr "Nový zaměstnanec"
+
+#: core/class-wcfmgs-vendor-groups.php:54
+msgid "Vendor Groups"
+msgstr "Skupiny prodejců"
+
+#: core/class-wcfmgs-vendor-groups.php:57
+msgid "Vendor Groups Manage"
+msgstr "Správce skupin"
+
+#: core/class-wcfmgs-vendor-groups.php:103 templates/archive-groups.php:24
+#: views/wcfmgs-view-groups-manage.php:96 views/wcfmgs-view-groups.php:24
+#: views/wcfmgs-view-managers.php:64 views/wcfmgs-view-managers.php:73
+msgid "Groups"
+msgstr "Skupiny"
+
+#: core/class-wcfmgs-vendor-support.php:112
+#: core/class-wcfmgs-vendor-support.php:126
+#: views/wcfmgs-view-managers-manage.php:100
+#: views/wcfmgs-view-staffs-manage.php:282
+msgid "Custom Capability"
+msgstr "Nastavení práv zaměstnance"
+
+#: core/class-wcfmgs.php:397
+msgid "Capability Group"
+msgstr "Nastavení práv skupiny"
+
+#: core/class-wcfmgs.php:398
+msgid ""
+"Choose WCfM capability group. User will automatically associate with this "
+"group when subscribe to this packgae."
+msgstr ""
+"Zvolte skupinu WCFM. Uživatel se automaticky přiřadí k této skupině, když se "
+"přihlásí k tomuto balíčku."
+
+#: helpers/wcfmgs-core-functions.php:150
+msgid "Please insert Group Name before submit."
+msgstr "Před odesláním vložte název skupiny."
+
+#: helpers/wcfmgs-core-functions.php:151
+msgid "Group Saving Failed."
+msgstr "Uložení skupiny se nezdařilo."
+
+#: helpers/wcfmgs-core-functions.php:152
+msgid "Group Successfully Saved."
+msgstr "Skupina byla úspěšně uložena."
+
+#: helpers/wcfmgs-core-functions.php:164
+msgid "Please insert Manager Username before submit."
+msgstr "Před odesláním vložte uživatelské jméno správce."
+
+#: helpers/wcfmgs-core-functions.php:165
+msgid "Please insert Manager Email before submit."
+msgstr "Před odesláním vložte email správce."
+
+#: helpers/wcfmgs-core-functions.php:166 helpers/wcfmgs-core-functions.php:183
+msgid "This Username already exists."
+msgstr "Toto uživatelské jméno již existuje."
+
+#: helpers/wcfmgs-core-functions.php:167 helpers/wcfmgs-core-functions.php:184
+msgid "This Email already exists."
+msgstr "Tento email již existuje."
+
+#: helpers/wcfmgs-core-functions.php:168
+msgid "Manager Saving Failed."
+msgstr "Nepodařilo se uložit zaměstnance."
+
+#: helpers/wcfmgs-core-functions.php:169
+msgid "Manager Successfully Saved."
+msgstr "Manažer byl úspěšně uložen."
+
+#: helpers/wcfmgs-core-functions.php:181
+msgid "Please insert Staff Username before submit."
+msgstr "Před odesláním vložte uživatelské jméno zaměstnance."
+
+#: helpers/wcfmgs-core-functions.php:182
+msgid "Please insert Staff Email before submit."
+msgstr "Před odesláním vložte email zaměstnance."
+
+#: helpers/wcfmgs-core-functions.php:185
+msgid "Staff Saving Failed."
+msgstr "Nepodařilo se uložit zaměstnance."
+
+#: helpers/wcfmgs-core-functions.php:186
+msgid "Staff Successfully Saved."
+msgstr "Zaměstnanec byl přidán."
+
+#: views/wcfmgs-view-capability-manage.php:288
+msgid "Capabilities"
+msgstr "Funkce"
+
+#: views/wcfmgs-view-capability-manage.php:292
+msgid "Configure what to hide from User(s)"
+msgstr "Konfigurovat, co ne/má prodejce vidět ve svém účtu"
+
+#: views/wcfmgs-view-capability-manage.php:301
+msgid "Manage Products"
+msgstr "Správa produktů"
+
+#: views/wcfmgs-view-capability-manage.php:302
+#: views/wcfmgs-view-shop-manager-capability.php:180
+#: views/wcfmgs-view-shop-staff-capability.php:174
+msgid "Add Products"
+msgstr "Přidat produkty"
+
+#: views/wcfmgs-view-capability-manage.php:303
+msgid "Publish Products"
+msgstr "Publikovat produkty"
+
+#: views/wcfmgs-view-capability-manage.php:395
+msgid "No. of Articles allow to add by an user."
+msgstr "Počet článků umožněné přidávat prodejcem."
+
+#: views/wcfmgs-view-capability-manage.php:395
+#: views/wcfmgs-view-capability-manage.php:396
+#: views/wcfmgs-view-capability-manage.php:889
+#: views/wcfmgs-view-capability-manage.php:987
+#: views/wcfmgs-view-capability.php:37
+msgid "Set `-1` if you want to restrict limit at `0`."
+msgstr "Nastavte `-1`, pokud chcete omezit limit na` 0`."
+
+#: views/wcfmgs-view-capability-manage.php:396
+msgid "No. of Products allow to add by an user."
+msgstr "Počet produktů umožněné přidávat prodejcem."
+
+#: views/wcfmgs-view-capability-manage.php:501
+msgid "Store Settings"
+msgstr "Nastavení obchodu"
+
+#: views/wcfmgs-view-capability-manage.php:516
+msgid "Settings Inside"
+msgstr "Vnitřní nastavení"
+
+#: views/wcfmgs-view-capability-manage.php:800
+#: views/wcfmgs-view-shop-manager-capability.php:327
+#: views/wcfmgs-view-shop-staff-capability.php:321
+msgid "Manual Booking"
+msgstr "Ruční rezervace"
+
+#: views/wcfmgs-view-capability-manage.php:801
+#: views/wcfmgs-view-shop-manager-capability.php:328
+#: views/wcfmgs-view-shop-staff-capability.php:322
+msgid "Manage Resource"
+msgstr "Správa zdrojů"
+
+#: views/wcfmgs-view-capability-manage.php:802
+#: views/wcfmgs-view-shop-manager-capability.php:329
+#: views/wcfmgs-view-shop-staff-capability.php:323
+msgid "Bookings List"
+msgstr "Seznam rezervací"
+
+#: views/wcfmgs-view-capability-manage.php:803
+#: views/wcfmgs-view-shop-manager-capability.php:330
+#: views/wcfmgs-view-shop-staff-capability.php:324
+msgid "Bookings Calendar"
+msgstr "Kalendář rezervací"
+
+#: views/wcfmgs-view-capability-manage.php:816
+#: views/wcfmgs-view-shop-manager-capability.php:344
+#: views/wcfmgs-view-shop-staff-capability.php:338
+msgid "Manual Appointment"
+msgstr "Manuální schůzka"
+
+#: views/wcfmgs-view-capability-manage.php:817
+#: views/wcfmgs-view-shop-manager-capability.php:345
+#: views/wcfmgs-view-shop-staff-capability.php:339
+#: views/wcfmgs-view-staffs-manage.php:236
+#: views/wcfmgs-view-staffs-manage.php:252 views/wcfmgs-view-staffs.php:32
+msgid "Manage Staff"
+msgstr "Správa zaměstnanců"
+
+#: views/wcfmgs-view-capability-manage.php:818
+#: views/wcfmgs-view-shop-manager-capability.php:346
+#: views/wcfmgs-view-shop-staff-capability.php:340
+msgid "Appointments List"
+msgstr "Seznam schůzek"
+
+#: views/wcfmgs-view-capability-manage.php:819
+#: views/wcfmgs-view-shop-manager-capability.php:347
+#: views/wcfmgs-view-shop-staff-capability.php:341
+msgid "Appointments Calendar"
+msgstr "Kalendář schůzek"
+
+#: views/wcfmgs-view-capability-manage.php:889
+msgid "No. of Customers allow to add by an user."
+msgstr "Počet zákazníků přidaných uživatelem."
+
+#: views/wcfmgs-view-capability-manage.php:987
+#: views/wcfmgs-view-capability.php:37
+msgid "Staff Limit"
+msgstr "Limit zaměstnanců"
+
+#: views/wcfmgs-view-capability-manage.php:987
+#: views/wcfmgs-view-capability.php:37
+msgid "No. of Staffs allow to add by an user."
+msgstr "Počet zaměstnanců přidaných uživatelem."
+
+#: views/wcfmgs-view-capability-manage.php:997
+msgid "Analytics"
+msgstr "Analytics"
+
+#: views/wcfmgs-view-groups-manage.php:85
+msgid "Manage Group"
+msgstr "Správa skupiny"
+
+#: views/wcfmgs-view-groups-manage.php:93
+msgid "Edit Group"
+msgstr "Upravit skupinu"
+
+#: views/wcfmgs-view-groups-manage.php:93
+msgid "Add Group"
+msgstr "Přidat skupinu"
+
+#: views/wcfmgs-view-groups-manage.php:98 views/wcfmgs-view-groups.php:38
+msgid "Groups Directory"
+msgstr "Adresář skupin"
+
+#: views/wcfmgs-view-groups-manage.php:115 views/wcfmgs-view-managers.php:62
+#: views/wcfmgs-view-managers.php:71 views/wcfmgs-view-staffs.php:65
+#: views/wcfmgs-view-staffs.php:74
+msgid "Name"
+msgstr "Název"
+
+#: views/wcfmgs-view-groups-manage.php:116
+msgid "Description"
+msgstr "Popis"
+
+#: views/wcfmgs-view-groups-manage.php:117
+msgid "Thumbnail"
+msgstr "Náhled"
+
+#: views/wcfmgs-view-groups-manage.php:130
+msgid "Vendors"
+msgstr "Prodejci"
+
+#: views/wcfmgs-view-groups-manage.php:136
+msgid "Group Vendors"
+msgstr "Skupina prodejců"
+
+#: views/wcfmgs-view-groups-manage.php:154
+msgid "Group Managers"
+msgstr "Nadřízení skupiny"
+
+#: views/wcfmgs-view-groups-manage.php:169
+msgid "Submit"
+msgstr "Odeslat"
+
+#: views/wcfmgs-view-groups.php:31
+msgid "Manage Groups"
+msgstr "Spravovat skupiny"
+
+#: views/wcfmgs-view-groups.php:35
+msgid "Add New Group"
+msgstr "Přidat novou skupinu"
+
+#: views/wcfmgs-view-groups.php:53 views/wcfmgs-view-groups.php:62
+msgid "Group"
+msgstr "Skupina"
+
+#: views/wcfmgs-view-groups.php:54 views/wcfmgs-view-groups.php:63
+msgid "Vendor(s)"
+msgstr "Prodejci"
+
+#: views/wcfmgs-view-groups.php:55 views/wcfmgs-view-groups.php:64
+msgid "Manager(s)"
+msgstr "Manažeři"
+
+#: views/wcfmgs-view-groups.php:56 views/wcfmgs-view-groups.php:65
+#: views/wcfmgs-view-managers.php:65 views/wcfmgs-view-managers.php:74
+#: views/wcfmgs-view-staffs.php:67 views/wcfmgs-view-staffs.php:76
+msgid "Actions"
+msgstr "Akce"
+
+#: views/wcfmgs-view-managers-manage.php:50
+msgid "Manage Manager"
+msgstr "Spravovat manažera"
+
+#: views/wcfmgs-view-managers-manage.php:57
+msgid "Edit Manager"
+msgstr "Upravit manažera"
+
+#: views/wcfmgs-view-managers-manage.php:57
+msgid "Add Manager"
+msgstr "Přidat manažera"
+
+#: views/wcfmgs-view-managers-manage.php:62 views/wcfmgs-view-managers.php:37
+#: views/wcfmgs-view-staffs-manage.php:248 views/wcfmgs-view-staffs.php:37
+msgid "WP Admin View"
+msgstr "Zobrazení administrace WP"
+
+#: views/wcfmgs-view-managers-manage.php:66 views/wcfmgs-view-managers.php:32
+msgid "Manage Managers"
+msgstr "Spravovat manažery"
+
+#: views/wcfmgs-view-managers-manage.php:69 views/wcfmgs-view-managers.php:46
+msgid "Add New Manager"
+msgstr "Přidat nového manažera"
+
+#: views/wcfmgs-view-managers-manage.php:87
+#: views/wcfmgs-view-managers-manage.php:89
+#: views/wcfmgs-view-staffs-manage.php:273
+#: views/wcfmgs-view-staffs-manage.php:275
+msgid "Username"
+msgstr "Uživatelské jméno"
+
+#: views/wcfmgs-view-managers-manage.php:92 views/wcfmgs-view-managers.php:63
+#: views/wcfmgs-view-managers.php:72 views/wcfmgs-view-staffs-manage.php:278
+#: views/wcfmgs-view-staffs.php:66 views/wcfmgs-view-staffs.php:75
+msgid "Email"
+msgstr "Email"
+
+#: views/wcfmgs-view-managers-manage.php:93
+#: views/wcfmgs-view-staffs-manage.php:279
+msgid "First Name"
+msgstr "Křestní jméno"
+
+#: views/wcfmgs-view-managers-manage.php:94
+#: views/wcfmgs-view-staffs-manage.php:280
+msgid "Last Name"
+msgstr "Příjmení"
+
+#: views/wcfmgs-view-managers.php:61 views/wcfmgs-view-managers.php:70
+msgid "Manager"
+msgstr "Manažer"
+
+#: views/wcfmgs-view-shop-manager-capability.php:171
+msgid "Configure what to hide from all Shop Managers"
+msgstr "Nakonfigurujte, co se má skrýt před všemi správci obchodu"
+
+#: views/wcfmgs-view-shop-staff-capability.php:165
+msgid "Configure what to hide from all Shop Staffs"
+msgstr "Nakonfigurujte, co se má skrýt před všemi zaměstnanci"
+
+#: views/wcfmgs-view-shop-staff-capability.php:342
+msgid "Manage Availability"
+msgstr "Spravovat dostupnost"
+
+#: views/wcfmgs-view-staffs-manage.php:243
+msgid "Edit Staff"
+msgstr "Upravit Zaměstnance"
+
+#: views/wcfmgs-view-staffs-manage.php:243
+msgid "Add Staff"
+msgstr "Přidat zaměstnance"
+
+#: views/wcfmgs-view-staffs-manage.php:255 views/wcfmgs-view-staffs.php:46
+msgid "Add New Staff"
+msgstr "Přidat nového zaměstnance"
+
+#: views/wcfmgs-view-staffs-manage.php:307
+msgid ""
+"If not appointable, users won't be able to choose slots in this range for "
+"their appointment."
+msgstr ""
+"Pokud to není možné, uživatelé si nebudou moci vybrat role v tomto rozsahu "
+"pro své jmenování."
+
+#: views/wcfmgs-view-staffs.php:64 views/wcfmgs-view-staffs.php:73
+msgid "Store"
+msgstr "Obchod"
+
+#: core/license/admin/class-wcfm-license.php:16
+#: core/license/admin/class-wcfm-license.php:17
+msgid "WCFM License"
+msgstr "WCFM Licence"
+
+#: core/license/admin/class-wcfm-license.php:79
+#, php-format
+msgid "<h2>%s License</h2>"
+msgstr "<h2>%s Licence</h2>"
+
+#: core/license/admin/class-wcfm-license.php:86
+#, php-format
+msgid ""
+"<h4 style='border-bottom: 1px solid rgb(215, 211, 211);padding-bottom: "
+"21px;'>%s</h4>"
+msgstr ""
+"<h4 style='border-bottom: 1px solid rgb(215, 211, 211);padding-bottom: "
+"21px;'>%s</h4>"
+
+#: core/license/admin/class-wcfmgs-settings-license.php:51
+msgid "License Activation"
+msgstr "Aktivace licence"
+
+#: core/license/admin/class-wcfmgs-settings-license.php:52
+msgid "API License Key"
+msgstr "Licenční klíč API"
+
+#: core/license/admin/class-wcfmgs-settings-license.php:53
+msgid "API License email"
+msgstr "Email licence API"
+
+#: core/license/admin/class-wcfmgs-settings-license.php:56
+msgid "License Deactivation"
+msgstr "Deaktivace licence"
+
+#: core/license/admin/class-wcfmgs-settings-license.php:57
+msgid "Deactivate API License Key"
+msgstr "Deaktivujte licenční klíč API"
+
+#: core/license/admin/class-wcfmgs-settings-license.php:57
+msgid "Deactivates an API License Key so it can be used on another blog."
+msgstr "Deaktivuje licenční klíč API, aby jste jej mohli použít na jiném webu."
+
+#: core/license/admin/class-wcfmgs-settings-license.php:246
+msgid "Please insert your license key."
+msgstr "Vložte prosím licenční klíč."
+
+#: core/license/admin/class-wcfmgs-settings-license.php:256
+msgid "Please insert your license email."
+msgstr "Vložte prosím licenční email."
+
+#: core/license/admin/class-wcfmgs-settings-license.php:285
+msgid "Plugin activated. "
+msgstr "Plugin aktivován. "
+
+#: core/license/admin/class-wcfmgs-settings-license.php:293
+msgid "Connection failed to the License Key API server. Try again later."
+msgstr ""
+"Připojení k serveru API licenčního klíče se nezdařilo. Zkuste to později "
+"znovu."
+
+#: core/license/admin/class-wcfmgs-settings-license.php:358
+msgid "Plugin license deactivated."
+msgstr "Licence pluginu byla deaktivována."
+
+#: core/license/admin/class-wcfmgs-settings-license.php:382
+msgid ""
+"The license could not be deactivated. Use the License Deactivation tab to "
+"manually deactivate the license before activating a new license."
+msgstr ""
+"Licence nemohla být deaktivována. Karta Licence Deaktivace slouží k ruční "
+"deaktivaci licence před aktivací nové licence."
+
+#: core/license/classes/class-wcfmgs-update.php:373
+#, php-format
+msgid ""
+"The license key for %s has expired. You can reactivate or purchase a license "
+"key from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"Platnost licenčního klíče pro %s vypršela. Licenční klíč můžete znovu "
+"aktivovat nebo zakoupit ve vašem <a href=\"%s\" target=\"_blank"
+"\">uživatelském účtu</a>."
+
+#: core/license/classes/class-wcfmgs-update.php:388
+#, php-format
+msgid ""
+"The subscription for %s is on-hold. You can reactivate the subscription from "
+"your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"Předplatné pro %s je pozdrženo. Odběr můžete znovu aktivovat z <a href=\"%s"
+"\" target=\"_blank\">řídicího panelu</a> účtu."
+
+#: core/license/classes/class-wcfmgs-update.php:403
+#, php-format
+msgid ""
+"The subscription for %s has been cancelled. You can renew the subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>. A new "
+"license key will be emailed to you after your order has been completed."
+msgstr ""
+"Předplatné pro %s bylo zrušeno. Předplatné můžete obnovit z hlavního <a href="
+"\"%s\" target=\"_blank\">panelu</a> účtu. Po dokončení vaší objednávky vám "
+"bude zaslán nový licenční klíč."
+
+#: core/license/classes/class-wcfmgs-update.php:418
+#, php-format
+msgid ""
+"The subscription for %s has expired. You can reactivate the subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"Platnost předplatného pro %s vypršela. Předplatné můžete znovu aktivovat z "
+"<a href=\"%s\" target=\"_blank\">řídicího panelu</a> účtu."
+
+#: core/license/classes/class-wcfmgs-update.php:433
+#, php-format
+msgid ""
+"The subscription for %s has been suspended. You can reactivate the "
+"subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</"
+"a>."
+msgstr ""
+"Předplatné %s bylo pozastaveno. Předplatné můžete znovu aktivovat z <a href="
+"\"%s\" target=\"_blank\">řídicího panelu</a> účtu."
+
+#: core/license/classes/class-wcfmgs-update.php:448
+#, php-format
+msgid ""
+"The subscription for %s is still pending. You can check on the status of the "
+"subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</"
+"a>."
+msgstr ""
+"Předplatné pro %s stále čeká na vyřízení. Stav předplatného můžete "
+"zkontrolovat v <a href=\"%s\" target=\"_blank\">řídicím panelu</a> účtu."
+
+#: core/license/classes/class-wcfmgs-update.php:463
+#, php-format
+msgid ""
+"The subscription for %s has been placed in the trash and will be deleted "
+"soon. You can purchase a new subscription from your account <a href=\"%s\" "
+"target=\"_blank\">dashboard</a>."
+msgstr ""
+"Předplatné pro %s bylo umístěno do koše a brzy bude smazáno. Nové předplatné "
+"můžete zakoupit z <a href=\"%s\" target=\"_blank\">řídicího panelu</a> účtu."
+
+#: core/license/classes/class-wcfmgs-update.php:478
+#, php-format
+msgid ""
+"A subscription for %s could not be found. You can purchase a subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"Nelze nalézt předplatné pro %s. Předplatné můžete zakoupit z <a href=\"%s\" "
+"target=\"_blank\">řídicího panelu</a> účtu."
+
+#: core/license/classes/class-wcfmgs-update.php:493
+#, php-format
+msgid ""
+"A license key for %s could not be found. Maybe you forgot to enter a license "
+"key when setting up %s, or the key was deactivated in your account. You can "
+"reactivate or purchase a license key from your account <a href=\"%s\" target="
+"\"_blank\">dashboard</a>."
+msgstr ""
+"Nelze nalézt licenční klíč pro %s. Možná jste zapomněli zadat licenční klíč "
+"při nastavování %s, nebo byl klíč deaktivován ve vašem účtu. Licenční klíč "
+"můžete znovu aktivovat nebo zakoupit z <a href=\"%s\" target=\"_blank"
+"\">řídicího panelu</a> účtu."
+
+#: core/license/classes/class-wcfmgs-update.php:508
+#, php-format
+msgid ""
+"Download permission for %s has been revoked possibly due to a license key or "
+"subscription expiring. You can reactivate or purchase a license key from "
+"your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"Oprávnění ke stažení pro %s bylo zrušeno pravděpodobně z důvodu ukončení "
+"platnosti licenčního klíče nebo předplatného. Licenční klíč můžete znovu "
+"aktivovat nebo zakoupit z <a href=\"%s\" target=\"_blank\">řídicího panelu</"
+"a> účtu."
+
+#: core/license/classes/class-wcfmgs-update.php:523
+#, php-format
+msgid ""
+"%s has not been activated. Go to the settings page and enter the license key "
+"and license email to activate %s."
+msgstr ""
+"%s nebylo aktivováno. Přejděte na stránku nastavení a zadejte licenční klíč "
+"a licenční email pro aktivaci %s."
+
+#: core/license/classes/class-wcfmgs-update.php:538
+#, php-format
+msgid ""
+"You changed the subscription for %s, so you will need to enter your new API "
+"License Key in the settings page. The License Key should have arrived in "
+"your email inbox, if not you can get it by logging into your account <a href="
+"\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"Změnili jste předplatné pro %s, takže budete muset na stránce nastavení "
+"zadat nový licenční klíč API. Licenční klíč by měl dorazit do vaší emailové "
+"schránky, pokud ne, můžete jej získat po přihlášení do <a href=\"%s\" target="
+"\"_blank\">řídicího panelu</a> účtu."
+
+#. Name of the plugin
+msgid "WCFM - WooCommerce Frontend Manager - Groups & Staffs"
+msgstr "WCFM - WooCommerce Frontend Manager - Groups & Staffs"
+
+#. Description of the plugin
+msgid ""
+"Now categorize your Store Vendors and control Shop Managers & Staffs. "
+"Smartly and Peacfully."
+msgstr ""
+"Nyní můžete třídit prodejce do skupin. Dále můžete určovat manažery & "
+"zaměstnance obchodu. Jednoduše, elegantně. <strong>O překlad se stará: <a "
+"href=\"https://vandaal.cz\">Fany VanDaal</a></strong> (https://vandaal.cz)."
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://wclovers.com"
+msgstr "https://wclovers.com"
+
+#. Author of the plugin
+msgid "WC Lovers"
+msgstr "WC Lovers"

@@ -1,0 +1,17 @@
+#wcfm_affiliate_url_form{padding-top:25px;}
+
+#wcfm-main-contentainer #generated_url {border:0px!important;color:#f86c6b!important;padding:0px;}
+
+p.instruction {
+	margin-left: 39% !important;
+	margin-right: 0% !important;
+	display: block;
+	margin-bottom:25px !important;
+	margin-top:-10px !important;
+}
+
+@media only screen and (max-width: 640px) {
+	p.instruction {
+		margin-left: 1% !important;
+	}
+}

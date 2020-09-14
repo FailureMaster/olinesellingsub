@@ -1,0 +1,11 @@
+#wcfm-main-contentainer input.wcfm-checkbox, #wcfm-main-contentainer input[type="checkbox"] { margin-right: 55%; }
+
+@media only screen and (max-width: 640px) {
+	#wcfm-main-contentainer input.wcfm-checkbox, #wcfm-main-contentainer input[type="checkbox"] { margin-right: 5%; }
+}
+
+@media only screen and (max-width: 414px) {
+	@media only screen and (max-width: 414px) {
+		a.add_new_wcfm_ele_dashboard .text { display: none; }
+	}
+}

@@ -1,0 +1,35 @@
+.store_address p.wcfm_title {
+	margin-left: 3%;
+	width: 36%;
+}
+
+#wcfm-main-contentainer input.wcfm-checkbox, #wcfm-main-contentainer input[type="checkbox"] { margin-right: 55%; }
+
+.remove_multi_input_block:hover { background: #CC0000 none repeat scroll 0 0; }
+
+#wcfm-main-contentainer #affiliate_code, #wcfm-main-contentainer #affiliate_url {border:0px!important;}
+#wcfm-main-contentainer #affiliate_url{color:#f86c6b!important;}
+
+.wcfm_ele_hide, #wcfm-main-contentainer #affiliate_user, #wcfm-main-contentainer .affiliate_user {
+	display: none !important;
+}
+
+.wcfm-wp-fields-uploader {
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 25%;
+	margin-bottom: 10px;
+}
+
+@media only screen and (max-width: 640px) {
+	p.wcfm_title, .store_address p.wcfm_title, .wcfm_setting_indent_block p.wcfm_title {
+		width: 90%;
+	}
+	
+	#wcfm-main-contentainer input.wcfm-checkbox, #wcfm-main-contentainer input[type="checkbox"] { margin-right: 5%; }
+}
+
+	
+@media only screen and (max-width: 414px) {
+	a.add_new_wcfm_ele_dashboard .text { display: none; }
+}

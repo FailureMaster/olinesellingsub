@@ -1,0 +1,66 @@
+.wcfm_delivery_boys_limit_label {
+	padding: 2px 10px;
+	font-size: 15px;
+  color: #e85656;
+  border: 1px solid #e85656;
+  border-radius: 3px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  display: inline-block;
+  float: none;
+}
+
+.wcfm_vendor_store a {
+  color: #FF7400;
+	font-weight: 500;
+}
+
+.affiliate_commission {
+	color: #f86c6b !important;
+	font-size: 16px;
+	font-weight: 600;
+}
+
+.affiliate_paid_commission {
+	color: #20a8d8 !important;
+	font-size: 16px;
+	font-weight: 600;
+}
+
+.affiliate_vendor_count {
+	color: #e83e8c;
+	font-size: 16px;
+	font-weight: 600;
+}
+.affiliate_order_count {
+	color: #6f42c1 !important;
+	font-size: 16px;
+	font-weight: 600;
+}
+
+table.dataTable.display tr td:nth-child(1), 
+table.dataTable.display tr td:nth-child(2), 
+table.dataTable.display tr td:nth-child(3),
+table.dataTable.display tr td:nth-child(4),
+table.dataTable.display tr td:nth-child(5),
+table.dataTable.display tr td:nth-child(6),
+table.dataTable.display tr th:nth-child(1),
+table.dataTable.display tr th:nth-child(2),
+table.dataTable.display tr th:nth-child(3),
+table.dataTable.display tr th:nth-child(4),
+table.dataTable.display tr th:nth-child(5),
+table.dataTable.display tr th:nth-child(6){
+	text-align: center;
+}
+
+@media only screen and (max-width: 980px) {
+  .wcfm_delivery_boys_limit_label {
+		width: 100%;
+		margin: 10px 0px;
+		text-align: center;
+	}
+}
+
+@media only screen and (max-width: 414px) {
+	a.add_new_wcfm_ele_dashboard .text { display: none; }
+}

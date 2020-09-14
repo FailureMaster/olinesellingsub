@@ -1,0 +1,588 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WC frontend stafs and groups\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-10-15 22:11+0000\n"
+"PO-Revision-Date: 2017-10-15 22:11+0000\n"
+"Last-Translator: admin <admin@wph.com>\n"
+"Language-Team: Portuguese (Portugal)\n"
+"Language: pt-PT\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: controllers/wcfmgs-controller-managers-manage.php:82
+#: controllers/wcfmgs-controller-staffs-manage.php:130
+#: core/class-wcfmgs-frontend.php:206
+msgid ""
+"Your account has been created as {user_role}. Follow the bellow details to "
+"log into the system"
+msgstr ""
+
+#: controllers/wcfmgs-controller-managers-manage.php:84
+#: controllers/wcfmgs-controller-staffs-manage.php:132
+#: core/class-wcfmgs-frontend.php:208
+msgid "Site"
+msgstr ""
+
+#: controllers/wcfmgs-controller-managers-manage.php:86
+#: controllers/wcfmgs-controller-staffs-manage.php:134
+#: core/class-wcfmgs-frontend.php:210
+msgid "Login"
+msgstr ""
+
+#: controllers/wcfmgs-controller-managers-manage.php:88
+#: controllers/wcfmgs-controller-staffs-manage.php:136
+#: core/class-wcfmgs-frontend.php:212
+msgid "Password"
+msgstr ""
+
+#: core/class-wcfmgs-frontend.php:79 core/class-wcfmgs-frontend.php:153
+msgid "Preferred Group"
+msgstr ""
+
+#: core/class-wcfmgs-frontend.php:81 core/class-wcfmgs-frontend.php:155
+msgid "Choose your preferred group ..."
+msgstr ""
+
+#: core/class-wcfmgs-frontend.php:102 core/class-wcfmgs-frontend.php:176
+msgid "Please choose your preferred group"
+msgstr ""
+
+#: core/class-wcfmgs-frontend.php:229
+msgid "Group auto-assignment on Registration"
+msgstr ""
+
+#: core/class-wcfmgs-frontend.php:231
+msgid ""
+"Allowed dynamic variables are: {site_url}, {user_role}, {username}, "
+"{first_name}, {password}"
+msgstr ""
+
+#: core/class-wcfmgs-license.php:163
+msgid "WCFM Groups & Staffs"
+msgstr ""
+
+#: core/class-wcfmgs-license.php:300
+#, php-format
+msgid ""
+"The WCFM - Groups & Staffs License Key has not been activated, so the plugin "
+"is inactive! %sClick here%s to activate the license key and the plugin."
+msgstr ""
+
+#: core/class-wcfmgs-non-ajax.php:33
+msgid "View WCFMu Change Log"
+msgstr ""
+
+#: core/class-wcfmgs-non-ajax.php:33
+msgid "Change Log"
+msgstr ""
+
+#: core/class-wcfmgs-shop-managers.php:55 views/wcfmgs-view-managers.php:25
+msgid "Shop Managers"
+msgstr ""
+
+#: core/class-wcfmgs-shop-managers.php:58
+msgid "Shop Managers Manage"
+msgstr ""
+
+#: core/class-wcfmgs-shop-managers.php:104
+#: views/wcfmgs-view-groups-manage.php:132
+msgid "Managers"
+msgstr ""
+
+#: core/class-wcfmgs-shop-staffs.php:66 views/wcfmgs-view-staffs.php:25
+msgid "Shop Staffs"
+msgstr ""
+
+#: core/class-wcfmgs-shop-staffs.php:69
+msgid "Shop Staffs Manage"
+msgstr ""
+
+#: core/class-wcfmgs-shop-staffs.php:115
+msgid "Staffs"
+msgstr ""
+
+#: core/class-wcfmgs-vendor-groups.php:57
+msgid "Vendor Groups Manage"
+msgstr ""
+
+#: helpers/wcfmgs-core-functions.php:128
+msgid "Please insert Group Name before submit."
+msgstr ""
+
+#: helpers/wcfmgs-core-functions.php:129
+msgid "Group Saving Failed."
+msgstr ""
+
+#: helpers/wcfmgs-core-functions.php:130
+msgid "Group Successfully Saved."
+msgstr ""
+
+#: helpers/wcfmgs-core-functions.php:142
+msgid "Please insert Manager Username before submit."
+msgstr ""
+
+#: helpers/wcfmgs-core-functions.php:143
+msgid "Please insert Manager Email before submit."
+msgstr ""
+
+#: helpers/wcfmgs-core-functions.php:144 helpers/wcfmgs-core-functions.php:161
+msgid "This Username already exists."
+msgstr ""
+
+#: helpers/wcfmgs-core-functions.php:145 helpers/wcfmgs-core-functions.php:162
+msgid "This Email already exists."
+msgstr ""
+
+#: helpers/wcfmgs-core-functions.php:146
+msgid "Manager Saving Failed."
+msgstr ""
+
+#: helpers/wcfmgs-core-functions.php:147
+msgid "Manager Successfully Saved."
+msgstr ""
+
+#: helpers/wcfmgs-core-functions.php:159
+msgid "Please insert Staff Username before submit."
+msgstr ""
+
+#: helpers/wcfmgs-core-functions.php:160
+msgid "Please insert Staff Email before submit."
+msgstr ""
+
+#: helpers/wcfmgs-core-functions.php:163
+msgid "Staff Saving Failed."
+msgstr ""
+
+#: helpers/wcfmgs-core-functions.php:164
+msgid "Staff Successfully Saved."
+msgstr ""
+
+#: views/wcfmgs-view-capability-manage.php:115
+msgid "Capabilities"
+msgstr ""
+
+#: views/wcfmgs-view-capability-manage.php:127
+msgid "Manage Products"
+msgstr ""
+
+#: views/wcfmgs-view-capability-manage.php:128
+msgid "Add Products"
+msgstr ""
+
+#: views/wcfmgs-view-capability-manage.php:129
+msgid "Edit Products"
+msgstr ""
+
+#: views/wcfmgs-view-capability-manage.php:130
+msgid "Publish Products"
+msgstr ""
+
+#: views/wcfmgs-view-capability-manage.php:131
+msgid "Manage Coupons"
+msgstr ""
+
+#: views/wcfmgs-view-capability-manage.php:229
+#: views/wcfmgs-view-shop-manager-capability.php:228
+#: views/wcfmgs-view-shop-staff-capability.php:209
+msgid "Manual Booking"
+msgstr ""
+
+#: views/wcfmgs-view-capability-manage.php:230
+#: views/wcfmgs-view-shop-manager-capability.php:229
+#: views/wcfmgs-view-shop-staff-capability.php:210
+msgid "Manage Resource"
+msgstr ""
+
+#: views/wcfmgs-view-capability-manage.php:231
+#: views/wcfmgs-view-shop-manager-capability.php:230
+#: views/wcfmgs-view-shop-staff-capability.php:211
+msgid "Bookings List"
+msgstr ""
+
+#: views/wcfmgs-view-capability-manage.php:232
+#: views/wcfmgs-view-shop-manager-capability.php:231
+#: views/wcfmgs-view-shop-staff-capability.php:212
+msgid "Bookings Calendar"
+msgstr ""
+
+#: views/wcfmgs-view-capability-manage.php:245
+#: views/wcfmgs-view-shop-manager-capability.php:244
+#: views/wcfmgs-view-shop-staff-capability.php:225
+msgid "Manual Appointment"
+msgstr ""
+
+#: views/wcfmgs-view-capability-manage.php:246
+#: views/wcfmgs-view-shop-manager-capability.php:245
+#: views/wcfmgs-view-shop-staff-capability.php:226
+#: views/wcfmgs-view-staffs-manage.php:165
+msgid "Manage Staff"
+msgstr ""
+
+#: views/wcfmgs-view-capability-manage.php:247
+#: views/wcfmgs-view-shop-manager-capability.php:246
+#: views/wcfmgs-view-shop-staff-capability.php:227
+msgid "Appointments List"
+msgstr ""
+
+#: views/wcfmgs-view-capability-manage.php:248
+#: views/wcfmgs-view-shop-manager-capability.php:247
+#: views/wcfmgs-view-shop-staff-capability.php:228
+msgid "Appointments Calendar"
+msgstr ""
+
+#: views/wcfmgs-view-groups-manage.php:120
+msgid "Group Vendors"
+msgstr ""
+
+#: views/wcfmgs-view-groups-manage.php:138
+msgid "Group Managers"
+msgstr ""
+
+#: views/wcfmgs-view-groups.php:32
+msgid "Manage Groups"
+msgstr ""
+
+#: views/wcfmgs-view-groups.php:47 views/wcfmgs-view-groups.php:55
+msgid "Vendor(s)"
+msgstr ""
+
+#: views/wcfmgs-view-groups.php:48 views/wcfmgs-view-groups.php:56
+msgid "Manager(s)"
+msgstr ""
+
+#: views/wcfmgs-view-managers-manage.php:50
+msgid "Manage Manager"
+msgstr ""
+
+#: views/wcfmgs-view-managers-manage.php:63 views/wcfmgs-view-managers.php:37
+#: views/wcfmgs-view-staffs-manage.php:178 views/wcfmgs-view-staffs.php:37
+msgid "WP Admin View"
+msgstr ""
+
+#: views/wcfmgs-view-managers-manage.php:67 views/wcfmgs-view-managers.php:32
+msgid "Manage Managers"
+msgstr ""
+
+#: views/wcfmgs-view-managers-manage.php:79
+#: views/wcfmgs-view-managers-manage.php:81
+#: views/wcfmgs-view-staffs-manage.php:194
+#: views/wcfmgs-view-staffs-manage.php:196
+msgid "Username"
+msgstr ""
+
+#: views/wcfmgs-view-managers-manage.php:84 views/wcfmgs-view-managers.php:58
+#: views/wcfmgs-view-managers.php:67 views/wcfmgs-view-staffs-manage.php:199
+#: views/wcfmgs-view-staffs.php:58 views/wcfmgs-view-staffs.php:66
+msgid "Email"
+msgstr ""
+
+#: views/wcfmgs-view-managers-manage.php:87
+#: views/wcfmgs-view-staffs-manage.php:202
+msgid "Custom Capability"
+msgstr ""
+
+#: views/wcfmgs-view-managers.php:56 views/wcfmgs-view-managers.php:65
+msgid "Manager"
+msgstr ""
+
+#: views/wcfmgs-view-shop-manager-capability.php:112
+msgid "Configure what to hide from all Shop Managers"
+msgstr ""
+
+#: views/wcfmgs-view-shop-staff-capability.php:105
+msgid "Configure what to hide from all Shop Staffs"
+msgstr ""
+
+#: views/wcfmgs-view-staffs-manage.php:182 views/wcfmgs-view-staffs.php:32
+msgid "Manage Staffs"
+msgstr ""
+
+#: views/wcfmgs-view-staffs.php:56 views/wcfmgs-view-staffs.php:64
+msgid "Staff"
+msgstr ""
+
+#: core/license/admin/class-wcfm-license.php:16
+#: core/license/admin/class-wcfm-license.php:17
+msgid "WCFM License"
+msgstr ""
+
+#: core/license/admin/class-wcfm-license.php:79
+#, php-format
+msgid "<h2>%s License</h2>"
+msgstr ""
+
+#: core/license/admin/class-wcfm-license.php:86
+#, php-format
+msgid ""
+"<h4 style='border-bottom: 1px solid rgb(215, 211, 211);padding-bottom: 21px;"
+"'>%s</h4>"
+msgstr ""
+
+#: core/license/admin/class-wcfmgs-settings-license.php:51
+msgid "License Activation"
+msgstr ""
+
+#: core/license/admin/class-wcfmgs-settings-license.php:52
+msgid "API License Key"
+msgstr ""
+
+#: core/license/admin/class-wcfmgs-settings-license.php:53
+msgid "API License email"
+msgstr ""
+
+#: core/license/admin/class-wcfmgs-settings-license.php:56
+msgid "License Deactivation"
+msgstr ""
+
+#: core/license/admin/class-wcfmgs-settings-license.php:57
+msgid "Deactivate API License Key"
+msgstr ""
+
+#: core/license/admin/class-wcfmgs-settings-license.php:57
+msgid "Deactivates an API License Key so it can be used on another blog."
+msgstr ""
+
+#: core/license/admin/class-wcfmgs-settings-license.php:246
+msgid "Please insert your license key."
+msgstr ""
+
+#: core/license/admin/class-wcfmgs-settings-license.php:256
+msgid "Please insert your license email."
+msgstr ""
+
+#: core/license/admin/class-wcfmgs-settings-license.php:285
+msgid "Plugin activated. "
+msgstr ""
+
+#: core/license/admin/class-wcfmgs-settings-license.php:293
+msgid "Connection failed to the License Key API server. Try again later."
+msgstr ""
+
+#: core/license/admin/class-wcfmgs-settings-license.php:358
+msgid "Plugin license deactivated."
+msgstr ""
+
+#: core/license/admin/class-wcfmgs-settings-license.php:382
+msgid ""
+"The license could not be deactivated. Use the License Deactivation tab to "
+"manually deactivate the license before activating a new license."
+msgstr ""
+
+#: core/license/classes/class-wcfmgs-update.php:373
+#, php-format
+msgid ""
+"The license key for %s has expired. You can reactivate or purchase a license "
+"key from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: core/license/classes/class-wcfmgs-update.php:388
+#, php-format
+msgid ""
+"The subscription for %s is on-hold. You can reactivate the subscription from "
+"your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: core/license/classes/class-wcfmgs-update.php:403
+#, php-format
+msgid ""
+"The subscription for %s has been cancelled. You can renew the subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>. A new "
+"license key will be emailed to you after your order has been completed."
+msgstr ""
+
+#: core/license/classes/class-wcfmgs-update.php:418
+#, php-format
+msgid ""
+"The subscription for %s has expired. You can reactivate the subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: core/license/classes/class-wcfmgs-update.php:433
+#, php-format
+msgid ""
+"The subscription for %s has been suspended. You can reactivate the "
+"subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</a>"
+"."
+msgstr ""
+
+#: core/license/classes/class-wcfmgs-update.php:448
+#, php-format
+msgid ""
+"The subscription for %s is still pending. You can check on the status of the "
+"subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</a>"
+"."
+msgstr ""
+
+#: core/license/classes/class-wcfmgs-update.php:463
+#, php-format
+msgid ""
+"The subscription for %s has been placed in the trash and will be deleted "
+"soon. You can purchase a new subscription from your account <a href=\"%s\" "
+"target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: core/license/classes/class-wcfmgs-update.php:478
+#, php-format
+msgid ""
+"A subscription for %s could not be found. You can purchase a subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: core/license/classes/class-wcfmgs-update.php:493
+#, php-format
+msgid ""
+"A license key for %s could not be found. Maybe you forgot to enter a license "
+"key when setting up %s, or the key was deactivated in your account. You can "
+"reactivate or purchase a license key from your account <a href=\"%s\" "
+"target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: core/license/classes/class-wcfmgs-update.php:508
+#, php-format
+msgid ""
+"Download permission for %s has been revoked possibly due to a license key or "
+"subscription expiring. You can reactivate or purchase a license key from "
+"your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: core/license/classes/class-wcfmgs-update.php:523
+#, php-format
+msgid ""
+"%s has not been activated. Go to the settings page and enter the license key "
+"and license email to activate %s."
+msgstr ""
+
+#: core/license/classes/class-wcfmgs-update.php:538
+#, php-format
+msgid ""
+"You changed the subscription for %s, so you will need to enter your new API "
+"License Key in the settings page. The License Key should have arrived in "
+"your email inbox, if not you can get it by logging into your account <a "
+"href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#. Name of the plugin
+msgid "WooCommerce Frontend Manager - Groups & Staffs"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Now categorize your Store Vendors and control Shop Managers & Staffs. "
+"Smartly and Peacfully."
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://wclovers.com"
+msgstr ""
+
+#. Author of the plugin
+msgid "WC Lovers"
+msgstr ""
+
+#: controllers/wcfmgs-controller-managers-manage.php:80
+#: controllers/wcfmgs-controller-staffs-manage.php:128
+#: core/class-wcfmgs-frontend.php:204
+msgid "Dear"
+msgstr "Caro"
+
+#: core/class-wcfmgs-frontend.php:230
+msgid "New account mail subject"
+msgstr "Nova conta assunto do mail"
+
+#: core/class-wcfmgs-frontend.php:231
+msgid "New account mail body"
+msgstr "Novo conta corpo de mail"
+
+#: core/class-wcfmgs-vendor-groups.php:54
+msgid "Vendor Groups"
+msgstr "Grupos de vendedores"
+
+#: core/class-wcfmgs-vendor-groups.php:103
+#: views/wcfmgs-view-groups-manage.php:93
+#: views/wcfmgs-view-groups-manage.php:93 views/wcfmgs-view-groups.php:24
+#: views/wcfmgs-view-managers.php:59 views/wcfmgs-view-managers.php:68
+msgid "Groups"
+msgstr "Grupos"
+
+#: views/wcfmgs-view-groups-manage.php:82
+msgid "Manage Group"
+msgstr "Editar grupo"
+
+#: views/wcfmgs-view-groups-manage.php:90
+msgid "Edit Group"
+msgstr "Editar grupo"
+
+#: views/wcfmgs-view-groups-manage.php:90
+msgid "Add Group"
+msgstr "Adicionar grupo"
+
+#: views/wcfmgs-view-groups-manage.php:100 views/wcfmgs-view-managers.php:57
+#: views/wcfmgs-view-managers.php:66 views/wcfmgs-view-staffs.php:57
+#: views/wcfmgs-view-staffs.php:65
+msgid "Name"
+msgstr "Nome"
+
+#: views/wcfmgs-view-groups-manage.php:101
+msgid "Description"
+msgstr "Descrição"
+
+#: views/wcfmgs-view-groups-manage.php:114
+msgid "Vendors"
+msgstr "Vendedores"
+
+#: views/wcfmgs-view-groups-manage.php:153
+msgid "Submit"
+msgstr "Submeter"
+
+#: views/wcfmgs-view-groups.php:36
+msgid "Add New Group"
+msgstr "Adicionar novo grupo"
+
+#: views/wcfmgs-view-groups.php:46 views/wcfmgs-view-groups.php:54
+msgid "Group"
+msgstr "Grupo"
+
+#: views/wcfmgs-view-groups.php:49 views/wcfmgs-view-groups.php:57
+#: views/wcfmgs-view-managers.php:60 views/wcfmgs-view-managers.php:69
+#: views/wcfmgs-view-staffs.php:59 views/wcfmgs-view-staffs.php:67
+msgid "Actions"
+msgstr "Ações"
+
+#: views/wcfmgs-view-managers-manage.php:58
+msgid "Edit Manager"
+msgstr "Editar manager"
+
+#: views/wcfmgs-view-managers-manage.php:58
+msgid "Add Manager"
+msgstr "Adicionar manager"
+
+#: views/wcfmgs-view-managers-manage.php:70 views/wcfmgs-view-managers.php:46
+msgid "Add New Manager"
+msgstr "Adicionar novo manager"
+
+#: views/wcfmgs-view-managers-manage.php:85
+#: views/wcfmgs-view-staffs-manage.php:200
+msgid "First Name"
+msgstr "Primeiro nome"
+
+#: views/wcfmgs-view-managers-manage.php:86
+#: views/wcfmgs-view-staffs-manage.php:201
+msgid "Last Name"
+msgstr "Último nome"
+
+#: views/wcfmgs-view-staffs-manage.php:173
+msgid "Edit Staff"
+msgstr "Editar staff"
+
+#: views/wcfmgs-view-staffs-manage.php:173
+msgid "Add Staff"
+msgstr "Adicionar staff"
+
+#: views/wcfmgs-view-staffs-manage.php:185 views/wcfmgs-view-staffs.php:46
+msgid "Add New Staff"
+msgstr "Adicionar novo staff"
